@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<people>
+<person>
+<first_name>first_name</first_name>
+<last_name>last_name</last_name>
+<full_name>full_name</full_name>
+<link>link</link>
+<district>district</district>
+<party>party</party>
+</person>
+<person>
+<first_name>George</first_name>
+<last_name>Butterfield</last_name>
+<full_name>G.K. Butterfield </full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014</link>
+<district>1</district>
+<party>Democrat</party>
+</person>
+<person>
+<first_name>Renee</first_name>
+<last_name>Ellmers</last_name>
+<full_name>Renee Ellmers</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00031513&amp;newMem=N&amp;cycle=2014</link>
+<district>2</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Walter</first_name>
+<last_name>Jones Jr.</last_name>
+<full_name>Walter Jones Jr. </full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299</link>
+<district>3</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>David</first_name>
+<last_name>Price</last_name>
+<full_name>David Price</full_name>
+<link>https://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;type=I&amp;cid=N00002260&amp;newMem=N&amp;recs=20</link>
+<district>4</district>
+<party>Democrat</party>
+</person>
+<person>
+<first_name>Virginia</first_name>
+<last_name>Foxx</last_name>
+<full_name>Virginia Foxx</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014</link>
+<district>5</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Bradley</first_name>
+<last_name>Walker</last_name>
+<full_name>Bradley Walker</full_name>
+<link>http://influenceexplorer.com/politician/bradley-walker-r/56f3daa153564e82b93a2c12ecfbb8cc</link>
+<district>6</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>David</first_name>
+<last_name>Rouzer</last_name>
+<full_name>David Rouzer</full_name>
+<link>https://www.opensecrets.org/politicians/contrib.php?cid=N00033527&amp;cycle=2014&amp;type=I&amp;newMem=Y&amp;recs=100</link>
+<district>7</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Richard</first_name>
+<last_name>Hudson</last_name>
+<full_name>Richard Hudson</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00033630&amp;newMem=N&amp;cycle=2014</link>
+<district>8</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Robert</first_name>
+<last_name>Pittenger</last_name>
+<full_name>Robert Pittenger</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00034416&amp;newMem=N&amp;cycle=2014</link>
+<district>9</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Patrick</first_name>
+<last_name>McHenry</last_name>
+<full_name>Patrick McHenry</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026627&amp;newMem=N&amp;cycle=2014</link>
+<district>10</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Mark</first_name>
+<last_name>Meadows</last_name>
+<full_name>Mark Meadows</full_name>
+<link>https://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00033631&amp;newMem=N&amp;cycle=2014</link>
+<district>11</district>
+<party>Republican</party>
+</person>
+<person>
+<first_name>Alma</first_name>
+<last_name>Adams</last_name>
+<full_name>Alma Adams</full_name>
+<link>https://www.opensecrets.org/politicians/contrib.php?cid=N00035451&amp;cycle=2014</link>
+<district>12</district>
+<party>Democrat</party>
+</person>
+<person>
+<first_name>George</first_name>
+<last_name>Holding</last_name>
+<full_name>George Holding</full_name>
+<link>http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00033399&amp;newMem=N&amp;cycle=2014</link>
+<district>13</district>
+<party>Republican</party>
+</person>
+</people>

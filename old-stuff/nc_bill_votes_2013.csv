@@ -1,0 +1,2048 @@
+chamber,bill_id,vote_id,vote_chamber,motion,date,type,yes_count,no_count,other_count
+upper,SR 1,NCV00007612,upper,Motion 8 To Adopt,2013-01-09,other,47,0,3
+upper,SB 4,NCV00007614,upper,Motion 9 To Concur,2013-02-19,other,1,47,2
+upper,SB 10,NCV00007619,upper,Motion 9 To Concur,2013-03-05,other,2,48,0
+upper,SR 41,NCV00007633,upper,Motion 8 To Adopt,2013-02-05,other,49,0,1
+upper,SR 46,NCV00007634,upper,Motion 8 To Adopt,2013-02-14,other,44,0,6
+upper,SR 66,NCV00007635,upper,Motion 8 To Adopt,2013-02-12,other,49,0,1
+upper,SR 110,NCV00007642,upper,Motion 8 To Adopt,2013-02-21,other,43,0,7
+upper,SR 141,NCV00007643,upper,Motion 8 To Adopt,2013-02-28,other,48,0,2
+lower,HB 5,NCV00007657,lower,M11 Concur,2013-02-26,other,113,0,7
+upper,SR 251,NCV00007692,upper,Motion 8 To Adopt,2013-03-12,other,49,0,1
+lower,HB 23,NCV00007693,lower,M11 Concur,2013-03-12,other,118,0,2
+upper,SJR 2,NCV00007708,upper,Second Reading,2013-01-09,other,48,0,2
+upper,SJR 2,NCV00007709,lower,Second Reading,2013-01-09,other,116,0,3
+upper,SB 4,NCV00007710,upper,SECOND READING,2013-02-04,other,31,17,2
+upper,SB 4,NCV00007711,upper,Conference Rpt Motion 8 To Adopt,2013-02-26,other,31,16,3
+upper,SB 4,NCV00007712,upper,THIRD READING,2013-02-05,other,32,17,1
+upper,SB 4,NCV00007713,lower,M3 To Lay On The Table/Re-Ref HHS  Third Reading,2013-02-14,other,75,40,5
+upper,SB 4,NCV00007714,lower,Third Reading,2013-02-14,other,75,42,3
+upper,SB 4,NCV00007715,lower,C RPT Adopted,2013-02-26,other,74,40,6
+upper,SB 4,NCV00007716,lower,A3 Tine   Second Reading,2013-02-13,other,38,73,9
+upper,SB 4,NCV00007717,lower,Second Reading,2013-02-13,other,75,39,6
+upper,SB 4,NCV00007718,lower,A1 Insko   Second Reading,2013-02-13,other,40,75,5
+upper,SB 4,NCV00007719,lower,A2 Farmer-Butterfield   Second Reading,2013-02-13,other,40,75,5
+upper,SB 10,NCV00007720,upper,Amendment 2,2013-02-06,other,15,33,2
+upper,SB 10,NCV00007721,upper,Amendment 1,2013-02-06,other,45,3,2
+upper,SB 10,NCV00007722,upper,Second Reading,2013-02-06,other,33,16,1
+upper,SB 10,NCV00007723,upper,Amendment 4,2013-02-06,other,17,32,1
+upper,SB 10,NCV00007725,upper,Amendment 5,2013-02-07,other,49,0,1
+upper,SB 10,NCV00007726,upper,Third Reading,2013-02-07,other,35,14,1
+upper,SB 10,NCV00007727,upper,Amendment 3,2013-02-06,other,18,30,2
+upper,SB 10,NCV00007728,lower,A3 Hamilton M3 To Lay On The Table  Second Reading,2013-02-28,other,59,41,20
+upper,SB 10,NCV00007729,lower,Second Reading,2013-02-28,other,70,42,8
+upper,SB 10,NCV00007730,lower,A1 Catlin   Second Reading,2013-02-28,other,111,1,8
+upper,SB 10,NCV00007731,lower,A2 Harrison   Second Reading,2013-02-28,other,35,76,9
+upper,SB 10,NCV00007732,lower,A5 Luebke   Third Reading,2013-03-04,other,42,73,5
+upper,SB 10,NCV00007733,lower,"A4 Hall, L. M3 To Lay On The Table  Third Reading",2013-03-04,other,72,43,5
+upper,SB 10,NCV00007734,lower,Third Reading,2013-03-04,other,71,43,6
+upper,SB 11,NCV00007735,upper,SECOND READING,2013-03-06,other,50,0,0
+upper,SB 14,NCV00007736,upper,SECOND READING,2013-02-07,other,49,0,1
+upper,SB 14,NCV00007737,lower,Second Reading,2013-02-13,other,110,1,9
+upper,SB 16,NCV00007738,upper,SECOND READING,2013-02-26,other,48,0,2
+upper,SB 20,NCV00007739,upper,Amendment 1,2013-03-05,other,50,0,0
+upper,SB 20,NCV00007740,upper,Second Reading,2013-03-05,other,50,0,0
+upper,SB 24,NCV00007741,upper,SECOND READING,2013-03-06,other,50,0,0
+upper,SB 33,NCV00007742,upper,SECOND READING,2013-03-05,other,50,0,0
+upper,SB 36,NCV00007743,upper,SECOND READING,2013-02-25,other,43,0,7
+upper,SB 36,NCV00007744,lower,A1 Murry   Second Reading,2013-03-13,other,117,0,3
+upper,SB 36,NCV00007745,lower,Second Reading,2013-03-13,other,117,0,3
+upper,SB 38,NCV00007746,upper,SECOND READING,2013-03-13,other,50,0,0
+upper,SB 42,NCV00007747,upper,SECOND READING,2013-03-04,other,42,3,5
+upper,SB 43,NCV00007748,upper,SECOND READING,2013-02-27,other,46,0,4
+upper,SB 44,NCV00007749,upper,SECOND READING,2013-02-27,other,46,0,4
+upper,SB 45,NCV00007750,upper,SECOND READING,2013-03-06,other,50,0,0
+upper,SJR 47,NCV00007751,upper,Third Reading,2013-02-06,other,48,1,1
+upper,SJR 47,NCV00007752,upper,SECOND READING,2013-02-06,other,48,1,1
+upper,SJR 47,NCV00007753,lower,Second Reading,2013-02-12,other,115,0,5
+upper,SB 50,NCV00007754,upper,SECOND READING,2013-02-13,other,48,0,2
+upper,SB 51,NCV00007755,upper,SECOND READING,2013-02-27,other,46,0,4
+upper,SB 56,NCV00007756,upper,THIRD READING,2013-03-04,other,45,0,5
+upper,SB 56,NCV00007757,upper,SECOND READING,2013-02-28,other,48,0,2
+upper,SB 72,NCV00007758,upper,SECOND READING,2013-02-25,other,43,0,7
+upper,SB 72,NCV00007759,lower,Third Reading,2013-03-11,other,113,0,7
+upper,SB 72,NCV00007760,lower,Second Reading,2013-03-07,other,112,0,8
+upper,SB 76,NCV00007761,upper,Amendment 5,2013-02-26,other,45,3,2
+upper,SB 76,NCV00007762,upper,Amendment 4,2013-02-26,other,36,12,2
+upper,SB 76,NCV00007763,upper,Amendment 2,2013-02-26,other,48,0,2
+upper,SB 76,NCV00007764,upper,Amendment 1,2013-02-26,other,47,0,3
+upper,SB 76,NCV00007765,upper,THIRD READING,2013-02-27,other,39,7,4
+upper,SB 76,NCV00007766,upper,Amendment 6,2013-02-26,other,14,34,2
+upper,SB 76,NCV00007767,upper,Second Reading,2013-02-26,other,38,10,2
+upper,SB 81,NCV00007768,upper,Amendment 3,2013-03-12,other,17,32,1
+upper,SB 81,NCV00007769,upper,Amendment 4,2013-03-12,other,16,33,1
+upper,SB 81,NCV00007770,upper,Amendment 1,2013-03-12,other,35,14,1
+upper,SB 81,NCV00007771,upper,Amendment 2,2013-03-12,other,17,32,1
+upper,SB 81,NCV00007772,upper,Second Reading,2013-03-12,other,33,16,1
+upper,SB 81,NCV00007773,upper,THIRD READING,2013-03-13,other,32,18,0
+upper,SB 84,NCV00007774,upper,SECOND READING,2013-02-28,other,48,0,2
+upper,SB 95,NCV00007776,lower,Second Reading,2013-03-11,other,114,0,6
+upper,SB 97,NCV00007777,upper,SECOND READING,2013-03-04,other,45,0,5
+upper,SB 97,NCV00007778,upper,THIRD READING,2013-03-05,other,50,0,0
+upper,SB 113,NCV00007779,upper,SECOND READING,2013-03-06,other,50,0,0
+upper,SB 117,NCV00007780,upper,SECOND READING,2013-03-13,other,50,0,0
+upper,SB 122,NCV00007781,upper,Second Reading,2013-03-04,other,45,0,5
+upper,SB 123,NCV00007782,upper,SECOND READING,2013-03-11,other,45,0,5
+upper,SJR 133,NCV00007783,upper,Second Reading,2013-02-28,other,48,0,2
+upper,SJR 133,NCV00007784,lower,Second Reading,2013-02-28,other,107,0,13
+lower,HR 1,NCV00007785,lower,R2 For Adoption,2013-01-09,other,87,32,0
+lower,HR 2,NCV00007786,lower,R2 For Adoption,2013-01-31,other,120,0,0
+lower,HR 3,NCV00007787,lower,R2 For Adoption,2013-01-31,other,120,0,0
+lower,HB 4,NCV00007788,upper,Second Reading,2013-02-12,other,36,13,1
+lower,HB 4,NCV00007789,upper,Third Reading,2013-02-13,other,36,12,2
+lower,HB 4,NCV00007790,upper,Amendment 2,2013-02-12,other,17,32,1
+lower,HB 4,NCV00007791,upper,Amendment 3,2013-02-12,other,16,32,2
+lower,HB 4,NCV00007792,upper,Amendment 4,2013-02-12,other,17,32,1
+lower,HB 4,NCV00007793,upper,Amendment 5,2013-02-12,other,17,32,1
+lower,HB 4,NCV00007794,lower,A1 Tine   Second Reading,2013-02-04,other,42,74,4
+lower,HB 4,NCV00007795,lower,"A4 Ross, D.   Second Reading",2013-02-04,other,43,75,2
+lower,HB 4,NCV00007797,lower,"A6 Hall, D.   Second Reading",2013-02-04,other,40,78,2
+lower,HB 4,NCV00007798,lower,A5 Wilkins   Second Reading,2013-02-04,other,40,78,2
+lower,HB 4,NCV00007799,lower,A7 Glazier   Third Reading,2013-02-05,other,46,73,1
+lower,HB 4,NCV00007800,lower,Second Reading,2013-02-04,other,78,41,1
+lower,HB 4,NCV00007801,lower,Third Reading,2013-02-05,other,77,42,1
+lower,HB 4,NCV00007802,lower,A8 Queen   Third Reading,2013-02-05,other,42,77,1
+lower,HB 4,NCV00007803,lower,A2 Luebke   Second Reading,2013-02-04,other,40,78,2
+lower,HB 5,NCV00007804,upper,Amendment 1,2013-02-21,other,43,0,7
+lower,HB 5,NCV00007805,upper,Second Reading,2013-02-21,other,43,0,7
+lower,HB 5,NCV00007806,lower,Second Reading,2013-01-31,other,116,0,4
+lower,HB 8,NCV00007807,lower,Second Reading,2013-02-12,other,110,8,2
+lower,HB 8,NCV00007808,lower,Third Reading,2013-02-12,other,110,8,2
+lower,HB 10,NCV00007809,upper,Third Reading,2013-03-07,other,33,17,0
+lower,HB 10,NCV00007810,upper,Amendment 2,2013-03-07,other,36,14,0
+lower,HB 10,NCV00007811,upper,Second Reading,2013-03-06,other,37,13,0
+lower,HB 10,NCV00007812,lower,Second Reading,2013-02-13,other,79,37,4
+lower,HB 10,NCV00007813,lower,Third Reading,2013-02-14,other,87,29,4
+lower,HB 13,NCV00007814,lower,Second Reading,2013-02-14,other,116,0,4
+lower,HB 13,NCV00007815,lower,"A1 Ross, D.   Second Reading",2013-02-14,other,113,2,5
+lower,HB 13,NCV00007816,lower,A2 Blackwell   Third Reading,2013-02-19,other,116,0,4
+lower,HB 13,NCV00007817,lower,Third Reading,2013-02-19,other,115,1,4
+lower,HB 19,NCV00007819,upper,SECOND READING,2013-02-27,other,46,0,4
+lower,HB 19,NCV00007820,lower,Second Reading,2013-02-12,other,118,0,2
+lower,HJR 20,NCV00007821,upper,Second Reading,2013-02-26,other,46,0,4
+lower,HJR 20,NCV00007822,lower,Second Reading,2013-01-31,other,119,0,1
+lower,HB 23,NCV00007823,upper,SECOND READING,2013-03-07,other,50,0,0
+lower,HB 24,NCV00007825,lower,Third Reading,2013-02-14,other,116,0,4
+lower,HB 24,NCV00007826,lower,Second Reading,2013-02-13,other,117,0,3
+lower,HB 24,NCV00007828,lower,A2 Baskerville   Third Reading,2013-02-14,other,116,0,4
+lower,HB 29,NCV00007830,lower,Second Reading,2013-02-20,other,116,1,3
+lower,HJR 36,NCV00007831,upper,Second Reading,2013-02-26,other,47,0,3
+lower,HJR 36,NCV00007832,lower,Second Reading,2013-02-26,other,114,0,6
+lower,HB 44,NCV00007833,upper,SECOND READING,2013-03-07,other,50,0,0
+lower,HB 44,NCV00007834,lower,Second Reading,2013-02-14,other,112,1,7
+lower,HB 45,NCV00007835,lower,Second Reading,2013-03-13,other,118,0,2
+lower,HB 45,NCV00007836,lower,A1 Horn   Second Reading,2013-03-13,other,113,0,7
+lower,HR 52,NCV00007837,lower,R2 For Adoption,2013-02-04,other,116,0,4
+lower,HR 54,NCV00007838,lower,R2 For Adoption,2013-02-06,other,98,21,1
+lower,HR 54,NCV00007839,lower,A2 Blust   R2 For Adoption,2013-02-06,other,117,0,3
+lower,HR 54,NCV00007840,lower,A3 Jackson   R2 For Adoption,2013-02-06,other,42,77,1
+lower,HR 54,NCV00007841,lower,"A4 Hall, L.   R2 For Adoption",2013-02-06,other,117,0,3
+lower,HR 54,NCV00007842,lower,"A5 Hall, L.   R2 For Adoption",2013-02-06,other,42,76,2
+lower,HR 54,NCV00007843,lower,A1 Luebke   R2 For Adoption,2013-02-06,other,42,77,1
+lower,HB 56,NCV00007844,lower,Second Reading,2013-02-28,other,112,0,8
+lower,HJR 64,NCV00007845,upper,Second Reading,2013-02-06,other,49,0,1
+lower,HB 66,NCV00007847,upper,SECOND READING,2013-02-21,other,41,2,7
+lower,HB 66,NCV00007848,lower,Second Reading,2013-02-12,other,101,13,6
+lower,HB 66,NCV00007849,lower,A1 Hager   Second Reading,2013-02-12,other,104,11,5
+lower,HB 66,NCV00007851,lower,A2 Insko   Third Reading,2013-02-13,other,37,80,3
+lower,HB 75,NCV00007852,lower,Second Reading,2013-03-12,other,118,0,2
+lower,HB 77,NCV00007853,upper,SECOND READING,2013-02-28,other,48,0,2
+lower,HB 77,NCV00007854,lower,Second Reading,2013-02-19,other,115,1,4
+lower,HB 77,NCV00007855,lower,Third Reading,2013-02-20,other,117,0,3
+lower,HR 80,NCV00007856,lower,R2 For Adoption,2013-02-12,other,115,0,5
+lower,HR 81,NCV00007857,lower,R2 For Adoption,2013-02-12,other,115,0,5
+lower,HB 82,NCV00007858,upper,Amendment 1,2013-03-05,other,19,31,0
+lower,HB 82,NCV00007859,upper,Second Reading,2013-03-05,other,32,18,0
+lower,HB 82,NCV00007860,upper,THIRD READING,2013-03-06,other,33,17,0
+lower,HB 82,NCV00007861,lower,Second Reading,2013-02-19,other,75,41,4
+lower,HB 82,NCV00007862,lower,A1 Luebke   Second Reading,2013-02-19,other,42,74,4
+lower,HB 82,NCV00007863,lower,M4 Previous Question  Third Reading,2013-02-20,other,79,37,4
+lower,HB 82,NCV00007864,lower,Third Reading,2013-02-20,other,80,36,4
+lower,HR 85,NCV00007865,lower,R2 For Adoption,2013-02-12,other,118,0,2
+lower,HJR 91,NCV00007866,lower,Motion 12 - Change HR to HJR  Second Reading,2013-02-13,other,108,0,12
+lower,HJR 91,NCV00007867,lower,Second Reading,2013-02-13,other,109,0,11
+lower,HB 97,NCV00007869,lower,A2 Horn   Second Reading,2013-02-28,other,111,1,8
+lower,HB 97,NCV00007870,lower,Second Reading,2013-02-28,other,109,3,8
+lower,HB 98,NCV00007871,lower,Second Reading,2013-02-20,other,112,0,8
+lower,HB 105,NCV00007872,lower,Third Reading,2013-03-04,other,115,0,5
+lower,HB 105,NCV00007873,lower,Second Reading,2013-02-28,other,112,0,8
+lower,HB 105,NCV00007874,lower,A1 Murry   Second Reading,2013-02-28,other,111,1,8
+lower,HJR 113,NCV00007875,lower,Second Reading,2013-02-27,other,116,0,4
+lower,HB 114,NCV00007876,lower,Second Reading,2013-02-28,other,112,0,8
+lower,HB 119,NCV00007877,lower,Second Reading,2013-02-28,other,108,3,9
+lower,HB 120,NCV00007878,lower,Third Reading,2013-03-12,other,99,18,3
+lower,HB 120,NCV00007879,lower,A3 Luebke   Third Reading,2013-03-12,other,115,3,2
+lower,HB 120,NCV00007880,lower,A1 Hager   Second Reading,2013-03-11,other,109,3,8
+lower,HB 120,NCV00007881,lower,Second Reading,2013-03-11,other,88,26,6
+lower,HB 122,NCV00007883,lower,Second Reading,2013-03-04,other,115,0,5
+lower,HJR 138,NCV00007884,upper,SECOND READING,2013-02-28,other,47,0,3
+lower,HJR 138,NCV00007885,lower,Second Reading,2013-02-26,other,114,0,6
+lower,HB 139,NCV00007886,lower,Second Reading,2013-02-28,other,111,0,9
+lower,HB 140,NCV00007887,lower,Second Reading,2013-03-11,other,114,0,6
+lower,HB 142,NCV00007888,lower,Second Reading,2013-03-13,other,117,0,3
+lower,HB 147,NCV00007889,lower,Second Reading,2013-03-07,other,113,0,7
+lower,HB 180,NCV00007891,upper,SECOND READING,2013-03-13,other,50,0,0
+lower,HB 180,NCV00007892,lower,Second Reading,2013-03-06,other,114,0,6
+lower,HR 216,NCV00007893,lower,R2 For Adoption,2013-03-06,other,115,0,5
+lower,HR 275,NCV00007895,lower,A1   R2 For Adoption,2013-03-12,other,118,0,2
+upper,SB 168,NCV00007898,upper,SECOND READING,2013-03-19,other,40,7,3
+lower,HB 31,NCV00007899,lower,Second Reading,2013-03-19,other,108,10,2
+lower,HB 40,NCV00007901,lower,Second Reading,2013-03-19,other,115,3,2
+lower,HB 57,NCV00007902,lower,Second Reading,2013-03-19,other,118,0,2
+lower,HB 125,NCV00007903,lower,Second Reading,2013-03-19,other,117,0,3
+lower,HB 150,NCV00007904,lower,A1 Moffitt   Second Reading,2013-03-19,other,113,2,5
+lower,HB 150,NCV00007905,lower,Second Reading,2013-03-19,other,94,22,4
+lower,HB 161,NCV00007906,lower,A1 Whitmire   Second Reading,2013-03-19,other,116,0,4
+lower,HB 161,NCV00007907,lower,Second Reading,2013-03-19,other,87,31,2
+lower,HB 183,NCV00007908,lower,"A1 Moore, T.   Second Reading",2013-03-19,other,117,0,3
+lower,HB 189,NCV00007910,lower,Second Reading,2013-03-19,other,117,1,2
+lower,HB 209,NCV00007911,lower,Second Reading,2013-03-19,other,118,0,2
+lower,HJR 271,NCV00007912,lower,Second Reading,2013-03-19,other,117,0,3
+upper,SB 50,NCV00007914,lower,Second Reading,2013-03-20,other,117,0,3
+upper,SB 84,NCV00007915,lower,Second Reading,2013-03-20,other,114,0,6
+upper,SB 97,NCV00007916,lower,Second Reading,2013-03-20,other,117,0,3
+upper,SB 148,NCV00007917,upper,SECOND READING,2013-03-20,other,48,0,2
+upper,SB 168,NCV00007918,upper,THIRD READING,2013-03-20,other,48,0,2
+upper,SB 175,NCV00007919,upper,SECOND READING,2013-03-20,other,48,0,2
+upper,SB 200,NCV00007920,upper,SECOND READING,2013-03-20,other,48,0,2
+upper,SB 205,NCV00007921,upper,SECOND READING,2013-03-20,other,48,0,2
+lower,HB 18,NCV00007922,lower,Second Reading,2013-03-20,other,94,22,4
+lower,HB 150,NCV00007923,lower,Third Reading,2013-03-20,other,98,18,4
+lower,HB 150,NCV00007924,lower,A2 Dollar   Third Reading,2013-03-20,other,116,1,3
+lower,HB 180,NCV00007925,lower,M11 Concur,2013-03-20,other,115,0,5
+lower,HB 249,NCV00007927,lower,Second Reading,2013-03-20,other,117,0,3
+lower,HB 250,NCV00007928,lower,Second Reading,2013-03-20,other,117,0,3
+lower,HB 250,NCV00007929,lower,A1 Michaux   Second Reading,2013-03-20,other,117,0,3
+lower,HB 255,NCV00007930,lower,Second Reading,2013-03-20,other,114,1,5
+lower,HB 257,NCV00007931,lower,Second Reading,2013-03-20,other,114,0,6
+upper,SB 8,NCV00007933,upper,SECOND READING,2013-03-21,other,47,0,3
+upper,SB 36,NCV00007934,upper,Motion 9 To Concur,2013-03-21,other,1,46,3
+upper,SB 71,NCV00007935,upper,SECOND READING,2013-03-21,other,47,0,3
+upper,SB 83,NCV00007936,upper,SECOND READING,2013-03-21,other,47,0,3
+upper,SB 177,NCV00007937,upper,SECOND READING,2013-03-21,other,46,0,4
+upper,SB 200,NCV00007938,upper,Amendment 1,2013-03-21,other,47,0,3
+upper,SB 200,NCV00007939,upper,Third Reading,2013-03-21,other,47,0,3
+upper,SB 207,NCV00007940,upper,SECOND READING,2013-03-21,other,47,0,3
+upper,SB 45,NCV00007941,upper,Motion 9 To Concur,2013-03-26,other,50,0,0
+upper,SB 177,NCV00007942,upper,THIRD READING,2013-03-26,other,50,0,0
+upper,SB 223,NCV00007943,upper,SECOND READING,2013-03-26,other,49,1,0
+upper,SB 231,NCV00007944,upper,SECOND READING,2013-03-26,other,50,0,0
+upper,SB 334,NCV00007945,upper,Second Reading,2013-03-26,other,29,21,0
+upper,SB 334,NCV00007946,upper,Amendment 1,2013-03-26,other,30,20,0
+lower,HB 17,NCV00007947,lower,A1 Jackson   Second Reading,2013-03-26,other,116,0,4
+lower,HB 17,NCV00007948,lower,Second Reading,2013-03-26,other,97,20,3
+lower,HB 199,NCV00007950,lower,Second Reading,2013-03-26,other,114,0,6
+lower,HB 243,NCV00007951,lower,A1 Stevens   Second Reading,2013-03-26,other,114,0,6
+lower,HB 243,NCV00007952,lower,Second Reading,2013-03-26,other,70,44,6
+lower,HB 250,NCV00007953,lower,Third Reading,2013-03-26,other,114,1,5
+lower,HB 250,NCV00007954,lower,A2 Starnes   Third Reading,2013-03-26,other,113,1,6
+upper,SB 20,NCV00007955,lower,A1 Harrison   Second Reading,2013-03-27,other,113,5,2
+upper,SB 20,NCV00007956,lower,A2 Faircloth   Second Reading,2013-03-27,other,117,1,2
+upper,SB 20,NCV00007957,lower,Second Reading,2013-03-27,other,114,4,2
+upper,SB 33,NCV00007959,lower,Second Reading,2013-03-27,other,116,2,2
+upper,SB 97,NCV00007961,lower,Third Reading,2013-03-27,other,117,0,3
+upper,SB 159,NCV00007962,upper,SECOND READING,2013-03-27,other,48,1,1
+upper,SB 209,NCV00007963,upper,SECOND READING,2013-03-27,other,49,0,1
+upper,SB 228,NCV00007964,upper,SECOND READING,2013-03-27,other,49,0,1
+upper,SB 268,NCV00007965,upper,SECOND READING,2013-03-27,other,49,0,1
+lower,HR 47,NCV00007966,lower,R2 For Adoption,2013-03-27,other,119,0,1
+lower,HB 170,NCV00007967,lower,Second Reading,2013-03-27,other,115,2,3
+lower,HB 181,NCV00007968,lower,Third Reading,2013-03-27,other,89,28,3
+lower,HR 206,NCV00007970,lower,R2 For Adoption,2013-03-27,other,119,0,1
+lower,HR 342,NCV00007971,lower,R2 For Adoption,2013-03-27,other,118,0,2
+lower,HR 419,NCV00007972,lower,R2 For Adoption,2013-03-27,other,119,0,1
+upper,SB 11,NCV00007973,lower,Second Reading,2013-03-28,other,114,0,6
+upper,SB 20,NCV00007974,lower,Third Reading,2013-03-28,other,102,11,7
+upper,SB 159,NCV00007975,upper,THIRD READING,2013-03-28,other,48,0,2
+upper,SB 268,NCV00007976,upper,THIRD READING,2013-03-28,other,48,0,2
+upper,SB 280,NCV00007977,upper,SECOND READING,2013-03-28,other,49,0,1
+upper,SB 355,NCV00007978,upper,SECOND READING,2013-03-28,other,47,1,2
+lower,HB 191,NCV00007979,lower,Third Reading,2013-03-28,other,114,0,6
+lower,HB 222,NCV00007981,lower,A1 Moffitt   Second Reading,2013-03-28,other,112,0,8
+lower,HB 223,NCV00007982,lower,Second Reading,2013-03-28,other,113,0,7
+lower,HB 247,NCV00007983,lower,Second Reading,2013-03-28,other,102,10,8
+lower,HB 297,NCV00007985,lower,Second Reading,2013-03-28,other,110,0,10
+upper,SB 24,NCV00007986,lower,Second Reading,2013-04-02,other,105,12,3
+upper,SB 33,NCV00007987,upper,Motion 9 To Concur,2013-04-02,other,49,0,1
+upper,SB 208,NCV00007988,upper,Amendment 1,2013-04-02,other,49,0,1
+upper,SB 208,NCV00007989,upper,Second Reading,2013-04-02,other,35,14,1
+upper,SB 316,NCV00007990,upper,SECOND READING,2013-04-02,other,48,0,2
+upper,SR 543,NCV00007991,upper,Motion 8 To Adopt,2013-04-02,other,49,0,1
+lower,HB 11,NCV00007992,lower,Second Reading,2013-04-02,other,117,0,3
+lower,HB 89,NCV00007993,lower,Second Reading,2013-04-02,other,117,0,3
+lower,HB 243,NCV00007994,lower,A3 Luebke   Third Reading,2013-04-02,other,105,8,7
+lower,HB 243,NCV00007995,lower,A2 Murry   Third Reading,2013-04-02,other,102,11,7
+lower,HR 487,NCV00007997,lower,R2 For Adoption,2013-04-02,other,117,0,3
+upper,SB 20,NCV00007998,upper,Motion 9 To Concur,2013-04-03,other,47,0,3
+upper,SB 306,NCV00007999,upper,Amendment 1,2013-04-03,other,14,33,3
+upper,SB 306,NCV00008000,upper,Motion 11 Divide Quest,2013-04-03,other,14,33,3
+upper,SB 316,NCV00008002,upper,THIRD READING,2013-04-03,other,46,0,4
+lower,HB 11,NCV00008003,lower,Third Reading,2013-04-03,other,115,0,5
+lower,HJR 21,NCV00008004,lower,Third Reading,2013-04-03,other,81,32,7
+lower,HJR 21,NCV00008005,lower,Second Reading,2013-04-03,other,81,32,7
+lower,HB 211,NCV00008007,lower,Second Reading,2013-04-03,other,110,4,6
+lower,HB 224,NCV00008008,lower,Second Reading,2013-04-03,other,76,37,7
+lower,HB 224,NCV00008009,lower,A2 Fisher   Second Reading,2013-04-03,other,38,76,6
+lower,HB 243,NCV00008011,lower,"A4 Brawley, W.   Third Reading",2013-04-03,other,55,59,6
+lower,HB 243,NCV00008012,lower,Third Reading,2013-04-03,other,95,19,6
+lower,HB 252,NCV00008013,lower,Second Reading,2013-04-03,other,74,40,6
+lower,HB 254,NCV00008014,lower,Second Reading,2013-04-03,other,115,0,5
+lower,HJR 259,NCV00008015,lower,Second Reading,2013-04-03,other,116,0,4
+lower,HB 302,NCV00008016,lower,Second Reading,2013-04-03,other,110,0,10
+upper,SB 240,NCV00008018,upper,SECOND READING,2013-04-04,other,48,0,2
+upper,SB 336,NCV00008019,upper,SECOND READING,2013-04-04,other,48,0,2
+upper,SB 369,NCV00008020,upper,SECOND READING,2013-04-04,other,49,0,1
+upper,SB 379,NCV00008021,upper,SECOND READING,2013-04-04,other,49,0,1
+upper,SB 386,NCV00008022,upper,SECOND READING,2013-04-04,other,49,0,1
+upper,SB 387,NCV00008023,upper,SECOND READING,2013-04-04,other,49,0,1
+upper,SB 433,NCV00008024,upper,SECOND READING,2013-04-04,other,49,0,1
+upper,SB 445,NCV00008025,upper,Second Reading,2013-04-04,other,49,0,1
+upper,SB 445,NCV00008026,upper,Amendment 1,2013-04-04,other,49,0,1
+lower,HB 41,NCV00008027,lower,Second Reading,2013-04-04,other,109,1,10
+lower,HB 139,NCV00008028,upper,SECOND READING,2013-04-04,other,49,0,1
+lower,HB 163,NCV00008030,lower,Second Reading,2013-04-04,other,109,1,10
+lower,HB 214,NCV00008031,lower,Second Reading,2013-04-04,other,108,0,12
+lower,HB 302,NCV00008032,lower,Third Reading,2013-04-04,other,102,0,18
+lower,HB 384,NCV00008034,lower,Second Reading,2013-04-04,other,109,0,11
+lower,HB 384,NCV00008035,lower,A1 Stevens   Second Reading,2013-04-04,other,109,0,11
+lower,HB 387,NCV00008036,lower,Second Reading,2013-04-04,other,110,0,10
+lower,HB 435,NCV00008037,lower,A1 Langdon   Second Reading,2013-04-04,other,110,0,10
+lower,HB 435,NCV00008038,lower,Second Reading,2013-04-04,other,105,4,11
+lower,HB 490,NCV00008039,lower,Second Reading,2013-04-04,other,69,38,13
+lower,HB 490,NCV00008040,lower,A1 Stone   Second Reading,2013-04-04,other,106,2,12
+upper,SB 91,NCV00008041,lower,A1 Stam   Third Reading,2013-04-11,other,105,4,11
+upper,SB 91,NCV00008042,lower,Second Reading,2013-04-09,other,70,47,3
+upper,SB 98,NCV00008043,upper,Amendment 1,2013-04-11,other,46,0,4
+upper,SB 98,NCV00008044,upper,Second Reading,2013-04-11,other,46,0,4
+upper,SB 124,NCV00008046,upper,SECOND READING,2013-04-10,other,49,0,1
+upper,SB 140,NCV00008047,upper,Amendment 1,2013-04-09,other,41,5,4
+upper,SB 140,NCV00008048,upper,Third Reading,2013-04-09,other,46,0,4
+upper,SB 140,NCV00008049,upper,SECOND READING,2013-04-08,other,48,0,2
+upper,SB 175,NCV00008051,lower,Second Reading,2013-04-09,other,117,0,3
+upper,SR 196,NCV00008052,upper,Motion 8 To Adopt,2013-04-10,other,48,0,2
+upper,SB 228,NCV00008053,lower,Second Reading,2013-04-11,other,107,0,13
+upper,SB 234,NCV00008054,upper,SECOND READING,2013-04-10,other,49,0,1
+upper,SB 290,NCV00008055,upper,SECOND READING,2013-04-11,other,46,0,4
+upper,SB 353,NCV00008056,upper,Amendment 1,2013-04-08,other,48,0,2
+upper,SB 353,NCV00008057,upper,Second Reading,2013-04-08,other,48,0,2
+upper,SB 388,NCV00008058,upper,SECOND READING,2013-04-10,other,49,0,1
+upper,SB 411,NCV00008059,upper,SECOND READING,2013-04-10,other,49,0,1
+upper,SB 470,NCV00008060,upper,Amendment 1,2013-04-11,other,46,0,4
+upper,SB 470,NCV00008061,upper,Second Reading,2013-04-11,other,46,0,4
+upper,SB 528,NCV00008062,upper,SECOND READING,2013-04-10,other,49,0,1
+upper,SB 603,NCV00008063,upper,SECOND READING,2013-04-11,other,45,1,4
+upper,SB 659,NCV00008064,upper,SECOND READING,2013-04-11,other,46,0,4
+upper,SB 709,NCV00008065,upper,SECOND READING,2013-04-11,other,45,1,4
+lower,HB 110,NCV00008066,lower,Second Reading,2013-04-11,other,108,2,10
+lower,HB 127,NCV00008067,lower,M4 Previous Question  Second Reading,2013-04-10,other,101,15,4
+lower,HB 127,NCV00008069,lower,A1 Stam   Second Reading,2013-04-10,other,53,64,3
+lower,HB 137,NCV00008070,lower,Second Reading,2013-04-10,other,115,0,5
+lower,HB 139,NCV00008071,lower,M11 Concur,2013-04-10,other,116,0,4
+lower,HB 156,NCV00008072,lower,Second Reading,2013-04-11,other,99,12,9
+lower,HB 156,NCV00008073,lower,A1 Stam   Second Reading,2013-04-11,other,109,1,10
+lower,HB 192,NCV00008075,lower,Second Reading,2013-04-11,other,109,0,11
+lower,HB 193,NCV00008076,upper,SECOND READING,2013-04-11,other,45,0,5
+lower,HB 240,NCV00008077,lower,A1 Ramsey   Second Reading,2013-04-11,other,110,0,10
+lower,HB 240,NCV00008078,lower,Second Reading,2013-04-11,other,110,0,10
+lower,HB 261,NCV00008079,lower,Third Reading,2013-04-11,other,108,0,12
+lower,HB 261,NCV00008080,lower,Second Reading,2013-04-10,other,114,0,6
+lower,HB 276,NCV00008081,lower,Second Reading,2013-04-09,other,119,0,1
+lower,HB 293,NCV00008082,lower,Second Reading,2013-04-08,other,113,0,7
+lower,HB 296,NCV00008083,lower,Second Reading,2013-04-08,other,113,0,7
+lower,HB 313,NCV00008085,lower,A1 Blackwell   Second Reading,2013-04-11,other,109,0,11
+lower,HB 313,NCV00008086,lower,Second Reading,2013-04-11,other,109,0,11
+lower,HB 317,NCV00008087,lower,Second Reading,2013-04-08,other,114,0,6
+lower,HB 322,NCV00008088,lower,Second Reading,2013-04-09,other,119,0,1
+lower,HB 346,NCV00008089,lower,Third Reading,2013-04-11,other,107,0,13
+lower,HB 350,NCV00008092,lower,Second Reading,2013-04-08,other,114,0,6
+lower,HR 363,NCV00008093,lower,R2 For Adoption,2013-04-09,other,117,0,3
+lower,HB 383,NCV00008095,lower,Second Reading,2013-04-11,other,108,0,12
+lower,HB 386,NCV00008096,lower,Second Reading,2013-04-11,other,110,0,10
+lower,HB 386,NCV00008097,lower,A1 Glazier   Second Reading,2013-04-11,other,109,0,11
+lower,HB 388,NCV00008098,lower,Second Reading,2013-04-08,other,114,0,6
+lower,HB 392,NCV00008099,lower,Third Reading,2013-04-11,other,106,6,8
+lower,HB 392,NCV00008100,lower,Second Reading,2013-04-09,other,96,22,2
+lower,HB 396,NCV00008102,lower,Second Reading,2013-04-08,other,114,0,6
+lower,HB 407,NCV00008103,lower,Second Reading,2013-04-11,other,108,0,12
+lower,HB 416,NCV00008104,lower,Second Reading,2013-04-09,other,116,1,3
+lower,HB 433,NCV00008106,lower,Second Reading,2013-04-11,other,108,0,12
+lower,HB 439,NCV00008107,lower,Second Reading,2013-04-11,other,110,0,10
+lower,HB 467,NCV00008108,lower,Second Reading,2013-04-11,other,112,0,8
+lower,HB 488,NCV00008110,lower,A1 Stam   Second Reading,2013-04-11,other,104,5,11
+lower,HB 510,NCV00008111,lower,Second Reading,2013-04-11,other,108,0,12
+lower,HR 566,NCV00008112,lower,R2 For Adoption,2013-04-11,other,112,0,8
+lower,HJR 599,NCV00008114,lower,Second Reading,2013-04-11,other,104,0,16
+upper,SB 91,NCV00008115,lower,Third Reading,2013-04-15,other,87,25,8
+upper,SB 290,NCV00008116,upper,THIRD READING,2013-04-15,other,44,0,6
+upper,SB 358,NCV00008117,upper,Amendment 1,2013-04-15,other,43,0,7
+upper,SB 358,NCV00008118,upper,Second Reading,2013-04-15,other,43,0,7
+upper,SB 712,NCV00008119,upper,SECOND READING,2013-04-15,other,44,0,6
+lower,HB 88,NCV00008120,lower,Second Reading,2013-04-15,other,112,0,8
+lower,HB 240,NCV00008121,lower,Third Reading,2013-04-15,other,110,1,9
+lower,HB 289,NCV00008122,lower,Second Reading,2013-04-15,other,112,0,8
+lower,HB 321,NCV00008123,lower,Second Reading,2013-04-15,other,111,0,9
+lower,HB 333,NCV00008125,lower,Second Reading,2013-04-15,other,112,0,8
+lower,HB 390,NCV00008126,lower,Second Reading,2013-04-15,other,111,0,9
+lower,HB 482,NCV00008127,lower,Second Reading,2013-04-15,other,112,0,8
+lower,HB 488,NCV00008128,lower,Third Reading,2013-04-15,other,72,39,9
+lower,HB 506,NCV00008129,lower,A1 Horn   Second Reading,2013-04-15,other,109,0,11
+lower,HB 506,NCV00008130,lower,Second Reading,2013-04-15,other,109,0,11
+upper,SB 117,NCV00008131,upper,Motion 9 To Concur,2013-04-16,other,0,48,2
+upper,SB 122,NCV00008132,lower,Second Reading,2013-04-16,other,110,0,10
+upper,SB 222,NCV00008134,upper,SECOND READING,2013-04-16,other,48,0,2
+lower,HB 224,NCV00008135,upper,Amendment 1,2013-04-16,other,15,32,3
+lower,HB 224,NCV00008136,upper,Second Reading,2013-04-16,other,33,14,3
+lower,HB 591,NCV00008138,lower,Second Reading,2013-04-16,other,110,1,9
+lower,HR 667,NCV00008139,lower,R2 For Adoption,2013-04-16,other,112,0,8
+lower,HR 885,NCV00008140,lower,R2 For Adoption,2013-04-16,other,112,0,8
+upper,SB 91,NCV00008142,upper,Motion 9 To Concur,2013-04-17,other,0,46,4
+upper,SB 239,NCV00008143,upper,SECOND READING,2013-04-17,other,46,0,4
+upper,SB 426,NCV00008144,upper,Second Reading,2013-04-17,other,41,5,4
+upper,SB 426,NCV00008145,upper,Amendment 1,2013-04-17,other,46,0,4
+upper,SB 635,NCV00008146,upper,SECOND READING,2013-04-17,other,42,4,4
+upper,SB 639,NCV00008147,upper,SECOND READING,2013-04-17,other,44,2,4
+lower,HB 10,NCV00008148,lower,M11 Not Concur,2013-04-17,other,112,0,8
+lower,HB 75,NCV00008149,upper,SECOND READING,2013-04-17,other,46,0,4
+lower,HR 198,NCV00008150,lower,R2 For Adoption,2013-04-17,other,110,0,10
+lower,HB 203,NCV00008151,lower,Second Reading,2013-04-17,other,111,1,8
+lower,HB 272,NCV00008152,lower,Second Reading,2013-04-17,other,110,1,9
+upper,SB 180,NCV00008154,upper,SECOND READING,2013-04-18,other,44,0,6
+upper,SB 181,NCV00008155,upper,Second Reading,2013-04-18,other,43,1,6
+upper,SB 181,NCV00008156,upper,Amendment 1,2013-04-18,other,44,0,6
+upper,SB 317,NCV00008157,upper,SECOND READING,2013-04-18,other,28,16,6
+upper,SB 317,NCV00008158,upper,Third Reading,2013-04-18,other,28,16,6
+upper,SB 344,NCV00008159,upper,Amendment 1,2013-04-18,other,44,0,6
+upper,SB 344,NCV00008160,upper,Second Reading,2013-04-18,other,44,0,6
+upper,SB 430,NCV00008161,upper,SECOND READING,2013-04-18,other,44,0,6
+upper,SB 456,NCV00008162,upper,Amendment 1,2013-04-18,other,44,0,6
+upper,SB 456,NCV00008163,upper,Second Reading,2013-04-18,other,44,0,6
+upper,SB 520,NCV00008164,upper,SECOND READING,2013-04-18,other,44,0,6
+lower,HB 135,NCV00008165,lower,Second Reading,2013-04-18,other,113,0,7
+lower,HB 203,NCV00008167,lower,Third Reading,2013-04-18,other,112,1,7
+lower,HB 248,NCV00008170,lower,Second Reading,2013-04-18,other,113,0,7
+lower,HB 409,NCV00008171,lower,Second Reading,2013-04-18,other,113,0,7
+lower,HB 449,NCV00008172,lower,Second Reading,2013-04-18,other,114,0,6
+lower,HB 587,NCV00008174,lower,A1 Whitmire   Second Reading,2013-04-18,other,113,1,6
+lower,HB 587,NCV00008175,lower,Second Reading,2013-04-18,other,113,1,6
+lower,HB 588,NCV00008176,lower,Second Reading,2013-04-18,other,114,0,6
+lower,HB 719,NCV00008177,lower,A1 Holloway   Second Reading,2013-04-18,other,113,1,6
+upper,SB 56,NCV00008179,lower,Second Reading,2013-04-22,other,114,0,6
+upper,SB 287,NCV00008181,upper,Amendment 1,2013-04-22,other,46,3,1
+upper,SB 287,NCV00008182,upper,Second Reading,2013-04-22,other,26,23,1
+upper,SB 325,NCV00008183,upper,SECOND READING,2013-04-22,other,33,17,0
+upper,SB 325,NCV00008184,upper,Third Reading,2013-04-22,other,33,17,0
+upper,SB 377,NCV00008185,upper,SECOND READING,2013-04-22,other,49,1,0
+upper,SB 461,NCV00008186,upper,SECOND READING,2013-04-22,other,48,2,0
+upper,SB 539,NCV00008187,upper,SECOND READING,2013-04-22,other,50,0,0
+upper,SB 594,NCV00008188,upper,Amendment 2,2013-04-22,other,34,16,0
+upper,SB 594,NCV00008189,upper,Amendment 2 Motion 1 To Table,2013-04-22,other,17,33,0
+upper,SB 594,NCV00008190,upper,Second Reading,2013-04-22,other,35,15,0
+lower,HB 222,NCV00008191,lower,M11 Concur,2013-04-22,other,114,1,5
+lower,HB 238,NCV00008192,lower,Second Reading,2013-04-22,other,97,18,5
+lower,HB 242,NCV00008193,lower,Third Reading,2013-04-22,other,114,0,6
+lower,HB 315,NCV00008194,lower,Second Reading,2013-04-22,other,111,2,7
+lower,HB 332,NCV00008195,lower,Second Reading,2013-04-22,other,115,0,5
+lower,HB 409,NCV00008197,lower,Third Reading,2013-04-22,other,114,0,6
+lower,HB 474,NCV00008198,lower,Second Reading,2013-04-22,other,115,0,5
+lower,HB 597,NCV00008199,lower,Second Reading,2013-04-22,other,114,0,6
+lower,HB 636,NCV00008200,lower,Second Reading,2013-04-22,other,115,0,5
+lower,HB 652,NCV00008201,lower,A1 Davis   Second Reading,2013-04-22,other,115,0,5
+lower,HB 652,NCV00008202,lower,Second Reading,2013-04-22,other,116,0,4
+lower,HB 660,NCV00008203,lower,Second Reading,2013-04-22,other,114,2,4
+lower,HB 706,NCV00008204,lower,Second Reading,2013-04-22,other,104,12,4
+lower,HB 707,NCV00008205,lower,Second Reading,2013-04-22,other,116,0,4
+upper,SB 56,NCV00008206,lower,Third Reading,2013-04-23,other,115,0,5
+upper,SB 240,NCV00008207,lower,A1 Murry   Second Reading,2013-04-23,other,114,0,6
+upper,SB 240,NCV00008208,lower,Second Reading,2013-04-23,other,114,0,6
+lower,HB 238,NCV00008210,lower,Third Reading,2013-04-23,other,115,0,5
+lower,HB 278,NCV00008211,lower,Second Reading,2013-04-23,other,115,0,5
+lower,HB 641,NCV00008213,lower,Second Reading,2013-04-23,other,115,0,5
+lower,HB 641,NCV00008214,lower,A1 Davis   Second Reading,2013-04-23,other,114,0,6
+lower,HB 646,NCV00008215,lower,Second Reading,2013-04-23,other,115,0,5
+lower,HR 668,NCV00008216,lower,R2 For Adoption,2013-04-23,other,114,0,6
+lower,HB 701,NCV00008218,lower,Second Reading,2013-04-23,other,115,0,5
+lower,HB 701,NCV00008219,lower,A1 Saine   Second Reading,2013-04-23,other,114,0,6
+lower,HR 303,NCV00008220,lower,R2 For Adoption,2013-04-24,other,115,0,5
+lower,HR 572,NCV00008221,lower,R2 For Adoption,2013-04-24,other,115,0,5
+lower,HB 589,NCV00008222,lower,A6 Fisher   Second Reading,2013-04-24,other,113,4,3
+lower,HB 589,NCV00008223,lower,A7 Glazier   Second Reading,2013-04-24,other,40,74,6
+lower,HB 589,NCV00008224,lower,A8 Glazier   Second Reading,2013-04-24,other,39,73,8
+lower,HB 589,NCV00008225,lower,"A9 Hall, D.   Second Reading",2013-04-24,other,40,74,6
+lower,HB 589,NCV00008226,lower,A1 Tine   Second Reading,2013-04-24,other,116,0,4
+lower,HB 589,NCV00008227,lower,A2 Jackson   Second Reading,2013-04-24,other,40,77,3
+lower,HB 589,NCV00008228,lower,A4 Adams   Second Reading,2013-04-24,other,41,75,4
+lower,HB 589,NCV00008229,lower,"A5 Graham, C.   Second Reading",2013-04-24,other,109,9,2
+lower,HB 589,NCV00008230,lower,"A10 Ross, D.   Second Reading",2013-04-24,other,41,69,10
+lower,HB 589,NCV00008231,lower,Second Reading,2013-04-24,other,80,36,4
+lower,HB 589,NCV00008232,lower,Third Reading,2013-04-24,other,81,36,3
+upper,SB 10,NCV00008233,lower,C RPT Adopted,2013-04-25,other,0,116,4
+lower,HB 173,NCV00008234,lower,Second Reading,2013-04-25,other,112,1,7
+lower,HB 173,NCV00008235,lower,A1 Horn   Second Reading,2013-04-25,other,115,0,5
+lower,HR 210,NCV00008236,lower,R2 For Adoption,2013-04-25,other,110,0,10
+lower,HB 279,NCV00008237,lower,Second Reading,2013-04-25,other,116,0,4
+lower,HB 340,NCV00008238,lower,Second Reading,2013-04-25,other,113,2,5
+lower,HB 391,NCV00008240,lower,Second Reading,2013-04-25,other,115,0,5
+lower,HB 410,NCV00008241,lower,Second Reading,2013-04-25,other,117,0,3
+lower,HB 452,NCV00008242,lower,Second Reading,2013-04-25,other,116,0,4
+lower,HB 513,NCV00008244,lower,Second Reading,2013-04-25,other,115,2,3
+lower,HB 524,NCV00008245,lower,Second Reading,2013-04-25,other,115,0,5
+lower,HB 543,NCV00008246,lower,Second Reading,2013-04-25,other,117,0,3
+lower,HB 605,NCV00008247,lower,Second Reading,2013-04-25,other,116,0,4
+lower,HB 605,NCV00008248,lower,A1 Cotham   Second Reading,2013-04-25,other,116,0,4
+lower,HB 686,NCV00008250,lower,Second Reading,2013-04-25,other,115,1,4
+lower,HB 688,NCV00008251,lower,Second Reading,2013-04-25,other,115,2,3
+lower,HB 756,NCV00008253,lower,Second Reading,2013-04-25,other,116,0,4
+lower,HB 760,NCV00008254,lower,Second Reading,2013-04-25,other,114,0,6
+lower,HB 761,NCV00008255,lower,A1 Hager   Second Reading,2013-04-25,other,116,0,4
+lower,HB 761,NCV00008256,lower,Second Reading,2013-04-25,other,116,0,4
+lower,HB 824,NCV00008257,lower,Second Reading,2013-04-25,other,115,0,5
+lower,HR 1003,NCV00008259,lower,R2 For Adoption,2013-04-25,other,118,0,2
+upper,SB 10,NCV00008260,upper,Conference Rpt Motion 8 To Adopt,2013-04-25,other,32,18,0
+upper,SB 117,NCV00008261,upper,Conference Rpt Motion 8 To Adopt,2013-04-29,other,47,0,3
+upper,SB 137,NCV00008262,upper,SECOND READING,2013-04-25,other,45,0,5
+upper,SB 189,NCV00008263,upper,SECOND READING,2013-04-25,other,45,0,5
+upper,SB 240,NCV00008265,upper,Motion 9 To Concur,2013-04-29,other,47,0,3
+upper,SB 243,NCV00008266,upper,SECOND READING,2013-04-25,other,38,7,5
+upper,SB 287,NCV00008267,upper,THIRD READING,2013-04-23,other,26,22,2
+upper,SB 369,NCV00008268,upper,Motion 9 To Concur,2013-04-29,other,47,0,3
+upper,SB 378,NCV00008269,upper,SECOND READING,2013-04-25,other,43,0,7
+upper,SB 439,NCV00008270,upper,Second Reading,2013-04-25,other,45,0,5
+upper,SB 439,NCV00008271,upper,Amendment 1,2013-04-25,other,45,0,5
+upper,SB 452,NCV00008272,upper,SECOND READING,2013-04-29,other,44,4,2
+upper,SB 455,NCV00008273,upper,SECOND READING,2013-04-24,other,49,0,1
+upper,SB 505,NCV00008275,upper,SECOND READING,2013-04-29,other,48,0,2
+upper,SB 516,NCV00008276,upper,Second Reading,2013-04-29,other,48,0,2
+upper,SB 516,NCV00008277,upper,Amendment 1,2013-04-29,other,48,0,2
+upper,SB 520,NCV00008278,upper,Amendment 1,2013-04-29,other,47,0,3
+upper,SB 520,NCV00008279,upper,Third Reading,2013-04-29,other,47,0,3
+upper,SB 539,NCV00008280,upper,Third Reading,2013-04-23,other,49,0,1
+upper,SB 539,NCV00008281,upper,Amendment 1,2013-04-23,other,49,0,1
+upper,SB 545,NCV00008282,upper,SECOND READING,2013-04-24,other,49,0,1
+upper,SB 568,NCV00008283,upper,SECOND READING,2013-04-29,other,48,0,2
+lower,HB 247,NCV00008284,upper,SECOND READING,2013-04-29,other,40,7,3
+lower,HB 388,NCV00008285,upper,Second Reading,2013-04-24,other,49,0,1
+lower,HB 488,NCV00008286,upper,Motion 6 - Postpone to certain day  THIRD READING,2013-04-29,other,16,32,2
+lower,HB 488,NCV00008287,upper,Amendment 2,2013-04-29,other,48,0,2
+lower,HB 488,NCV00008288,upper,Third Reading,2013-04-29,other,31,16,3
+lower,HB 488,NCV00008289,upper,Amendment 1,2013-04-25,other,48,1,1
+lower,HB 488,NCV00008290,upper,Second Reading,2013-04-25,other,29,15,6
+lower,HJR 599,NCV00008291,upper,Second Reading,2013-04-25,other,35,0,15
+upper,SB 75,NCV00008292,lower,Second Reading,2013-04-30,other,118,0,2
+upper,SB 75,NCV00008293,lower,Third Reading,2013-04-30,other,118,0,2
+upper,SB 83,NCV00008294,lower,Second Reading,2013-04-30,other,117,0,3
+upper,SB 117,NCV00008295,lower,C RPT Adopted,2013-04-30,other,118,0,2
+upper,SB 152,NCV00008296,lower,Second Reading,2013-04-30,other,118,0,2
+upper,SB 152,NCV00008297,lower,Third Reading,2013-04-30,other,118,0,2
+lower,HB 108,NCV00008298,lower,Third Reading,2013-04-30,other,118,0,2
+lower,HB 108,NCV00008299,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 143,NCV00008301,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 153,NCV00008302,lower,Second Reading,2013-04-30,other,116,2,2
+lower,HB 173,NCV00008303,lower,A3 Horn   Third Reading,2013-04-30,other,117,0,3
+lower,HB 173,NCV00008304,lower,Third Reading,2013-04-30,other,117,1,2
+lower,HB 173,NCV00008305,lower,A4 Faircloth   Third Reading,2013-04-30,other,118,0,2
+lower,HB 379,NCV00008306,lower,Second Reading,2013-04-30,other,94,23,3
+lower,HB 399,NCV00008307,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 399,NCV00008308,lower,A1 Burr   Second Reading,2013-04-30,other,118,0,2
+lower,HB 404,NCV00008309,lower,Third Reading,2013-04-30,other,118,0,2
+lower,HB 404,NCV00008310,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 412,NCV00008311,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 422,NCV00008312,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 422,NCV00008313,lower,Third Reading,2013-04-30,other,118,0,2
+lower,HB 531,NCV00008314,lower,Third Reading,2013-04-30,other,83,35,2
+lower,HB 635,NCV00008317,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 662,NCV00008318,lower,Second Reading,2013-04-30,other,117,0,3
+lower,HB 763,NCV00008319,lower,Second Reading,2013-04-30,other,113,4,3
+lower,HB 769,NCV00008320,lower,Second Reading,2013-04-30,other,107,11,2
+lower,HB 788,NCV00008321,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 789,NCV00008322,lower,Second Reading,2013-04-30,other,118,0,2
+lower,HB 879,NCV00008323,lower,A1 Davis   Second Reading,2013-04-30,other,118,0,2
+upper,SB 98,NCV00008326,lower,Second Reading,2013-05-01,other,114,0,6
+upper,SB 129,NCV00008327,upper,SECOND READING,2013-05-01,other,47,1,2
+upper,SB 279,NCV00008328,upper,SECOND READING,2013-05-01,other,48,0,2
+upper,SB 341,NCV00008329,upper,SECOND READING,2013-05-01,other,48,0,2
+upper,SB 368,NCV00008330,upper,SECOND READING,2013-05-01,other,47,1,2
+upper,SB 456,NCV00008331,lower,Second Reading,2013-05-01,other,116,0,4
+upper,SB 507,NCV00008332,upper,SECOND READING,2013-05-01,other,48,0,2
+upper,SB 612,NCV00008333,upper,Second Reading,2013-05-01,other,36,12,2
+upper,SB 612,NCV00008334,upper,Amendment 1,2013-05-01,other,47,1,2
+upper,SB 612,NCV00008335,upper,Amendment 2,2013-05-01,other,45,3,2
+lower,HB 143,NCV00008336,lower,Third Reading,2013-05-01,other,114,0,6
+lower,HB 149,NCV00008337,upper,SECOND READING,2013-04-30,other,47,0,3
+lower,HB 200,NCV00008338,lower,Second Reading,2013-05-01,other,116,0,4
+lower,HB 327,NCV00008339,lower,Second Reading,2013-05-01,other,117,0,3
+lower,HB 331,NCV00008340,lower,Second Reading,2013-05-01,other,112,3,5
+lower,HB 412,NCV00008341,lower,Third Reading,2013-05-01,other,116,0,4
+lower,HB 484,NCV00008342,lower,A2 Tine   Second Reading,2013-05-01,other,114,0,6
+lower,HB 484,NCV00008343,lower,A1 Whitmire   Second Reading,2013-05-01,other,116,0,4
+lower,HB 484,NCV00008344,lower,Second Reading,2013-05-01,other,112,2,6
+lower,HB 523,NCV00008346,lower,Second Reading,2013-05-01,other,81,34,5
+lower,HB 555,NCV00008347,lower,M11 Concur,2013-05-01,other,114,1,5
+lower,HB 581,NCV00008348,lower,Second Reading,2013-05-01,other,113,1,6
+lower,HR 583,NCV00008349,lower,R2 For Adoption,2013-05-01,other,117,0,3
+lower,HJR 708,NCV00008351,lower,Second Reading,2013-05-01,other,114,1,5
+lower,HB 754,NCV00008352,lower,Second Reading,2013-05-01,other,116,0,4
+lower,HB 867,NCV00008353,lower,Second Reading,2013-05-01,other,116,0,4
+lower,HB 896,NCV00008354,lower,Second Reading,2013-05-01,other,116,0,4
+lower,HJR 898,NCV00008355,lower,Second Reading,2013-05-01,other,117,0,3
+lower,HB 903,NCV00008356,lower,Second Reading,2013-05-01,other,113,1,6
+upper,SB 58,NCV00008357,upper,SECOND READING,2013-05-02,other,35,13,2
+upper,SB 83,NCV00008358,upper,Motion 9 To Concur,2013-05-02,other,47,0,3
+upper,SB 320,NCV00008359,upper,SECOND READING,2013-05-02,other,48,0,2
+upper,SB 476,NCV00008360,upper,SECOND READING,2013-05-02,other,48,0,2
+upper,SB 486,NCV00008361,upper,SECOND READING,2013-05-02,other,48,0,2
+upper,SB 489,NCV00008362,upper,Amendment 4,2013-05-02,other,9,39,2
+upper,SB 489,NCV00008363,upper,Amendment 2,2013-05-02,other,48,0,2
+upper,SB 489,NCV00008364,upper,Amendment 1,2013-05-02,other,47,0,3
+upper,SB 489,NCV00008365,upper,Amendment 3,2013-05-02,other,14,34,2
+upper,SB 489,NCV00008366,upper,Amendment 6,2013-05-02,other,48,0,2
+upper,SB 489,NCV00008367,upper,Amendment 5,2013-05-02,other,48,0,2
+upper,SB 489,NCV00008368,upper,Second Reading,2013-05-02,other,39,9,2
+upper,SB 493,NCV00008369,upper,SECOND READING,2013-05-02,other,47,0,3
+upper,SB 547,NCV00008370,upper,SECOND READING,2013-05-02,other,47,0,3
+upper,SB 557,NCV00008371,upper,SECOND READING,2013-05-02,other,47,0,3
+upper,SB 612,NCV00008372,upper,Third Reading,2013-05-02,other,36,11,3
+upper,SB 612,NCV00008373,upper,Amendment 3,2013-05-02,other,47,0,3
+upper,SB 612,NCV00008374,upper,Amendment 4,2013-05-02,other,47,0,3
+lower,HJR 55,NCV00008375,lower,Second Reading,2013-05-02,other,112,0,8
+lower,HB 200,NCV00008377,lower,Third Reading,2013-05-02,other,112,0,8
+lower,HB 418,NCV00008378,lower,Second Reading,2013-05-02,other,110,0,10
+lower,HB 459,NCV00008379,lower,Second Reading,2013-05-02,other,112,0,8
+lower,HB 460,NCV00008380,lower,Second Reading,2013-05-02,other,111,0,9
+lower,HB 492,NCV00008383,lower,Second Reading,2013-05-02,other,111,0,9
+lower,HB 515,NCV00008384,lower,Second Reading,2013-05-02,other,109,0,11
+lower,HB 648,NCV00008385,lower,Second Reading,2013-05-02,other,112,0,8
+lower,HB 648,NCV00008386,lower,A1 Michaux   Second Reading,2013-05-02,other,112,0,8
+lower,HB 649,NCV00008387,lower,Second Reading,2013-05-02,other,109,0,11
+lower,HB 649,NCV00008388,lower,"A1 Brawley, R.   Second Reading",2013-05-02,other,108,1,11
+lower,HB 712,NCV00008389,lower,Second Reading,2013-05-02,other,111,0,9
+lower,HB 762,NCV00008390,lower,Second Reading,2013-05-02,other,108,0,12
+lower,HB 778,NCV00008391,lower,A1 Torbett   Second Reading,2013-05-02,other,112,0,8
+lower,HB 778,NCV00008392,lower,Second Reading,2013-05-02,other,112,0,8
+lower,HB 783,NCV00008393,lower,Second Reading,2013-05-02,other,112,0,8
+lower,HB 839,NCV00008395,lower,A1 Martin   Second Reading,2013-05-02,other,112,0,8
+lower,HB 872,NCV00008397,lower,Second Reading,2013-05-02,other,73,38,9
+lower,HB 935,NCV00008398,lower,A1 Lucas   Second Reading,2013-05-02,other,47,61,12
+lower,HB 935,NCV00008399,lower,Second Reading,2013-05-02,other,63,46,11
+lower,HB 935,NCV00008400,lower,A2 Gill   Second Reading,2013-05-02,other,42,67,11
+upper,SJR 35,NCV00008401,upper,Second Reading,2013-05-06,other,47,0,3
+upper,SJR 35,NCV00008402,lower,Second Reading,2013-05-06,other,116,0,4
+upper,SB 285,NCV00008404,upper,SECOND READING,2013-05-06,other,43,6,1
+upper,SB 354,NCV00008405,upper,SECOND READING,2013-05-06,other,49,0,1
+upper,SB 443,NCV00008406,upper,SECOND READING,2013-05-06,other,46,3,1
+upper,SB 476,NCV00008407,upper,Third Reading,2013-05-06,other,49,0,1
+upper,SB 476,NCV00008408,upper,Amendment 1,2013-05-06,other,49,0,1
+upper,SB 489,NCV00008409,upper,Amendment 8,2013-05-06,other,13,35,2
+upper,SB 489,NCV00008410,upper,Amendment 7,2013-05-06,other,15,33,2
+upper,SB 489,NCV00008411,upper,Third Reading,2013-05-06,other,38,10,2
+upper,SB 558,NCV00008412,upper,SECOND READING,2013-05-06,other,48,1,1
+upper,SB 574,NCV00008413,upper,SECOND READING,2013-05-06,other,47,0,3
+upper,SB 634,NCV00008414,upper,SECOND READING,2013-05-06,other,45,3,2
+lower,HB 186,NCV00008415,lower,A1 Jeter   Second Reading,2013-05-06,other,115,0,5
+lower,HB 220,NCV00008416,lower,Second Reading,2013-05-06,other,114,0,6
+lower,HB 330,NCV00008417,lower,Second Reading,2013-05-06,other,113,0,7
+lower,HB 361,NCV00008418,lower,Second Reading,2013-05-06,other,112,0,8
+lower,HB 418,NCV00008419,lower,Third Reading,2013-05-06,other,112,3,5
+lower,HB 457,NCV00008420,lower,M8 Re-Refer Finance  Second Reading,2013-05-06,other,85,29,6
+lower,HB 457,NCV00008421,lower,M4 Previous Question/M8 Finance  Second Reading,2013-05-06,other,88,25,7
+lower,HB 515,NCV00008422,lower,Third Reading,2013-05-06,other,114,0,6
+lower,HB 532,NCV00008423,lower,Second Reading,2013-05-06,other,113,0,7
+lower,HB 610,NCV00008424,lower,Second Reading,2013-05-06,other,62,51,7
+lower,HB 829,NCV00008426,lower,Second Reading,2013-05-06,other,87,27,6
+lower,HR 866,NCV00008428,lower,R2 For Adoption,2013-05-06,other,116,0,4
+lower,HB 937,NCV00008429,lower,Second Reading,2013-05-06,other,76,38,6
+lower,HB 937,NCV00008430,lower,M4 Previous Question  Second Reading,2013-05-06,other,73,40,7
+lower,HB 937,NCV00008431,lower,A5 Insko M3 To Lay On The Table  Second Reading,2013-05-06,other,73,40,7
+lower,HB 937,NCV00008432,lower,A4 Harrison M3 To Lay On The Table  Second Reading,2013-05-06,other,74,40,6
+lower,HB 937,NCV00008433,lower,A1 Luebke M3 To Lay On The Table  Second Reading,2013-05-06,other,74,39,7
+lower,HB 937,NCV00008435,lower,A3 Jackson M3 To Lay On The Table  Second Reading,2013-05-06,other,71,41,8
+upper,SB 91,NCV00008436,lower,C RPT Adopted,2013-05-07,other,106,10,4
+lower,HB 101,NCV00008437,lower,Second Reading,2013-05-07,other,83,36,1
+lower,HB 101,NCV00008438,lower,M4 Previous Question  Second Reading,2013-05-07,other,72,43,5
+lower,HB 133,NCV00008439,lower,Second Reading,2013-05-07,other,119,0,1
+lower,HB 149,NCV00008440,lower,M11 Concur,2013-05-07,other,113,0,7
+lower,HB 217,NCV00008442,lower,Second Reading,2013-05-07,other,92,26,2
+lower,HB 402,NCV00008443,lower,Second Reading,2013-05-07,other,115,1,4
+lower,HB 402,NCV00008444,lower,A1 Jeter   Second Reading,2013-05-07,other,118,0,2
+lower,HB 405,NCV00008445,lower,Second Reading,2013-05-07,other,110,8,2
+lower,HB 505,NCV00008446,lower,Second Reading,2013-05-07,other,111,0,9
+lower,HB 585,NCV00008448,lower,A1 Lewis   Second Reading,2013-05-07,other,118,0,2
+lower,HB 610,NCV00008450,lower,Third Reading,2013-05-07,other,73,45,2
+lower,HB 611,NCV00008451,lower,"A1 Brawley, W.   Second Reading",2013-05-07,other,119,0,1
+lower,HB 611,NCV00008452,lower,Second Reading,2013-05-07,other,119,0,1
+lower,HB 671,NCV00008453,lower,Second Reading,2013-05-07,other,119,0,1
+lower,HB 687,NCV00008454,lower,Second Reading,2013-05-07,other,119,0,1
+lower,HR 696,NCV00008455,lower,R2 For Adoption,2013-05-07,other,114,0,6
+lower,HB 716,NCV00008456,lower,Second Reading,2013-05-07,other,79,40,1
+lower,HB 716,NCV00008457,lower,A1 Schaffer   Second Reading,2013-05-07,other,118,0,2
+lower,HB 935,NCV00008459,lower,Third Reading,2013-05-07,other,69,49,2
+lower,HB 935,NCV00008461,lower,"A4 Hall, L.   Third Reading",2013-05-07,other,62,56,2
+lower,HB 937,NCV00008463,lower,A10 Jackson M3 To Lay On The Table  Third Reading,2013-05-07,other,69,45,6
+lower,HB 937,NCV00008464,lower,A6 Riddell M3 To Lay On The Table  Third Reading,2013-05-07,other,64,50,6
+lower,HB 937,NCV00008465,lower,A7 Glazier M3 To Lay On The Table  Third Reading,2013-05-07,other,69,45,6
+lower,HB 937,NCV00008466,lower,A8 Insko M3 To Lay On The Table  Third Reading,2013-05-07,other,74,42,4
+lower,HB 937,NCV00008467,lower,Third Reading,2013-05-07,other,78,42,0
+lower,HB 937,NCV00008468,lower,A11 Luebke M3 To Lay On The Table  Third Reading,2013-05-07,other,74,43,3
+lower,HB 937,NCV00008469,lower,A12 Adams M3 To Lay On The Table  Third Reading,2013-05-07,other,71,44,5
+upper,SB 32,NCV00008470,upper,SECOND READING,2013-05-08,other,48,1,1
+upper,SB 91,NCV00008471,upper,Conference Rpt Motion 8 To Adopt,2013-05-07,other,46,2,2
+upper,SB 101,NCV00008472,upper,SECOND READING,2013-05-08,other,48,1,1
+upper,SB 101,NCV00008473,upper,Amendment 1,2013-05-07,other,49,0,1
+upper,SB 193,NCV00008474,upper,Second Reading,2013-05-08,other,49,0,1
+upper,SB 193,NCV00008475,upper,Amendment 1,2013-05-08,other,49,0,1
+upper,SB 252,NCV00008476,upper,SECOND READING,2013-05-08,other,49,0,1
+upper,SB 264,NCV00008477,upper,SECOND READING,2013-05-08,other,49,0,1
+upper,SB 337,NCV00008478,upper,Second Reading,2013-05-07,other,32,17,1
+upper,SB 337,NCV00008480,upper,Amendment 2,2013-05-07,other,46,3,1
+upper,SB 337,NCV00008482,upper,Amendment 4,2013-05-07,other,16,33,1
+upper,SB 337,NCV00008484,upper,Amendment 6,2013-05-07,other,16,33,1
+upper,SB 337,NCV00008485,upper,Amendment 7,2013-05-07,other,17,32,1
+upper,SB 337,NCV00008486,upper,Amendment 8,2013-05-07,other,16,33,1
+upper,SB 372,NCV00008487,upper,Amendment 1,2013-05-07,other,48,0,2
+upper,SB 372,NCV00008489,upper,Amendment 2,2013-05-07,other,47,1,2
+upper,SB 380,NCV00008490,upper,SECOND READING,2013-05-08,other,48,1,1
+upper,SB 420,NCV00008491,upper,SECOND READING,2013-05-08,other,49,0,1
+upper,SB 454,NCV00008492,upper,SECOND READING,2013-05-08,other,49,0,1
+upper,SB 483,NCV00008493,upper,SECOND READING,2013-05-08,other,47,2,1
+upper,SB 490,NCV00008494,upper,SECOND READING,2013-05-08,other,47,2,1
+upper,SB 530,NCV00008495,upper,SECOND READING,2013-05-08,other,48,1,1
+lower,HB 9,NCV00008496,lower,Third Reading,2013-05-08,other,85,34,1
+lower,HB 9,NCV00008497,lower,Second Reading,2013-05-08,other,85,34,1
+lower,HB 13,NCV00008498,upper,SECOND READING,2013-05-08,other,49,0,1
+lower,HB 101,NCV00008499,lower,M4 Previous Question  Third Reading,2013-05-08,other,74,43,3
+lower,HB 357,NCV00008501,lower,Second Reading,2013-05-08,other,118,0,2
+lower,HB 358,NCV00008502,lower,Second Reading,2013-05-08,other,118,0,2
+lower,HR 578,NCV00008503,lower,R2 For Adoption,2013-05-08,other,119,0,1
+lower,HB 585,NCV00008504,lower,Third Reading,2013-05-08,other,116,0,4
+lower,HB 609,NCV00008505,lower,M8 Re-Refer Insurance  Second Reading,2013-05-08,other,27,88,5
+lower,HB 609,NCV00008506,lower,Second Reading,2013-05-08,other,87,27,6
+lower,HB 628,NCV00008507,lower,Second Reading,2013-05-08,other,78,34,8
+lower,HB 628,NCV00008508,lower,A1 Samuelson   Second Reading,2013-05-08,other,53,58,9
+lower,HB 665,NCV00008509,lower,Second Reading,2013-05-08,other,113,0,7
+lower,HB 670,NCV00008510,lower,Second Reading,2013-05-08,other,113,0,7
+lower,HB 671,NCV00008511,lower,Third Reading,2013-05-08,other,116,0,4
+lower,HB 692,NCV00008513,lower,Second Reading,2013-05-08,other,111,1,8
+lower,HB 700,NCV00008514,lower,Second Reading,2013-05-08,other,112,0,8
+lower,HB 706,NCV00008515,upper,SECOND READING,2013-05-07,other,46,3,1
+lower,HB 718,NCV00008516,lower,Second Reading,2013-05-08,other,113,0,7
+lower,HR 720,NCV00008517,lower,R2 For Adoption,2013-05-08,other,119,0,1
+lower,HB 779,NCV00008518,lower,Second Reading,2013-05-08,other,113,0,7
+lower,HB 784,NCV00008519,lower,Second Reading,2013-05-08,other,118,0,2
+lower,HB 785,NCV00008520,lower,Second Reading,2013-05-08,other,113,1,6
+lower,HB 817,NCV00008521,lower,A1 McGrady   Second Reading,2013-05-08,other,118,0,2
+lower,HB 817,NCV00008522,lower,A2 Michaux   Second Reading,2013-05-08,other,43,74,3
+lower,HB 817,NCV00008523,lower,Second Reading,2013-05-08,other,96,22,2
+upper,SB 78,NCV00008524,upper,SECOND READING,2013-05-09,other,47,0,3
+upper,SB 132,NCV00008525,upper,Second Reading,2013-05-09,other,41,5,4
+upper,SB 132,NCV00008526,upper,Amendment 1,2013-05-09,other,47,0,3
+upper,SB 321,NCV00008527,upper,Amendment 1,2013-05-09,other,48,0,2
+upper,SB 321,NCV00008528,upper,Second Reading,2013-05-09,other,48,0,2
+upper,SB 370,NCV00008529,upper,Amendment 1,2013-05-09,other,48,0,2
+upper,SB 444,NCV00008531,upper,SECOND READING,2013-05-09,other,48,0,2
+upper,SB 473,NCV00008532,upper,SECOND READING,2013-05-09,other,48,0,2
+upper,SB 542,NCV00008533,upper,Second Reading,2013-05-09,other,48,0,2
+upper,SB 542,NCV00008534,upper,Amendment 1,2013-05-09,other,48,0,2
+upper,SB 719,NCV00008536,upper,SECOND READING,2013-05-09,other,48,0,2
+lower,HB 442,NCV00008538,lower,Second Reading,2013-05-09,other,111,4,5
+lower,HJR 444,NCV00008539,upper,Second Reading,2013-05-09,other,47,0,3
+lower,HB 526,NCV00008540,lower,Second Reading,2013-05-09,other,115,0,5
+lower,HB 552,NCV00008541,lower,Second Reading,2013-05-09,other,114,0,6
+lower,HB 609,NCV00008542,lower,A2 Stevens   Third Reading,2013-05-09,other,80,36,4
+lower,HB 609,NCV00008543,lower,Third Reading,2013-05-09,other,112,5,3
+lower,HB 656,NCV00008544,lower,Second Reading,2013-05-09,other,113,2,5
+lower,HB 698,NCV00008545,lower,Second Reading,2013-05-09,other,113,0,7
+lower,HB 870,NCV00008548,lower,Second Reading,2013-05-09,other,87,29,4
+lower,HB 930,NCV00008549,lower,Second Reading,2013-05-09,other,101,14,5
+lower,HB 968,NCV00008551,lower,Second Reading,2013-05-09,other,105,6,9
+lower,HB 968,NCV00008552,lower,A1 Blackwell   Second Reading,2013-05-09,other,110,2,8
+lower,HB 969,NCV00008553,lower,A1 Blackwell   Second Reading,2013-05-09,other,110,0,10
+lower,HB 969,NCV00008554,lower,Second Reading,2013-05-09,other,106,6,8
+upper,SB 73,NCV00008557,upper,SECOND READING,2013-05-13,other,46,2,2
+upper,SB 127,NCV00008558,upper,Second Reading,2013-05-13,other,31,17,2
+upper,SB 127,NCV00008559,upper,Amendment 1,2013-05-13,other,49,0,1
+upper,SB 132,NCV00008560,upper,THIRD READING,2013-05-13,other,38,10,2
+upper,SB 327,NCV00008561,upper,SECOND READING,2013-05-13,other,48,0,2
+upper,SB 393,NCV00008562,upper,SECOND READING,2013-05-13,other,49,0,1
+upper,SB 399,NCV00008563,upper,Amendment 1,2013-05-13,other,49,0,1
+upper,SB 399,NCV00008565,upper,Third Reading,2013-05-13,other,49,0,1
+upper,SB 444,NCV00008567,upper,THIRD READING,2013-05-13,other,48,0,2
+upper,SB 465,NCV00008568,upper,Amendment 1,2013-05-13,other,44,4,2
+upper,SB 465,NCV00008569,upper,Second Reading,2013-05-13,other,48,0,2
+upper,SB 553,NCV00008570,upper,SECOND READING,2013-05-13,other,47,1,2
+upper,SB 626,NCV00008571,upper,SECOND READING,2013-05-13,other,48,0,2
+upper,SB 683,NCV00008572,upper,Amendment 1,2013-05-13,other,48,0,2
+upper,SB 683,NCV00008573,upper,Second Reading,2013-05-13,other,48,0,2
+upper,SB 25,NCV00008574,upper,SECOND READING,2013-05-14,other,50,0,0
+upper,SB 127,NCV00008575,upper,Amendment 2,2013-05-14,other,44,3,3
+upper,SB 127,NCV00008576,upper,Third Reading,2013-05-14,other,33,15,2
+upper,SB 409,NCV00008577,upper,SECOND READING,2013-05-14,other,49,0,1
+upper,SR 432,NCV00008578,upper,Motion 8 To Adopt,2013-05-14,other,48,0,2
+upper,SB 553,NCV00008579,upper,THIRD READING,2013-05-14,other,49,0,1
+upper,SB 613,NCV00008580,upper,Second Reading,2013-05-14,other,50,0,0
+upper,SB 630,NCV00008581,upper,Second Reading,2013-05-14,other,49,0,1
+upper,SB 630,NCV00008582,upper,Amendment 1,2013-05-14,other,49,0,1
+upper,SB 636,NCV00008583,upper,SECOND READING,2013-05-14,other,49,0,1
+lower,HB 26,NCV00008584,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 26,NCV00008585,lower,"A1 Moore, T.   Second Reading",2013-05-13,other,114,0,6
+lower,HB 60,NCV00008587,lower,Second Reading,2013-05-13,other,112,0,8
+lower,HB 60,NCV00008588,lower,A1 Howard   Second Reading,2013-05-13,other,111,0,9
+lower,HB 74,NCV00008589,lower,Second Reading,2013-05-13,other,90,24,6
+lower,HB 92,NCV00008590,lower,Third Reading,2013-05-14,other,116,0,4
+lower,HB 92,NCV00008591,lower,Second Reading,2013-05-13,other,113,1,6
+lower,HB 92,NCV00008592,lower,A1 Arp   Second Reading,2013-05-13,other,114,0,6
+lower,HB 168,NCV00008594,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 177,NCV00008595,lower,Second Reading,2013-05-14,other,112,2,6
+lower,HB 201,NCV00008597,lower,A1 Glazier   Third Reading,2013-05-14,other,114,1,5
+lower,HB 201,NCV00008598,lower,Second Reading,2013-05-14,other,80,33,7
+lower,HB 219,NCV00008599,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HB 243,NCV00008600,upper,Second Reading,2013-05-14,other,25,23,2
+lower,HB 243,NCV00008601,upper,Amendment 1,2013-05-14,other,23,25,2
+lower,HB 254,NCV00008602,upper,Second Reading,2013-05-14,other,49,0,1
+lower,HB 254,NCV00008603,upper,Amendment 1,2013-05-14,other,49,0,1
+lower,HB 311,NCV00008605,lower,Third Reading,2013-05-14,other,117,0,3
+lower,HB 311,NCV00008606,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 320,NCV00008607,lower,Second Reading,2013-05-14,other,115,0,5
+lower,HB 320,NCV00008608,lower,A1 Dollar   Second Reading,2013-05-14,other,115,0,5
+lower,HB 343,NCV00008609,lower,Third Reading,2013-05-14,other,116,0,4
+lower,HB 343,NCV00008610,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 364,NCV00008612,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HJR 374,NCV00008613,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 433,NCV00008615,upper,SECOND READING,2013-05-14,other,48,1,1
+lower,HB 458,NCV00008616,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 473,NCV00008617,lower,A1 Dockham   Second Reading,2013-05-14,other,116,0,4
+lower,HB 477,NCV00008619,lower,"A1 Ross, D.   Second Reading",2013-05-13,other,114,0,6
+lower,HB 477,NCV00008620,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 484,NCV00008623,upper,Second Reading,2013-05-14,other,48,0,2
+lower,HB 491,NCV00008624,lower,Second Reading,2013-05-14,other,69,44,7
+lower,HB 519,NCV00008626,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 526,NCV00008627,lower,Third Reading,2013-05-13,other,110,0,10
+lower,HB 533,NCV00008628,lower,A2 Elmore   Second Reading,2013-05-14,other,115,0,5
+lower,HB 533,NCV00008629,lower,A1 Jordan   Second Reading,2013-05-14,other,115,0,5
+lower,HB 552,NCV00008630,lower,Third Reading,2013-05-13,other,113,0,7
+lower,HB 562,NCV00008631,lower,Third Reading,2013-05-14,other,89,0,31
+lower,HB 562,NCV00008632,lower,Second Reading,2013-05-13,other,111,0,9
+lower,HB 567,NCV00008633,lower,Third Reading,2013-05-14,other,110,0,10
+lower,HB 567,NCV00008634,lower,Second Reading,2013-05-13,other,112,1,7
+lower,HB 573,NCV00008635,lower,Second Reading,2013-05-14,other,114,1,5
+lower,HB 593,NCV00008636,lower,Second Reading,2013-05-13,other,112,2,6
+lower,HB 615,NCV00008637,lower,Second Reading,2013-05-14,other,112,4,4
+lower,HB 623,NCV00008638,lower,Second Reading,2013-05-13,other,110,3,7
+lower,HB 625,NCV00008639,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HB 628,NCV00008641,lower,Third Reading,2013-05-13,other,70,43,7
+lower,HB 629,NCV00008643,lower,Second Reading,2013-05-13,other,111,2,7
+lower,HB 634,NCV00008645,lower,Second Reading,2013-05-14,other,109,7,4
+lower,HB 664,NCV00008647,lower,Second Reading,2013-05-13,other,109,3,8
+lower,HB 669,NCV00008648,lower,Second Reading,2013-05-14,other,114,1,5
+lower,HB 674,NCV00008649,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 675,NCV00008651,lower,Second Reading,2013-05-13,other,114,0,6
+lower,HB 677,NCV00008652,lower,Second Reading,2013-05-13,other,73,41,6
+lower,HB 684,NCV00008653,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 710,NCV00008654,lower,A1 Hager   Second Reading,2013-05-14,other,116,0,4
+lower,HB 727,NCV00008656,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 743,NCV00008657,lower,Second Reading,2013-05-14,other,109,7,4
+lower,HB 759,NCV00008659,lower,Second Reading,2013-05-14,other,112,4,4
+lower,HB 773,NCV00008661,lower,Second Reading,2013-05-13,other,75,39,6
+lower,HB 773,NCV00008662,lower,"A1 Brawley, W.   Second Reading",2013-05-13,other,111,1,8
+lower,HB 773,NCV00008663,lower,Third Reading,2013-05-14,other,83,32,5
+lower,HB 774,NCV00008664,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HB 796,NCV00008667,lower,Second Reading,2013-05-14,other,113,2,5
+lower,HB 802,NCV00008668,lower,A1 Riddell   Second Reading,2013-05-13,other,112,0,8
+lower,HB 802,NCV00008669,lower,A2 Faircloth   Second Reading,2013-05-13,other,77,37,6
+lower,HB 802,NCV00008670,lower,Second Reading,2013-05-13,other,111,3,6
+lower,HB 802,NCV00008671,lower,Third Reading,2013-05-13,other,110,3,7
+lower,HB 810,NCV00008672,lower,Second Reading,2013-05-13,other,111,1,8
+lower,HB 810,NCV00008673,lower,Third Reading,2013-05-14,other,112,3,5
+lower,HB 813,NCV00008674,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HB 832,NCV00008675,lower,A1 Avila   Second Reading,2013-05-13,other,113,0,7
+lower,HB 832,NCV00008676,lower,Second Reading,2013-05-13,other,113,0,7
+lower,HB 834,NCV00008677,lower,Second Reading,2013-05-14,other,110,5,5
+lower,HB 838,NCV00008678,lower,Second Reading,2013-05-14,other,115,0,5
+lower,HB 842,NCV00008679,lower,Second Reading,2013-05-14,other,111,4,5
+lower,HB 854,NCV00008681,lower,Second Reading,2013-05-14,other,115,0,5
+lower,HB 884,NCV00008682,lower,A1 Hamilton   Second Reading,2013-05-14,other,116,0,4
+lower,HB 884,NCV00008683,lower,Second Reading,2013-05-14,other,115,1,4
+lower,HB 891,NCV00008685,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 895,NCV00008686,lower,Second Reading,2013-05-14,other,113,0,7
+lower,HB 902,NCV00008687,lower,Second Reading,2013-05-14,other,115,0,5
+lower,HB 908,NCV00008688,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 912,NCV00008690,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 918,NCV00008691,lower,A1 Stam   Second Reading,2013-05-13,other,112,2,6
+lower,HB 919,NCV00008692,lower,Second Reading,2013-05-14,other,115,1,4
+lower,HB 919,NCV00008693,lower,A1 Jones   Second Reading,2013-05-14,other,116,0,4
+lower,HB 919,NCV00008694,lower,A2 Harrison   Second Reading,2013-05-14,other,116,0,4
+lower,HB 923,NCV00008695,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 926,NCV00008696,lower,Second Reading,2013-05-14,other,116,0,4
+lower,HB 1001,NCV00008697,lower,A1 Fisher   Second Reading,2013-05-13,other,114,0,6
+lower,HB 1002,NCV00008698,lower,Second Reading,2013-05-13,other,111,2,7
+upper,SB 85,NCV00008700,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 103,NCV00008701,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 112,NCV00008702,upper,Amendment 1,2013-05-15,other,48,0,2
+upper,SB 112,NCV00008703,upper,Third Reading,2013-05-15,other,48,0,2
+upper,SB 112,NCV00008704,upper,Second Reading,2013-05-15,other,43,5,2
+upper,SB 151,NCV00008705,upper,Second Reading,2013-05-15,other,36,11,3
+upper,SB 151,NCV00008706,upper,Amendment 3 Motion 1 To Table,2013-05-15,other,32,15,3
+upper,SB 151,NCV00008707,upper,Amendment 1,2013-05-15,other,47,0,3
+upper,SB 151,NCV00008708,upper,Amendment 2,2013-05-15,other,13,33,4
+upper,SB 156,NCV00008709,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 174,NCV00008710,upper,Second Reading,2013-05-15,other,34,14,2
+upper,SB 182,NCV00008711,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 182,NCV00008712,upper,Amendment 1,2013-05-15,other,48,0,2
+upper,SB 210,NCV00008713,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 211,NCV00008714,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 236,NCV00008715,upper,Second Reading,2013-05-15,other,33,15,2
+upper,SB 236,NCV00008716,upper,Amendment 1,2013-05-15,other,47,0,3
+upper,SB 269,NCV00008717,upper,Second Reading,2013-05-15,other,46,1,3
+upper,SB 294,NCV00008718,upper,Second Reading,2013-05-15,other,47,1,2
+upper,SB 297,NCV00008719,upper,Amendment 1,2013-05-15,other,48,0,2
+upper,SB 297,NCV00008720,upper,Second Reading,2013-05-15,other,46,0,4
+upper,SB 376,NCV00008721,upper,SECOND READING,2013-05-15,other,48,0,2
+upper,SB 406,NCV00008722,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SJR 431,NCV00008723,upper,Second Reading,2013-05-15,other,47,0,3
+upper,SB 468,NCV00008725,upper,SECOND READING,2013-05-15,other,47,0,3
+upper,SB 475,NCV00008726,upper,Amendment 1,2013-05-15,other,44,0,6
+upper,SB 475,NCV00008727,upper,Second Reading,2013-05-15,other,47,0,3
+upper,SB 477,NCV00008728,upper,Second Reading,2013-05-15,other,47,0,3
+upper,SB 494,NCV00008730,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 501,NCV00008731,upper,SECOND READING,2013-05-15,other,47,0,3
+upper,SB 515,NCV00008732,upper,Amendment 1,2013-05-15,other,47,0,3
+upper,SB 515,NCV00008733,upper,Second Reading,2013-05-15,other,31,16,3
+upper,SB 523,NCV00008734,upper,Second Reading,2013-05-15,other,29,19,2
+upper,SB 580,NCV00008735,upper,SECOND READING,2013-05-15,other,47,0,3
+upper,SB 583,NCV00008736,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 584,NCV00008737,upper,Second Reading,2013-05-15,other,48,0,2
+upper,SB 614,NCV00008739,upper,Second Reading,2013-05-15,other,47,0,3
+upper,SB 653,NCV00008740,upper,SECOND READING,2013-05-15,other,47,0,3
+upper,SB 689,NCV00008741,upper,Second Reading,2013-05-15,other,46,2,2
+upper,SB 717,NCV00008742,upper,SECOND READING,2013-05-15,other,46,0,4
+lower,HB 119,NCV00008743,upper,Second Reading,2013-05-15,other,48,0,2
+lower,HB 433,NCV00008744,upper,Amendment 1,2013-05-15,other,48,0,2
+lower,HB 433,NCV00008745,upper,Third Reading,2013-05-15,other,47,1,2
+upper,SB 103,NCV00008746,upper,Third Reading,2013-05-16,other,45,0,5
+upper,SB 174,NCV00008747,upper,Third Reading,2013-05-16,other,36,9,5
+upper,SB 269,NCV00008748,upper,Third Reading,2013-05-16,other,45,0,5
+lower,HB 107,NCV00008750,lower,Third Reading,2013-05-16,other,87,22,11
+lower,HB 107,NCV00008751,lower,Second Reading,2013-05-16,other,71,39,10
+lower,HB 107,NCV00008752,lower,A1 Hamilton   Third Reading,2013-05-16,other,108,0,12
+lower,HB 109,NCV00008753,lower,Second Reading,2013-05-15,other,113,1,6
+lower,HB 157,NCV00008755,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 182,NCV00008756,lower,Second Reading,2013-05-15,other,103,10,7
+lower,HB 232,NCV00008757,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 269,NCV00008759,lower,A4 Hamilton   Third Reading,2013-05-15,other,42,70,8
+lower,HB 269,NCV00008760,lower,A2 Brandon   Second Reading,2013-05-15,other,106,2,12
+lower,HB 269,NCV00008761,lower,A1 Stam   Second Reading,2013-05-15,other,107,0,13
+lower,HB 269,NCV00008762,lower,Second Reading,2013-05-15,other,74,37,9
+lower,HB 269,NCV00008763,lower,Third Reading,2013-05-15,other,76,36,8
+lower,HB 273,NCV00008764,lower,Second Reading,2013-05-15,other,71,40,9
+lower,HB 273,NCV00008765,lower,Third Reading,2013-05-16,other,73,39,8
+lower,HB 273,NCV00008766,lower,A1 Horn   Second Reading,2013-05-15,other,111,1,8
+lower,HB 300,NCV00008767,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 320,NCV00008768,lower,Third Reading,2013-05-15,other,114,0,6
+lower,HB 320,NCV00008769,lower,A2 Dollar   Third Reading,2013-05-15,other,114,0,6
+lower,HB 341,NCV00008770,lower,Second Reading,2013-05-15,other,106,3,11
+lower,HB 345,NCV00008771,lower,Second Reading,2013-05-15,other,112,2,6
+lower,HB 345,NCV00008772,lower,A1 Faircloth   Second Reading,2013-05-15,other,113,1,6
+lower,HB 359,NCV00008773,lower,Second Reading,2013-05-15,other,114,0,6
+lower,HB 362,NCV00008774,lower,Second Reading,2013-05-15,other,111,1,8
+lower,HB 378,NCV00008775,lower,Second Reading,2013-05-15,other,115,0,5
+lower,HB 417,NCV00008776,lower,Second Reading,2013-05-15,other,114,0,6
+lower,HB 421,NCV00008777,lower,Second Reading,2013-05-15,other,114,0,6
+lower,HB 421,NCV00008778,lower,Third Reading,2013-05-16,other,110,0,10
+lower,HB 440,NCV00008779,lower,A1 Stam   Second Reading,2013-05-15,other,100,5,15
+lower,HB 440,NCV00008780,lower,M6 Reconsider  Second Reading,2013-05-15,other,68,42,10
+lower,HB 440,NCV00008781,lower,Second Reading,2013-05-15,other,52,60,8
+lower,HB 440,NCV00008782,lower,A4 Jordan   Second Reading,2013-05-15,other,89,20,11
+lower,HB 440,NCV00008783,lower,A5 Jordan   Second Reading,2013-05-15,other,98,11,11
+lower,HB 440,NCV00008784,lower,A2 Jordan   Second Reading,2013-05-15,other,93,16,11
+lower,HB 440,NCV00008785,lower,A3 Jordan   Second Reading,2013-05-15,other,84,25,11
+lower,HB 450,NCV00008786,lower,Second Reading,2013-05-15,other,112,0,8
+lower,HB 465,NCV00008788,lower,A1 McNeill   Second Reading,2013-05-15,other,113,1,6
+lower,HB 473,NCV00008789,lower,Third Reading,2013-05-15,other,112,0,8
+lower,HB 484,NCV00008790,lower,M11 Concur,2013-05-15,other,111,1,8
+lower,HB 498,NCV00008791,lower,A1 Wilkins   Second Reading,2013-05-15,other,106,3,11
+lower,HB 498,NCV00008792,lower,Second Reading,2013-05-15,other,105,7,8
+lower,HB 498,NCV00008793,lower,A2 Szoka   Second Reading,2013-05-15,other,35,76,9
+lower,HB 498,NCV00008794,lower,A3 Collins   Second Reading,2013-05-15,other,109,2,9
+lower,HB 498,NCV00008795,lower,A4 Goodman   Second Reading,2013-05-15,other,42,68,10
+lower,HB 498,NCV00008796,lower,A5 Fulghum   Second Reading,2013-05-15,other,18,93,9
+lower,HB 533,NCV00008799,lower,A3 Floyd   Third Reading,2013-05-15,other,108,0,12
+lower,HB 614,NCV00008800,lower,Second Reading,2013-05-15,other,112,1,7
+lower,HB 639,NCV00008801,lower,Second Reading,2013-05-15,other,111,1,8
+lower,HB 643,NCV00008802,lower,Second Reading,2013-05-15,other,54,56,10
+lower,HB 643,NCV00008803,lower,M4 Previous Question  Second Reading,2013-05-15,other,87,22,11
+lower,HB 643,NCV00008804,lower,M6 Reconsider  Second Reading,2013-05-15,other,63,47,10
+lower,HB 649,NCV00008805,lower,Third Reading,2013-05-15,other,113,0,7
+lower,HB 649,NCV00008806,lower,Second Reading,2013-05-16,other,107,0,13
+lower,HB 649,NCV00008807,lower,M6 Reconsider  Third Reading,2013-05-16,other,111,0,9
+lower,HB 683,NCV00008810,lower,Second Reading,2013-05-15,other,73,36,11
+lower,HB 683,NCV00008811,lower,A1 Blackwell   Third Reading,2013-05-15,other,63,49,8
+lower,HB 683,NCV00008812,lower,Third Reading,2013-05-15,other,79,33,8
+lower,HB 691,NCV00008813,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 695,NCV00008814,lower,Second Reading,2013-05-15,other,74,36,10
+lower,HB 695,NCV00008817,lower,A1 Davis   Third Reading,2013-05-16,other,111,1,8
+lower,HB 711,NCV00008819,lower,Second Reading,2013-05-15,other,109,2,9
+lower,HB 714,NCV00008820,lower,A1 Schaffer   Second Reading,2013-05-15,other,114,1,5
+lower,HB 714,NCV00008821,lower,Second Reading,2013-05-15,other,91,22,7
+lower,HB 726,NCV00008822,lower,Second Reading,2013-05-15,other,111,0,9
+lower,HB 730,NCV00008823,lower,A2 Insko   Second Reading,2013-05-15,other,39,70,11
+lower,HB 730,NCV00008825,lower,M4 Previous Question  Second Reading,2013-05-15,other,71,36,13
+lower,HB 730,NCV00008826,lower,Second Reading,2013-05-15,other,67,38,15
+lower,HB 730,NCV00008827,lower,M4 Previous Question  Third Reading,2013-05-16,other,70,36,14
+lower,HB 730,NCV00008828,lower,Third Reading,2013-05-16,other,73,39,8
+lower,HB 730,NCV00008829,lower,A4 Stam   Third Reading,2013-05-16,other,107,4,9
+lower,HB 730,NCV00008830,lower,A1 Stam   Second Reading,2013-05-15,other,79,32,9
+lower,HB 735,NCV00008831,lower,A2 Glazier   Second Reading,2013-05-15,other,41,73,6
+lower,HB 735,NCV00008832,lower,A1 Glazier   Second Reading,2013-05-15,other,52,62,6
+lower,HB 735,NCV00008833,lower,Second Reading,2013-05-15,other,76,38,6
+lower,HB 755,NCV00008834,lower,A1 Avila M4 Previous Question  Second Reading,2013-05-15,other,80,30,10
+lower,HB 755,NCV00008835,lower,A1 Avila   Second Reading,2013-05-15,other,68,41,11
+lower,HB 767,NCV00008836,lower,A1 Whitmire   Second Reading,2013-05-16,other,112,0,8
+lower,HB 767,NCV00008837,lower,Second Reading,2013-05-16,other,111,0,9
+lower,HB 814,NCV00008840,lower,Second Reading,2013-05-16,other,111,0,9
+lower,HB 834,NCV00008841,lower,A2 Holley   Third Reading,2013-05-15,other,44,69,7
+lower,HB 834,NCV00008842,lower,A1 Jackson   Third Reading,2013-05-15,other,48,65,7
+lower,HB 834,NCV00008843,lower,Third Reading,2013-05-15,other,74,40,6
+lower,HB 834,NCV00008844,lower,A3 Holley   Third Reading,2013-05-15,other,44,70,6
+lower,HB 840,NCV00008845,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 843,NCV00008846,lower,Second Reading,2013-05-15,other,112,1,7
+lower,HB 846,NCV00008847,lower,"A1 Hall, D.   Second Reading",2013-05-15,other,107,2,11
+lower,HB 846,NCV00008848,lower,Second Reading,2013-05-15,other,111,1,8
+lower,HB 846,NCV00008849,lower,M4 Previous Question  Third Reading,2013-05-16,other,78,34,8
+lower,HB 846,NCV00008850,lower,A3 Saine   Third Reading,2013-05-16,other,112,0,8
+lower,HB 846,NCV00008851,lower,Third Reading,2013-05-16,other,77,35,8
+lower,HB 846,NCV00008852,lower,A2 Saine   Third Reading,2013-05-16,other,111,0,9
+lower,HB 857,NCV00008854,lower,Second Reading,2013-05-15,other,112,0,8
+lower,HB 868,NCV00008855,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 901,NCV00008856,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 918,NCV00008857,lower,Second Reading,2013-05-15,other,97,16,7
+lower,HB 936,NCV00008858,lower,Second Reading,2013-05-15,other,113,0,7
+lower,HB 938,NCV00008859,lower,Second Reading,2013-05-16,other,108,1,11
+lower,HB 980,NCV00008860,lower,Second Reading,2013-05-16,other,111,1,8
+lower,HB 982,NCV00008861,lower,Second Reading,2013-05-15,other,109,3,8
+lower,HB 13,NCV00008862,upper,Third Reading,2013-05-21,other,47,1,2
+lower,HB 13,NCV00008863,upper,Amendment 1,2013-05-21,other,47,1,2
+lower,HB 243,NCV00008864,lower,M11 Concur,2013-05-21,other,47,68,5
+lower,HB 243,NCV00008865,lower,M11 Not Concur,2013-05-21,other,109,6,5
+lower,HB 254,NCV00008866,lower,M11 Concur Sen. Amd. 1,2013-05-21,other,116,0,4
+lower,HB 267,NCV00008867,lower,Third Reading,2013-05-21,other,108,7,5
+lower,HB 267,NCV00008868,lower,A1 Speciale   Third Reading,2013-05-21,other,16,99,5
+lower,HB 433,NCV00008869,lower,M11 Not Concur,2013-05-21,other,113,3,4
+lower,HR 577,NCV00008872,lower,R2 For Adoption,2013-05-21,other,113,0,7
+upper,SB 430,NCV00008874,lower,Second Reading,2013-05-22,other,117,0,3
+lower,HB 241,NCV00008875,lower,Second Reading,2013-05-22,other,117,0,3
+lower,HR 507,NCV00008876,lower,R2 For Adoption,2013-05-22,other,116,0,4
+lower,HB 917,NCV00008877,lower,Second Reading,2013-05-22,other,117,0,3
+lower,HR 1008,NCV00008878,lower,R2 For Adoption,2013-05-22,other,117,0,3
+upper,SB 189,NCV00008879,lower,Second Reading,2013-05-23,other,109,0,11
+upper,SB 402,NCV00008880,upper,Amendment 12,2013-05-22,other,11,39,0
+upper,SB 402,NCV00008885,upper,Amendment 6 Motion 1 To Table,2013-05-22,other,17,33,0
+upper,SB 402,NCV00008887,upper,Amendment 3,2013-05-22,other,17,33,0
+upper,SB 402,NCV00008888,upper,Amendment 13,2013-05-22,other,46,0,4
+upper,SB 402,NCV00008890,upper,Amendment 2,2013-05-22,other,17,33,0
+upper,SB 402,NCV00008892,upper,Second Reading,2013-05-22,other,33,17,0
+lower,HR 169,NCV00008896,lower,R2 For Adoption,2013-05-23,other,111,0,9
+upper,SB 234,NCV00008897,lower,Second Reading,2013-05-29,other,117,0,3
+lower,HB 10,NCV00008900,upper,Conference Rpt Motion 8 To Adopt,2013-05-30,other,44,5,1
+lower,HB 13,NCV00008901,lower,M11 Not Concur,2013-05-29,other,117,0,3
+lower,HJR 90,NCV00008902,lower,Second Reading,2013-05-29,other,116,0,4
+lower,HB 146,NCV00008903,upper,SECOND READING,2013-05-30,other,46,3,1
+lower,HB 371,NCV00008904,lower,Second Reading,2013-05-29,other,114,2,4
+lower,HB 449,NCV00008905,upper,SECOND READING,2013-05-30,other,49,0,1
+lower,HB 553,NCV00008906,lower,Second Reading,2013-05-29,other,94,23,3
+lower,HB 591,NCV00008907,upper,Amendment 1,2013-05-30,other,49,0,1
+lower,HB 591,NCV00008908,upper,Second Reading,2013-05-30,other,49,0,1
+lower,HB 616,NCV00008909,lower,Second Reading,2013-05-29,other,117,0,3
+lower,HB 671,NCV00008910,upper,SECOND READING,2013-05-30,other,49,0,1
+lower,HB 828,NCV00008911,lower,A1 Fulghum   Second Reading,2013-05-29,other,117,0,3
+lower,HB 980,NCV00008913,upper,Second Reading,2013-05-29,other,47,0,3
+lower,HB 980,NCV00008914,lower,M11 Concur,2013-05-29,other,116,0,4
+lower,HJR 1007,NCV00008916,upper,Second Reading,2013-05-30,other,49,0,1
+lower,HJR 1007,NCV00008917,lower,Second Reading,2013-05-29,other,112,4,4
+lower,HR 1012,NCV00008918,lower,R2 For Adoption,2013-05-29,other,116,0,4
+upper,SB 208,NCV00008920,lower,A1 Dollar   Second Reading,2013-06-03,other,109,0,11
+upper,SB 269,NCV00008922,lower,Third Reading,2013-06-03,other,94,16,10
+upper,SB 334,NCV00008923,upper,Motion 9 To Concur,2013-06-03,other,17,29,4
+lower,HB 553,NCV00008925,lower,Third Reading,2013-06-03,other,80,29,11
+lower,HB 671,NCV00008926,upper,THIRD READING,2013-06-03,other,46,0,4
+upper,SB 129,NCV00008927,lower,Second Reading,2013-06-04,other,115,0,5
+upper,SB 210,NCV00008928,lower,Second Reading,2013-06-04,other,116,0,4
+upper,SB 222,NCV00008929,lower,Second Reading,2013-06-04,other,115,1,4
+upper,SB 222,NCV00008931,lower,A1 Horn   Second Reading,2013-06-04,other,116,0,4
+upper,SB 252,NCV00008933,lower,Second Reading,2013-06-04,other,115,1,4
+upper,SB 258,NCV00008934,lower,Second Reading,2013-06-04,other,115,0,5
+upper,SB 393,NCV00008938,lower,"A1 Hall, L.   Second Reading",2013-06-04,other,116,0,4
+upper,SB 393,NCV00008940,lower,Second Reading,2013-06-04,other,116,0,4
+upper,SB 489,NCV00008941,lower,A1 Stam   Second Reading,2013-06-04,other,114,2,4
+upper,SB 489,NCV00008942,lower,Second Reading,2013-06-04,other,74,42,4
+upper,SB 137,NCV00008943,lower,Second Reading,2013-06-05,other,112,2,6
+upper,SB 156,NCV00008944,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 200,NCV00008945,lower,Second Reading,2013-06-05,other,114,0,6
+upper,SB 208,NCV00008946,upper,Motion 9 To Concur,2013-06-05,other,31,16,3
+upper,SB 306,NCV00008947,lower,Third Reading,2013-06-05,other,77,39,4
+upper,SB 306,NCV00008948,lower,A1 Jackson M3 To Lay On The Table  Third Reading,2013-06-05,other,73,39,8
+upper,SB 411,NCV00008949,lower,Second Reading,2013-06-05,other,97,18,5
+upper,SJR 431,NCV00008950,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 452,NCV00008952,lower,Second Reading,2013-06-05,other,115,1,4
+upper,SB 460,NCV00008954,lower,Second Reading,2013-06-05,other,114,0,6
+upper,SB 486,NCV00008955,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 489,NCV00008956,lower,Third Reading,2013-06-05,other,69,44,7
+upper,SB 520,NCV00008957,lower,A1 Stevens   Second Reading,2013-06-05,other,115,0,5
+upper,SB 528,NCV00008959,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 530,NCV00008960,lower,Second Reading,2013-06-05,other,114,1,5
+upper,SB 539,NCV00008961,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 542,NCV00008962,lower,A1 Stevens   Second Reading,2013-06-05,other,115,0,5
+upper,SB 542,NCV00008963,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 603,NCV00008964,lower,Second Reading,2013-06-05,other,115,0,5
+upper,SB 634,NCV00008965,lower,Second Reading,2013-06-05,other,114,1,5
+lower,HB 24,NCV00008966,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 25,NCV00008967,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 32,NCV00008968,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 88,NCV00008969,upper,Amendment 1,2013-06-04,other,47,0,3
+lower,HB 88,NCV00008970,upper,Second Reading,2013-06-04,other,47,0,3
+lower,HB 114,NCV00008971,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 125,NCV00008972,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 142,NCV00008973,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 200,NCV00008974,upper,Second Reading,2013-06-05,other,45,0,5
+lower,HB 276,NCV00008975,upper,Second Reading,2013-06-04,other,47,0,3
+lower,HB 276,NCV00008976,upper,Amendment 1,2013-06-04,other,47,0,3
+lower,HB 279,NCV00008977,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 301,NCV00008978,upper,SECOND READING,2013-06-04,other,46,1,3
+lower,HB 315,NCV00008979,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 317,NCV00008980,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 361,NCV00008981,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 368,NCV00008982,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 383,NCV00008983,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 384,NCV00008984,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 407,NCV00008985,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 410,NCV00008986,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 473,NCV00008987,upper,Second Reading,2013-06-05,other,45,0,5
+lower,HB 480,NCV00008988,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 505,NCV00008989,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 532,NCV00008990,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 581,NCV00008991,upper,SECOND READING,2013-06-05,other,45,2,3
+lower,HB 591,NCV00008992,lower,M11 Concur Sen. Amd. 1,2013-06-05,other,109,0,11
+lower,HB 610,NCV00008993,upper,SECOND READING,2013-06-05,other,42,5,3
+lower,HB 687,NCV00008994,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 707,NCV00008995,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 710,NCV00008996,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 774,NCV00008997,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 788,NCV00008998,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 789,NCV00008999,upper,SECOND READING,2013-06-05,other,46,0,4
+lower,HB 813,NCV00009000,upper,SECOND READING,2013-06-04,other,47,0,3
+lower,HB 821,NCV00009001,upper,SECOND READING,2013-06-05,other,47,0,3
+lower,HB 829,NCV00009002,upper,SECOND READING,2013-06-05,other,45,2,3
+lower,HB 903,NCV00009003,upper,SECOND READING,2013-06-04,other,47,0,3
+upper,SB 36,NCV00009004,lower,C RPT Adopted,2013-06-06,other,109,0,11
+upper,SB 124,NCV00009005,lower,Second Reading,2013-06-06,other,110,4,6
+upper,SB 239,NCV00009006,upper,Motion 9 To Concur,2013-06-06,other,42,0,8
+upper,SB 268,NCV00009007,lower,Second Reading,2013-06-06,other,107,1,12
+upper,SB 387,NCV00009008,upper,Motion 9 To Concur,2013-06-06,other,42,0,8
+upper,SB 393,NCV00009009,upper,Motion 9 To Concur,2013-06-06,other,0,42,8
+upper,SB 443,NCV00009010,lower,Second Reading,2013-06-06,other,98,16,6
+upper,SB 452,NCV00009011,lower,Third Reading,2013-06-06,other,113,1,6
+upper,SB 468,NCV00009013,lower,Second Reading,2013-06-06,other,113,0,7
+upper,SB 545,NCV00009014,lower,Second Reading,2013-06-06,other,110,0,10
+upper,SB 545,NCV00009015,lower,M6 Reconsider  Third Reading,2013-06-06,other,114,0,6
+upper,SB 583,NCV00009016,lower,Second Reading,2013-06-06,other,114,0,6
+upper,SB 584,NCV00009017,lower,Second Reading,2013-06-06,other,114,0,6
+upper,SB 630,NCV00009018,lower,Second Reading,2013-06-06,other,113,1,6
+lower,HB 473,NCV00009019,upper,Third Reading,2013-06-06,other,42,0,8
+lower,HB 473,NCV00009020,upper,Amendment 1,2013-06-06,other,41,0,9
+lower,HB 688,NCV00009022,upper,Second Reading,2013-06-06,other,42,0,8
+lower,HB 688,NCV00009023,upper,Amendment 1,2013-06-06,other,42,0,8
+lower,HB 707,NCV00009024,upper,Third Reading,2013-06-06,other,42,0,8
+lower,HB 707,NCV00009025,upper,Amendment 1,2013-06-06,other,42,0,8
+lower,HB 816,NCV00009026,lower,Second Reading,2013-06-06,other,108,0,12
+upper,SB 9,NCV00009027,lower,Second Reading,2013-06-07,other,102,0,18
+upper,SB 9,NCV00009028,lower,A1 Lucas   Second Reading,2013-06-07,other,102,0,18
+upper,SB 76,NCV00009029,lower,A1 Harrison   Second Reading,2013-06-07,other,34,67,19
+upper,SB 76,NCV00009030,lower,Second Reading,2013-06-07,other,68,33,19
+upper,SB 76,NCV00009031,lower,A2 Hager   Second Reading,2013-06-07,other,97,4,19
+upper,SB 76,NCV00009032,lower,A3 Hager   Third Reading,2013-06-07,other,100,3,17
+upper,SB 76,NCV00009033,lower,Third Reading,2013-06-07,other,70,33,17
+upper,SB 268,NCV00009034,lower,Third Reading,2013-06-07,other,100,0,20
+upper,SB 325,NCV00009035,lower,M7 Postpone To A Day Certain  Second Reading,2013-06-07,other,97,3,20
+lower,HB 88,NCV00009036,lower,M11 Concur,2013-06-07,other,97,2,21
+lower,HB 276,NCV00009037,lower,M11 Concur,2013-06-07,other,98,0,22
+lower,HB 279,NCV00009038,lower,M11 Concur,2013-06-07,other,99,0,21
+lower,HB 317,NCV00009039,lower,M11 Concur,2013-06-07,other,100,0,20
+lower,HB 998,NCV00009040,lower,"A1 Hall, L. M3 To Lay On The Table  Second Reading",2013-06-07,other,66,32,22
+lower,HB 998,NCV00009041,lower,A3 McManus M3 To Lay On The Table  Second Reading,2013-06-07,other,67,34,19
+lower,HB 998,NCV00009042,lower,A2 Holley M3 To Lay On The Table  Second Reading,2013-06-07,other,65,31,24
+lower,HB 998,NCV00009043,lower,M4 Previous Question  Second Reading,2013-06-07,other,71,32,17
+lower,HB 998,NCV00009044,lower,Second Reading,2013-06-07,other,72,32,16
+upper,SB 9,NCV00009045,lower,Third Reading,2013-06-10,other,112,0,8
+upper,SB 9,NCV00009046,lower,A2 Hager   Third Reading,2013-06-10,other,112,0,8
+upper,SB 207,NCV00009047,lower,Second Reading,2013-06-10,other,114,0,6
+upper,SB 211,NCV00009048,lower,Second Reading,2013-06-10,other,113,0,7
+upper,SB 325,NCV00009049,lower,A2 Stam   Second Reading,2013-06-10,other,112,0,8
+upper,SB 325,NCV00009050,lower,A3 Holley   Second Reading,2013-06-10,other,43,70,7
+upper,SB 325,NCV00009051,lower,Second Reading,2013-06-10,other,69,44,7
+upper,SB 325,NCV00009052,lower,Third Reading,2013-06-10,other,70,42,8
+upper,SB 325,NCV00009053,lower,A4 Jackson   Second Reading,2013-06-10,other,48,65,7
+upper,SB 325,NCV00009054,lower,A5 Gill   Second Reading,2013-06-10,other,48,61,11
+upper,SB 325,NCV00009055,lower,A1 Stam   Second Reading,2013-06-10,other,113,0,7
+upper,SB 409,NCV00009056,lower,Second Reading,2013-06-10,other,111,2,7
+upper,SB 545,NCV00009058,lower,Third Reading,2013-06-10,other,112,0,8
+lower,HB 456,NCV00009059,lower,M11 Concur,2013-06-10,other,112,0,8
+lower,HB 816,NCV00009060,lower,Third Reading,2013-06-10,other,110,0,10
+lower,HB 998,NCV00009061,lower,Third Reading,2013-06-10,other,75,37,8
+upper,SB 402,NCV00009064,lower,Second Reading,2013-06-12,other,77,41,2
+upper,SB 402,NCV00009072,lower,A16 McManus AME-39  Second Reading,2013-06-12,other,97,18,5
+upper,SB 402,NCV00009074,lower,A22 Wells AMK-33  Second Reading,2013-06-12,other,104,11,5
+upper,SB 402,NCV00009075,lower,A9 Gill AMM-29  Second Reading,2013-06-12,other,49,65,6
+upper,SB 402,NCV00009076,lower,A10 Dobson AMK-32  Second Reading,2013-06-12,other,113,1,6
+upper,SB 402,NCV00009079,lower,A14 Blust AMH-36  Second Reading,2013-06-12,other,17,98,5
+upper,SB 402,NCV00009080,lower,A4 Jeter ALH-44  Second Reading,2013-06-12,other,109,7,4
+upper,SB 402,NCV00009084,lower,A5 Richardson ALM-45  Second Reading,2013-06-12,other,41,74,5
+upper,SB 402,NCV00009085,lower,A25 Starnes AMK-30  Second Reading,2013-06-12,other,110,1,9
+upper,SB 402,NCV00009089,lower,A3 Daughtry ALH-45  Second Reading,2013-06-12,other,115,0,5
+lower,HB 473,NCV00009093,lower,M11 Concur,2013-06-12,other,115,0,5
+lower,HB 505,NCV00009094,lower,M11 Concur,2013-06-10,other,114,0,6
+lower,HB 707,NCV00009096,lower,M11 Concur Sen. Amd. 1,2013-06-12,other,115,0,5
+upper,SB 9,NCV00009097,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 36,NCV00009098,upper,Conference Rpt Motion 8 To Adopt,2013-06-12,other,48,0,2
+upper,SB 76,NCV00009099,upper,Motion 9 To Concur,2013-06-12,other,8,41,1
+upper,SB 124,NCV00009100,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 137,NCV00009101,upper,Motion 9 To Concur,2013-06-10,other,46,2,2
+upper,SB 156,NCV00009102,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 200,NCV00009103,upper,Motion 9 To Concur,2013-06-10,other,1,47,2
+upper,SB 222,NCV00009104,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 248,NCV00009105,upper,Second Reading,2013-06-11,other,49,0,1
+upper,SB 306,NCV00009106,upper,Motion 9 To Concur,2013-06-12,other,33,16,1
+upper,SB 312,NCV00009107,upper,Third Reading,2013-06-11,other,38,10,2
+upper,SB 312,NCV00009108,upper,Second Reading,2013-06-10,other,39,7,4
+upper,SB 325,NCV00009109,upper,Motion 9 To Concur,2013-06-12,other,33,15,2
+upper,SB 402,NCV00009110,lower,Third Reading,2013-06-13,other,77,40,3
+upper,SB 409,NCV00009111,upper,Motion 9 To Concur,2013-06-12,other,0,49,1
+upper,SB 411,NCV00009112,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 439,NCV00009113,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 443,NCV00009114,upper,Motion 9 To Concur,2013-06-12,other,48,1,1
+upper,SB 452,NCV00009115,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 468,NCV00009116,upper,Motion 9 To Concur,2013-06-12,other,49,0,1
+upper,SB 486,NCV00009117,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 489,NCV00009118,upper,Motion 9 To Concur,2013-06-10,other,40,8,2
+upper,SB 520,NCV00009119,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 528,NCV00009120,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 530,NCV00009121,upper,Motion 9 To Concur,2013-06-12,other,48,0,2
+upper,SB 539,NCV00009122,upper,Motion 9 To Concur,2013-06-10,other,48,0,2
+upper,SB 542,NCV00009123,upper,Motion 9 To Concur,2013-06-12,other,47,0,3
+upper,SB 545,NCV00009124,upper,Motion 9 To Concur,2013-06-12,other,48,0,2
+upper,SB 571,NCV00009125,upper,Amendment 1,2013-06-12,other,47,0,3
+upper,SB 571,NCV00009126,upper,Second Reading,2013-06-12,other,46,1,3
+upper,SB 571,NCV00009127,upper,Amendment 2,2013-06-12,other,47,0,3
+upper,SB 630,NCV00009128,upper,Motion 9 To Concur,2013-06-12,other,48,0,2
+upper,SR 726,NCV00009129,upper,Motion 8 To Adopt,2013-06-12,other,48,0,2
+lower,HB 29,NCV00009130,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 60,NCV00009131,upper,Second Reading,2013-06-11,other,48,1,1
+lower,HB 68,NCV00009132,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 120,NCV00009133,upper,Second Reading,2013-06-12,other,47,1,2
+lower,HB 157,NCV00009134,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 209,NCV00009135,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 211,NCV00009136,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 219,NCV00009137,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 223,NCV00009138,upper,Second Reading,2013-06-11,other,48,0,2
+lower,HB 240,NCV00009139,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 248,NCV00009140,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 255,NCV00009141,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HJR 271,NCV00009142,upper,Second Reading,2013-06-13,other,45,0,5
+lower,HB 278,NCV00009143,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 289,NCV00009144,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 322,NCV00009145,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 331,NCV00009146,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 332,NCV00009147,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 350,NCV00009148,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 390,NCV00009149,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 396,NCV00009150,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 439,NCV00009151,upper,Second Reading,2013-06-11,other,48,1,1
+lower,HB 501,NCV00009152,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 515,NCV00009153,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 562,NCV00009154,upper,Third Reading,2013-06-13,other,46,0,4
+lower,HB 562,NCV00009155,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 587,NCV00009156,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 587,NCV00009157,upper,Amendment 1,2013-06-11,other,49,0,1
+lower,HB 597,NCV00009158,upper,Second Reading,2013-06-12,other,36,11,3
+lower,HB 611,NCV00009159,upper,Second Reading,2013-06-12,other,47,0,3
+lower,HB 614,NCV00009160,upper,Second Reading,2013-06-12,other,47,1,2
+lower,HB 623,NCV00009161,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 629,NCV00009162,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 641,NCV00009163,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 649,NCV00009164,upper,Amendment 1,2013-06-12,other,46,2,2
+lower,HB 649,NCV00009165,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 650,NCV00009166,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 662,NCV00009167,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 664,NCV00009168,upper,Second Reading,2013-06-11,other,49,0,1
+lower,HB 664,NCV00009169,upper,Amendment 1,2013-06-11,other,49,0,1
+lower,HB 684,NCV00009170,upper,Second Reading,2013-06-12,other,47,0,3
+lower,HB 743,NCV00009171,upper,Third Reading,2013-06-13,other,41,6,3
+lower,HB 743,NCV00009172,upper,Amendment 2 Motion 1 To Table,2013-06-12,other,33,15,2
+lower,HB 743,NCV00009173,upper,Amendment 1,2013-06-12,other,43,5,2
+lower,HB 743,NCV00009174,upper,Second Reading,2013-06-12,other,40,8,2
+lower,HB 762,NCV00009175,upper,Second Reading,2013-06-12,other,47,0,3
+lower,HB 763,NCV00009176,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 765,NCV00009177,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 817,NCV00009178,upper,Second Reading,2013-06-13,other,42,5,3
+lower,HB 850,NCV00009179,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 879,NCV00009180,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 892,NCV00009181,upper,Second Reading,2013-06-12,other,48,0,2
+lower,HB 937,NCV00009182,upper,Amendment 2,2013-06-12,other,16,32,2
+lower,HB 937,NCV00009183,upper,Amendment 1,2013-06-12,other,39,8,3
+lower,HB 937,NCV00009184,upper,Second Reading,2013-06-12,other,32,16,2
+lower,HB 937,NCV00009185,upper,Amendment 3,2013-06-12,other,48,0,2
+lower,HB 937,NCV00009186,upper,Amendment 4,2013-06-13,other,14,31,5
+lower,HB 937,NCV00009187,upper,Third Reading,2013-06-13,other,31,14,5
+lower,HB 998,NCV00009188,upper,Amendment 1,2013-06-13,other,18,29,3
+lower,HB 998,NCV00009189,upper,Second Reading,2013-06-13,other,30,17,3
+upper,SB 8,NCV00009190,lower,Second Reading,2013-06-17,other,107,5,8
+upper,SB 25,NCV00009191,lower,Second Reading,2013-06-17,other,112,0,8
+upper,SB 264,NCV00009192,lower,Second Reading,2013-06-17,other,71,41,8
+upper,SB 285,NCV00009193,lower,Second Reading,2013-06-17,other,112,0,8
+upper,SB 358,NCV00009194,lower,Second Reading,2013-06-17,other,112,0,8
+upper,SB 402,NCV00009195,upper,Motion 9 To Concur  Second Reading,2013-06-17,other,0,47,3
+upper,SB 494,NCV00009196,upper,Motion 9 To Concur,2013-06-17,other,47,0,3
+upper,SB 663,NCV00009197,upper,Amendment 1,2013-06-17,other,47,0,3
+upper,SB 663,NCV00009198,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 57,NCV00009199,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 147,NCV00009200,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 209,NCV00009201,upper,Amendment 1,2013-06-17,other,10,37,3
+lower,HB 223,NCV00009202,lower,M11 Concur,2013-06-17,other,109,0,11
+lower,HB 240,NCV00009203,lower,M11 Concur,2013-06-17,other,109,0,11
+lower,HB 255,NCV00009205,lower,M11 Not Concur,2013-06-17,other,110,0,10
+lower,HB 322,NCV00009206,lower,M11 Concur,2013-06-17,other,111,0,9
+lower,HB 332,NCV00009207,lower,M11 Concur,2013-06-17,other,111,0,9
+lower,HB 333,NCV00009208,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 390,NCV00009209,lower,M11 Concur,2013-06-17,other,111,0,9
+lower,HB 433,NCV00009210,upper,Conference Rpt Motion 8 To Adopt,2013-06-17,other,47,0,3
+lower,HB 433,NCV00009211,lower,C RPT Adopted,2013-06-17,other,112,0,8
+lower,HB 459,NCV00009212,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 493,NCV00009213,lower,Second Reading,2013-06-17,other,86,23,11
+lower,HB 543,NCV00009214,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 587,NCV00009215,lower,M11 Concur,2013-06-17,other,112,0,8
+lower,HB 614,NCV00009216,upper,Third Reading,2013-06-17,other,44,0,6
+lower,HB 626,NCV00009217,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 628,NCV00009218,upper,Second Reading,2013-06-17,other,45,1,4
+lower,HB 628,NCV00009219,upper,Amendment 1,2013-06-17,other,46,0,4
+lower,HB 662,NCV00009220,lower,M11 Not Concur,2013-06-17,other,112,0,8
+lower,HB 664,NCV00009221,lower,M11 Concur,2013-06-17,other,109,2,9
+lower,HB 785,NCV00009222,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 785,NCV00009223,upper,Amendment 1,2013-06-17,other,47,0,3
+lower,HB 817,NCV00009224,upper,Third Reading,2013-06-17,other,44,2,4
+lower,HR 835,NCV00009225,lower,R2 For Adoption,2013-06-17,other,108,0,12
+lower,HB 868,NCV00009226,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 891,NCV00009227,upper,Second Reading,2013-06-17,other,47,0,3
+lower,HB 951,NCV00009228,lower,Second Reading,2013-06-17,other,76,36,8
+upper,SJR 7,NCV00009229,lower,Second Reading,2013-06-18,other,114,0,6
+upper,SB 264,NCV00009230,lower,A2 Stam   Third Reading,2013-06-18,other,115,0,5
+upper,SB 639,NCV00009233,lower,Second Reading,2013-06-18,other,109,5,6
+lower,HB 219,NCV00009235,lower,M11 Concur,2013-06-18,other,113,0,7
+lower,HB 331,NCV00009236,lower,M11 Concur,2013-06-18,other,113,1,6
+lower,HB 493,NCV00009237,lower,Third Reading,2013-06-18,other,88,26,6
+lower,HB 597,NCV00009238,lower,M11 Concur,2013-06-18,other,113,2,5
+lower,HB 641,NCV00009239,lower,M11 Concur,2013-06-18,other,114,1,5
+lower,HB 649,NCV00009240,lower,M11 Not Concur,2013-06-18,other,115,0,5
+lower,HB 817,NCV00009241,lower,M11 Concur  R2 Ruled Mat'l,2013-06-18,other,105,8,7
+lower,HR 861,NCV00009242,lower,R2 For Adoption,2013-06-18,other,110,0,10
+upper,SJR 7,NCV00009243,upper,Second Reading,2013-06-18,other,50,0,0
+upper,SJR 15,NCV00009244,upper,Second Reading,2013-06-19,other,46,0,4
+upper,SJR 15,NCV00009245,lower,Second Reading,2013-06-19,other,113,0,7
+upper,SB 18,NCV00009246,upper,Second Reading,2013-06-20,other,47,0,3
+upper,SB 103,NCV00009247,lower,M8 Re-Refer Finance  Second Reading,2013-06-27,other,84,4,32
+upper,SB 103,NCV00009248,lower,Second Reading,2013-06-27,other,95,14,11
+upper,SB 103,NCV00009249,lower,M6 Reconsider  Second Reading,2013-06-27,other,74,14,32
+upper,SB 127,NCV00009250,lower,Third Reading,2013-06-27,other,86,27,7
+upper,SB 127,NCV00009251,lower,"A4 Graham, C.   Second Reading",2013-06-26,other,107,4,9
+upper,SB 127,NCV00009252,lower,A2 Murry   Second Reading,2013-06-26,other,109,1,10
+upper,SB 127,NCV00009253,lower,A3 McElraft   Second Reading,2013-06-26,other,110,0,10
+upper,SB 127,NCV00009254,lower,A1 Murry   Second Reading,2013-06-26,other,109,0,11
+upper,SB 132,NCV00009257,lower,A6 Lucas M3 To Lay On The Table  Third Reading,2013-06-27,other,68,38,14
+upper,SB 132,NCV00009258,lower,M4 Previous Question  Third Reading,2013-06-27,other,67,43,10
+upper,SB 132,NCV00009259,lower,Third Reading,2013-06-27,other,69,42,9
+upper,SB 132,NCV00009261,lower,M4 Previous Question  Second Reading,2013-06-26,other,75,42,3
+upper,SB 132,NCV00009262,lower,A4 Farmer-Butterfield M3 To Lay On The Table  Second Reading,2013-06-26,other,72,43,5
+upper,SB 132,NCV00009263,lower,A3 Hamilton   Second Reading,2013-06-26,other,39,76,5
+upper,SB 132,NCV00009264,lower,A2 Adams   Second Reading,2013-06-26,other,43,72,5
+upper,SB 168,NCV00009266,upper,Motion 9 To Concur,2013-06-25,other,47,0,3
+upper,SB 168,NCV00009267,lower,A1 Murry   Second Reading,2013-06-20,other,105,0,15
+upper,SB 168,NCV00009268,lower,Second Reading,2013-06-20,other,104,1,15
+upper,SB 174,NCV00009269,lower,Second Reading,2013-06-27,other,101,2,17
+upper,SB 177,NCV00009270,lower,Second Reading,2013-06-27,other,109,0,11
+upper,SB 205,NCV00009271,upper,Motion 9 To Concur,2013-06-26,other,49,0,1
+upper,SB 231,NCV00009273,upper,Motion 9 To Concur,2013-06-24,other,0,45,5
+upper,SB 231,NCV00009274,lower,"A1 Graham, C.   Second Reading",2013-06-19,other,114,0,6
+upper,SB 231,NCV00009275,lower,Second Reading,2013-06-19,other,113,0,7
+upper,SB 261,NCV00009276,upper,Second Reading,2013-06-27,other,44,0,6
+upper,SB 264,NCV00009277,upper,Motion 9 To Concur,2013-06-24,other,45,0,5
+upper,SB 264,NCV00009278,lower,"A1 Brawley, W. M6 Reconsider  Third Reading",2013-06-19,other,114,0,6
+upper,SB 264,NCV00009279,lower,Third Reading,2013-06-19,other,113,1,6
+upper,SB 280,NCV00009280,lower,Second Reading,2013-06-27,other,101,1,18
+upper,SB 285,NCV00009281,upper,Motion 9 To Concur,2013-06-19,other,48,0,2
+upper,SB 305,NCV00009282,upper,Second Reading,2013-06-20,other,47,0,3
+upper,SB 315,NCV00009283,lower,Second Reading,2013-06-27,other,73,32,15
+upper,SB 315,NCV00009284,lower,A1 Luebke   Second Reading,2013-06-27,other,36,72,12
+upper,SB 328,NCV00009285,upper,Amendment 1,2013-06-24,other,36,9,5
+upper,SB 328,NCV00009286,upper,Amendment 3,2013-06-24,other,13,32,5
+upper,SB 328,NCV00009287,upper,Third Reading,2013-06-24,other,29,16,5
+upper,SB 328,NCV00009289,upper,Second Reading,2013-06-20,other,28,18,4
+upper,SB 336,NCV00009290,lower,Second Reading,2013-06-19,other,113,0,7
+upper,SB 337,NCV00009291,lower,Second Reading,2013-06-27,other,88,13,19
+upper,SB 337,NCV00009292,lower,A1 Blackwell   Second Reading,2013-06-27,other,101,0,19
+upper,SB 377,NCV00009293,upper,Motion 9 To Concur,2013-06-24,other,46,0,4
+upper,SB 377,NCV00009294,lower,Second Reading,2013-06-19,other,112,2,6
+upper,SB 399,NCV00009295,lower,Third Reading,2013-06-27,other,104,1,15
+upper,SB 399,NCV00009296,lower,Second Reading,2013-06-27,other,104,1,15
+upper,SB 407,NCV00009297,upper,Second Reading,2013-06-20,other,47,0,3
+upper,SB 461,NCV00009298,lower,Second Reading,2013-06-19,other,114,0,6
+upper,SB 485,NCV00009299,upper,Second Reading,2013-06-27,other,46,0,4
+upper,SB 485,NCV00009300,upper,Amendment 1,2013-06-27,other,46,0,4
+upper,SB 488,NCV00009301,upper,Second Reading,2013-06-26,other,49,0,1
+upper,SB 490,NCV00009302,upper,Motion 9 To Concur,2013-06-27,other,44,2,4
+upper,SB 490,NCV00009303,lower,Second Reading,2013-06-20,other,94,9,17
+upper,SB 490,NCV00009304,lower,Third Reading,2013-06-26,other,96,20,4
+upper,SB 568,NCV00009305,upper,Motion 9 To Concur,2013-06-24,other,46,0,4
+upper,SB 568,NCV00009306,lower,A1 Faircloth   Second Reading,2013-06-19,other,112,0,8
+upper,SB 613,NCV00009308,upper,Motion 9 To Concur,2013-06-26,other,49,0,1
+upper,SB 613,NCV00009309,lower,Second Reading,2013-06-24,other,108,0,12
+upper,SB 613,NCV00009310,lower,A1 Cleveland   Second Reading,2013-06-24,other,108,0,12
+upper,SB 635,NCV00009311,upper,Motion 9 To Concur,2013-06-26,other,49,0,1
+upper,SB 635,NCV00009313,lower,A1 Hager   Second Reading,2013-06-19,other,112,0,8
+upper,SB 638,NCV00009314,lower,A1 Glazier   Second Reading,2013-06-27,other,111,1,8
+upper,SB 638,NCV00009315,lower,A3 Glazier   Second Reading,2013-06-27,other,109,0,11
+upper,SB 638,NCV00009316,lower,A2 Glazier   Second Reading,2013-06-27,other,112,0,8
+upper,SB 638,NCV00009317,lower,Second Reading,2013-06-27,other,109,3,8
+upper,SB 640,NCV00009318,upper,Second Reading,2013-06-26,other,49,0,1
+upper,SB 683,NCV00009319,lower,A1 Glazier   Second Reading,2013-06-27,other,100,0,20
+upper,SB 683,NCV00009320,lower,Second Reading,2013-06-27,other,100,0,20
+upper,SB 709,NCV00009321,lower,M4 Previous Question  Second Reading,2013-06-27,other,73,32,15
+upper,SB 709,NCV00009324,lower,Second Reading,2013-06-27,other,44,64,12
+upper,SB 712,NCV00009325,lower,Second Reading,2013-06-20,other,104,1,15
+upper,SB 717,NCV00009326,lower,Second Reading,2013-06-27,other,108,1,11
+lower,HB 56,NCV00009327,upper,Amendment 1,2013-06-19,other,47,0,3
+lower,HB 56,NCV00009328,upper,Second Reading,2013-06-19,other,48,0,2
+lower,HB 56,NCV00009329,lower,M11 Concur,2013-06-25,other,112,0,8
+lower,HB 57,NCV00009330,lower,M11 Concur,2013-06-20,other,104,0,16
+lower,HB 122,NCV00009332,upper,Second Reading,2013-06-18,other,36,14,0
+lower,HB 122,NCV00009333,lower,M11 Not Concur,2013-06-24,other,108,0,12
+lower,HB 143,NCV00009334,upper,Second Reading,2013-06-20,other,43,0,7
+lower,HB 143,NCV00009335,upper,Third Reading,2013-06-26,other,49,0,1
+lower,HB 147,NCV00009336,lower,M11 Concur,2013-06-20,other,103,1,16
+lower,HB 209,NCV00009337,lower,M11 Concur,2013-06-20,other,104,0,16
+lower,HB 220,NCV00009338,upper,Second Reading,2013-06-19,other,48,0,2
+lower,HB 220,NCV00009339,upper,Amendment 1,2013-06-19,other,48,0,2
+lower,HB 220,NCV00009340,lower,M11 Concur Sen. Amd. 1,2013-06-25,other,111,0,9
+lower,HB 249,NCV00009342,upper,Second Reading,2013-06-20,other,47,0,3
+lower,HB 261,NCV00009343,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 261,NCV00009344,upper,Third Reading,2013-06-26,other,49,0,1
+lower,HB 290,NCV00009345,lower,M11 Concur,2013-06-25,other,111,0,9
+lower,HB 294,NCV00009347,lower,M11 Concur,2013-06-25,other,111,0,9
+lower,HB 302,NCV00009348,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 302,NCV00009349,upper,Third Reading,2013-06-26,other,49,0,1
+lower,HB 336,NCV00009350,upper,Second Reading,2013-06-25,other,37,12,1
+lower,HB 343,NCV00009352,upper,Second Reading,2013-06-26,other,49,0,1
+lower,HB 409,NCV00009354,upper,Second Reading,2013-06-25,other,46,0,4
+lower,HB 409,NCV00009355,upper,Third Reading,2013-06-26,other,48,0,2
+lower,HB 412,NCV00009356,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 412,NCV00009357,upper,Third Reading,2013-06-26,other,49,0,1
+lower,HB 418,NCV00009358,upper,Second Reading,2013-06-26,other,49,0,1
+lower,HB 421,NCV00009359,upper,Third Reading,2013-06-25,other,47,0,3
+lower,HB 421,NCV00009360,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 421,NCV00009361,lower,R3 Ruled Mat'l,2013-06-27,other,111,0,9
+lower,HB 421,NCV00009362,lower,M11 Concur  R2 Ruled Mat'l,2013-06-26,other,99,0,21
+lower,HB 476,NCV00009363,lower,A1 Hager   Second Reading,2013-06-20,other,103,0,17
+lower,HB 476,NCV00009364,lower,Second Reading,2013-06-20,other,105,0,15
+lower,HB 490,NCV00009365,upper,Amendment 1 Motion 1 To Table,2013-06-26,other,32,17,1
+lower,HB 490,NCV00009366,upper,Second Reading,2013-06-26,other,32,17,1
+lower,HB 526,NCV00009367,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 526,NCV00009368,upper,Third Reading,2013-06-26,other,49,0,1
+lower,HB 526,NCV00009369,lower,M11 Concur,2013-06-27,other,113,1,6
+lower,HB 529,NCV00009370,lower,Second Reading,2013-06-20,other,78,25,17
+lower,HB 529,NCV00009371,lower,Third Reading,2013-06-24,other,83,25,12
+lower,HB 543,NCV00009372,lower,M6 Reconsider,2013-06-27,other,114,0,6
+lower,HB 543,NCV00009373,lower,M11 Concur,2013-06-27,other,114,0,6
+lower,HB 543,NCV00009374,lower,M11 Not Concur,2013-06-19,other,108,0,12
+lower,HB 553,NCV00009375,upper,Second Reading,2013-06-20,other,40,6,4
+lower,HB 553,NCV00009376,upper,Third Reading,2013-06-26,other,40,9,1
+lower,HB 562,NCV00009377,lower,M11 Concur,2013-06-19,other,111,0,9
+lower,HB 567,NCV00009379,upper,Second Reading,2013-06-20,other,46,0,4
+lower,HB 567,NCV00009380,upper,Third Reading,2013-06-25,other,47,0,3
+lower,HB 567,NCV00009381,lower,R3 Ruled Mat'l,2013-06-27,other,111,0,9
+lower,HB 567,NCV00009382,lower,M11 Concur  R2 Ruled Mat'l,2013-06-26,other,105,0,15
+lower,HB 568,NCV00009383,lower,Second Reading,2013-06-27,other,68,41,11
+lower,HB 614,NCV00009384,lower,M11 Not Concur,2013-06-20,other,95,0,25
+lower,HB 626,NCV00009385,lower,M11 Concur,2013-06-20,other,104,0,16
+lower,HB 628,NCV00009386,lower,M11 Concur,2013-06-20,other,105,0,15
+lower,HB 656,NCV00009387,upper,Second Reading,2013-06-18,other,50,0,0
+lower,HB 656,NCV00009388,lower,M11 Concur,2013-06-24,other,107,1,12
+lower,HB 680,NCV00009389,lower,Second Reading,2013-06-20,other,103,1,16
+lower,HB 686,NCV00009390,upper,Second Reading,2013-06-19,other,48,0,2
+lower,HB 700,NCV00009391,upper,Second Reading,2013-06-19,other,48,0,2
+lower,HB 727,NCV00009392,upper,Second Reading,2013-06-18,other,50,0,0
+lower,HB 743,NCV00009393,lower,M11 Concur  R2 Ruled Mat'l,2013-06-24,other,106,1,13
+lower,HB 743,NCV00009394,lower,M11 Concur  R3 Ruled Mat'l,2013-06-25,other,74,38,8
+lower,HB 784,NCV00009395,upper,Amendment 1,2013-06-18,other,50,0,0
+lower,HB 784,NCV00009396,upper,Second Reading,2013-06-18,other,50,0,0
+lower,HB 784,NCV00009397,lower,M11 Concur,2013-06-24,other,108,0,12
+lower,HB 785,NCV00009398,lower,M11 Concur,2013-06-20,other,104,0,16
+lower,HB 817,NCV00009399,lower,M11 Concur  R3 Ruled Mat'l,2013-06-19,other,105,7,8
+lower,HJR 819,NCV00009400,upper,Second Reading,2013-06-25,other,49,0,1
+lower,HJR 819,NCV00009401,lower,Second Reading,2013-06-25,other,113,0,7
+lower,HB 830,NCV00009402,upper,Second Reading,2013-06-19,other,45,3,2
+lower,HB 832,NCV00009403,upper,Second Reading,2013-06-20,other,47,0,3
+lower,HB 832,NCV00009404,lower,M11 Concur,2013-06-26,other,105,0,15
+lower,HB 868,NCV00009405,lower,M11 Concur,2013-06-20,other,103,0,17
+lower,HJR 1006,NCV00009406,upper,Second Reading,2013-06-25,other,49,0,1
+lower,HR 1013,NCV00009407,lower,R2 For Adoption,2013-06-19,other,115,0,5
+lower,HR 1014,NCV00009408,lower,R2 For Adoption,2013-06-19,other,114,0,6
+upper,SB 480,NCV00009409,upper,Amendment 1,2013-07-01,other,46,0,4
+upper,SB 480,NCV00009410,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HJR 90,NCV00009411,upper,Second Reading,2013-07-01,other,44,2,4
+lower,HB 137,NCV00009412,upper,Second Reading,2013-07-01,other,45,0,5
+lower,HB 161,NCV00009413,upper,Second Reading,2013-07-01,other,45,0,5
+lower,HB 176,NCV00009414,upper,Second Reading,2013-07-01,other,45,0,5
+lower,HB 232,NCV00009416,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 241,NCV00009417,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 257,NCV00009418,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HJR 259,NCV00009419,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 340,NCV00009420,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 391,NCV00009421,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 683,NCV00009422,upper,Second Reading,2013-07-01,other,37,9,4
+lower,HB 828,NCV00009423,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 895,NCV00009424,upper,Second Reading,2013-07-01,other,46,0,4
+lower,HB 917,NCV00009425,upper,Second Reading,2013-07-01,other,46,0,4
+upper,SB 132,NCV00009426,upper,Motion 9 To Concur,2013-07-02,other,32,12,6
+upper,SB 174,NCV00009427,upper,Motion 9 To Concur,2013-07-02,other,44,0,6
+upper,SB 280,NCV00009428,upper,Motion 9 To Concur,2013-07-02,other,44,0,6
+upper,SB 399,NCV00009429,upper,Motion 9 To Concur  Second Reading,2013-07-02,other,43,0,7
+upper,SB 399,NCV00009430,upper,Motion 9 To Concur  Third Reading,2013-07-02,other,44,0,6
+upper,SB 480,NCV00009431,upper,Third Reading,2013-07-02,other,47,0,3
+upper,SB 638,NCV00009432,upper,Motion 9 To Concur,2013-07-02,other,41,3,6
+upper,SB 683,NCV00009433,upper,Motion 9 To Concur,2013-07-02,other,4,40,6
+upper,SB 717,NCV00009434,upper,Motion 9 To Concur,2013-07-02,other,42,0,8
+lower,HB 94,NCV00009435,upper,Amendment 2,2013-07-02,other,47,0,3
+lower,HB 94,NCV00009436,upper,Second Reading,2013-07-02,other,35,11,4
+lower,HB 94,NCV00009437,upper,Amendment 3,2013-07-02,other,47,0,3
+lower,HB 94,NCV00009438,upper,Amendment 4,2013-07-02,other,35,12,3
+lower,HB 94,NCV00009439,upper,Amendment 5,2013-07-02,other,46,0,4
+lower,HB 94,NCV00009440,upper,Amendment 6,2013-07-02,other,36,10,4
+lower,HB 94,NCV00009441,upper,Amendment 1,2013-07-02,other,46,0,4
+lower,HB 110,NCV00009442,upper,Second Reading,2013-07-02,other,44,2,4
+lower,HB 168,NCV00009443,upper,Second Reading,2013-07-02,other,43,3,4
+lower,HB 168,NCV00009444,upper,Amendment 1,2013-07-02,other,46,0,4
+lower,HB 250,NCV00009445,upper,Second Reading,2013-07-02,other,34,11,5
+lower,HB 250,NCV00009446,upper,Amendment 3,2013-07-02,other,37,8,5
+lower,HB 250,NCV00009447,upper,Amendment 2,2013-07-02,other,34,11,5
+lower,HB 250,NCV00009448,upper,Amendment 1,2013-07-02,other,38,7,5
+lower,HB 296,NCV00009449,upper,Second Reading,2013-07-02,other,42,4,4
+lower,HB 296,NCV00009450,upper,Amendment 1,2013-07-02,other,45,1,4
+lower,HB 327,NCV00009451,upper,Second Reading,2013-07-02,other,46,0,4
+lower,HB 345,NCV00009452,upper,Second Reading,2013-07-02,other,46,0,4
+lower,HB 357,NCV00009453,upper,Amendment 1,2013-07-02,other,46,0,4
+lower,HB 357,NCV00009454,upper,Second Reading,2013-07-02,other,46,0,4
+lower,HB 358,NCV00009455,upper,Second Reading,2013-07-02,other,46,0,4
+lower,HB 362,NCV00009456,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 371,NCV00009457,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 402,NCV00009458,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 428,NCV00009459,upper,Amendment 1,2013-07-02,other,44,1,5
+lower,HB 428,NCV00009460,upper,Amendment 2,2013-07-02,other,33,12,5
+lower,HB 428,NCV00009461,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 450,NCV00009462,upper,Second Reading,2013-07-02,other,44,0,6
+lower,HB 462,NCV00009463,upper,Second Reading,2013-07-02,other,39,5,6
+lower,HB 492,NCV00009464,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 492,NCV00009465,upper,Amendment 1,2013-07-02,other,44,0,6
+lower,HB 529,NCV00009466,upper,Second Reading,2013-07-02,other,34,13,3
+lower,HB 635,NCV00009467,upper,Second Reading,2013-07-02,other,44,0,6
+lower,HB 695,NCV00009468,upper,Second Reading,2013-07-02,other,27,14,9
+lower,HB 754,NCV00009469,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 767,NCV00009470,upper,Second Reading,2013-07-02,other,45,0,5
+lower,HB 783,NCV00009471,upper,Second Reading,2013-07-02,other,44,0,6
+lower,HB 816,NCV00009472,upper,Second Reading,2013-07-02,other,47,0,3
+lower,HB 982,NCV00009473,upper,Second Reading,2013-07-02,other,44,0,6
+lower,HB 998,NCV00009474,upper,Amendment 1,2013-07-02,other,46,0,4
+lower,HB 998,NCV00009475,upper,Second Reading,2013-07-02,other,32,15,3
+lower,HB 94,NCV00009476,upper,Third Reading,2013-07-03,other,30,11,9
+lower,HB 168,NCV00009477,upper,Second Reading,2013-07-03,other,41,0,9
+lower,HB 168,NCV00009478,upper,Amendment 2,2013-07-03,other,41,0,9
+lower,HB 296,NCV00009479,upper,Third Reading,2013-07-03,other,38,3,9
+lower,HB 468,NCV00009480,upper,Amendment 1,2013-07-03,other,43,0,7
+lower,HB 468,NCV00009481,upper,Second Reading,2013-07-03,other,43,0,7
+lower,HB 529,NCV00009482,upper,Third Reading,2013-07-03,other,32,11,7
+lower,HB 695,NCV00009483,upper,Amendment 4 Motion 1 To Table,2013-07-03,other,28,9,13
+lower,HB 695,NCV00009484,upper,Amendment 3 Motion 1 To Table,2013-07-03,other,29,10,11
+lower,HB 695,NCV00009487,upper,Amendment 2 Motion 1 To Table,2013-07-03,other,29,12,9
+lower,HB 816,NCV00009488,upper,Third Reading,2013-07-03,other,43,0,7
+upper,SB 177,NCV00009490,lower,Third Reading,2013-07-08,other,108,1,10
+upper,SB 315,NCV00009492,lower,"A3 Hall, L. M3 To Lay On The Table  Third Reading",2013-07-08,other,71,38,10
+upper,SB 315,NCV00009493,lower,"A2 Hall, L. M3 To Lay On The Table  Third Reading",2013-07-08,other,68,41,10
+upper,SB 315,NCV00009495,lower,Third Reading,2013-07-08,other,76,33,10
+upper,SB 337,NCV00009496,lower,Third Reading,2013-07-08,other,96,14,9
+upper,SB 337,NCV00009497,lower,A2 Stam   Third Reading,2013-07-08,other,110,0,9
+lower,HB 14,NCV00009500,lower,A2 Tine   Second Reading,2013-07-08,other,110,0,9
+lower,HB 15,NCV00009503,upper,Second Reading,2013-07-09,other,48,0,2
+lower,HB 214,NCV00009506,upper,Second Reading,2013-07-09,other,48,0,2
+lower,HB 232,NCV00009507,lower,M11 Not Concur,2013-07-09,other,114,0,5
+lower,HB 250,NCV00009508,lower,M11 Not Concur,2013-07-09,other,115,0,4
+lower,HB 257,NCV00009509,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 321,NCV00009510,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 321,NCV00009511,upper,Amendment 1,2013-07-09,other,48,1,1
+lower,HB 327,NCV00009512,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 340,NCV00009513,lower,M11 Concur,2013-07-09,other,113,1,5
+lower,HB 345,NCV00009514,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 357,NCV00009515,lower,M11 Concur,2013-07-09,other,113,0,6
+lower,HB 402,NCV00009518,lower,M11 Concur,2013-07-09,other,115,0,4
+lower,HB 418,NCV00009519,upper,Third Reading,2013-07-09,other,48,0,2
+lower,HB 467,NCV00009521,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 474,NCV00009522,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 492,NCV00009523,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 510,NCV00009524,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 565,NCV00009525,lower,Second Reading,2013-07-09,other,114,1,4
+lower,HB 616,NCV00009526,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 683,NCV00009527,lower,M11 Concur,2013-07-09,other,99,16,4
+lower,HB 754,NCV00009528,lower,M11 Concur Sen. Amd. 1,2013-07-09,other,114,0,5
+lower,HB 767,NCV00009529,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 783,NCV00009530,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 796,NCV00009531,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HB 802,NCV00009532,upper,Amendment 1,2013-07-09,other,48,1,1
+lower,HB 802,NCV00009533,upper,Amendment 2,2013-07-09,other,10,39,1
+lower,HB 802,NCV00009534,upper,Second Reading,2013-07-09,other,47,2,1
+lower,HB 828,NCV00009535,lower,M11 Concur,2013-07-09,other,114,0,5
+lower,HB 982,NCV00009537,lower,M11 Concur,2013-07-09,other,113,1,5
+lower,HJR 1016,NCV00009538,upper,Second Reading,2013-07-09,other,49,0,1
+lower,HJR 1016,NCV00009539,lower,Second Reading,2013-07-09,other,116,0,3
+upper,SB 140,NCV00009540,lower,Second Reading,2013-07-10,other,103,6,10
+upper,SB 248,NCV00009541,lower,Second Reading,2013-07-10,other,111,0,8
+upper,SB 316,NCV00009542,lower,Second Reading,2013-07-10,other,109,0,10
+upper,SB 337,NCV00009543,upper,Motion 9 To Concur,2013-07-10,other,14,35,1
+upper,SB 386,NCV00009546,lower,A1 Steinburg   Second Reading,2013-07-10,other,111,0,8
+upper,SB 386,NCV00009547,lower,Second Reading,2013-07-10,other,111,0,8
+upper,SB 406,NCV00009548,lower,Second Reading,2013-07-10,other,109,1,9
+upper,SB 465,NCV00009549,lower,Second Reading,2013-07-10,other,108,0,11
+upper,SB 571,NCV00009550,lower,Second Reading,2013-07-10,other,108,2,9
+upper,SB 653,NCV00009551,lower,Second Reading,2013-07-10,other,108,0,11
+lower,HB 14,NCV00009552,lower,Third Reading,2013-07-09,other,109,6,4
+lower,HB 26,NCV00009553,upper,Second Reading,2013-07-10,other,49,0,1
+lower,HB 26,NCV00009554,upper,Amendment 1,2013-07-10,other,45,0,5
+lower,HB 107,NCV00009555,lower,M11 Concur,2013-07-09,other,98,16,5
+lower,HB 296,NCV00009558,lower,M11 Concur,2013-07-10,other,106,5,8
+lower,HB 362,NCV00009559,lower,M11 Concur,2013-07-09,other,113,0,6
+lower,HB 392,NCV00009561,upper,Second Reading,2013-07-10,other,43,6,1
+lower,HB 392,NCV00009562,upper,Amendment 1,2013-07-10,other,49,0,1
+lower,HB 428,NCV00009563,lower,M11 Concur,2013-07-09,other,115,0,4
+lower,HB 816,NCV00009565,lower,M11 Concur,2013-07-10,other,112,0,7
+lower,HJR 1017,NCV00009567,upper,Second Reading,2013-07-10,other,46,0,4
+lower,HJR 1017,NCV00009568,lower,Second Reading,2013-07-10,other,111,0,8
+lower,HR 1018,NCV00009569,lower,R2 For Adoption,2013-07-10,other,103,0,16
+upper,SB 81,NCV00009570,lower,Second Reading,2013-07-11,other,72,42,5
+upper,SB 103,NCV00009571,lower,Second Reading,2013-07-11,other,112,1,6
+upper,SB 112,NCV00009572,lower,Second Reading,2013-07-11,other,84,28,7
+upper,SB 112,NCV00009573,lower,A5 Carney   Second Reading,2013-07-11,other,39,69,11
+upper,SB 112,NCV00009574,lower,A7 Stam   Second Reading,2013-07-11,other,103,9,7
+upper,SB 112,NCV00009575,lower,A9 McGrady M3 To Lay On The Table  Second Reading,2013-07-11,other,65,45,9
+upper,SB 112,NCV00009576,lower,"A10 Hall, D. M3 To Lay On The Table  Second Reading",2013-07-11,other,74,38,7
+upper,SB 112,NCV00009577,lower,A8 Harrison   Second Reading,2013-07-11,other,35,76,8
+upper,SB 112,NCV00009578,lower,A6 McGrady   Second Reading,2013-07-11,other,112,0,7
+upper,SB 112,NCV00009579,lower,A1 Moffitt   Second Reading,2013-07-11,other,113,0,6
+upper,SB 112,NCV00009580,lower,A2 Stam   Second Reading,2013-07-11,other,29,82,8
+upper,SB 112,NCV00009581,lower,"A3 Hall, D.   Second Reading",2013-07-11,other,39,72,8
+upper,SB 112,NCV00009582,lower,"A4 Hall, D. M3 To Lay On The Table  Second Reading",2013-07-11,other,70,39,10
+upper,SB 140,NCV00009583,lower,A1 Stam   Third Reading,2013-07-11,other,112,0,7
+upper,SB 140,NCV00009584,lower,Third Reading,2013-07-11,other,111,1,7
+upper,SB 159,NCV00009585,lower,Second Reading,2013-07-11,other,112,0,7
+upper,SB 200,NCV00009586,lower,C RPT Adopted,2013-07-11,other,113,0,6
+upper,SB 344,NCV00009587,lower,Second Reading,2013-07-11,other,113,1,5
+upper,SB 353,NCV00009588,lower,Third Reading,2013-07-11,other,74,41,4
+upper,SB 353,NCV00009589,lower,Second Reading,2013-07-11,other,74,41,4
+upper,SB 386,NCV00009590,lower,Third Reading,2013-07-11,other,112,0,7
+upper,SB 407,NCV00009591,lower,Second Reading,2013-07-11,other,112,0,7
+upper,SB 455,NCV00009592,lower,Second Reading,2013-07-11,other,109,1,9
+upper,SB 455,NCV00009593,lower,A1 Stone   Second Reading,2013-07-11,other,109,0,10
+upper,SB 636,NCV00009595,lower,Third Reading,2013-07-11,other,103,10,6
+upper,SB 636,NCV00009596,lower,A1 Stam   Third Reading,2013-07-11,other,113,1,5
+upper,SB 636,NCV00009597,lower,Second Reading,2013-07-11,other,103,9,7
+upper,SB 659,NCV00009598,lower,Second Reading,2013-07-11,other,106,6,7
+lower,HB 26,NCV00009599,lower,M11 Concur,2013-07-11,other,111,0,8
+lower,HB 255,NCV00009600,lower,C RPT Adopted,2013-07-11,other,111,0,8
+lower,HB 649,NCV00009603,lower,C RPT Adopted,2013-07-11,other,113,1,5
+lower,HB 662,NCV00009604,lower,C RPT Adopted,2013-07-11,other,114,0,5
+upper,SB 43,NCV00009606,lower,Second Reading,2013-07-15,other,111,1,8
+upper,SB 73,NCV00009607,lower,Second Reading,2013-07-16,other,111,0,9
+upper,SB 81,NCV00009608,lower,A1 Samuelson   Third Reading,2013-07-16,other,81,34,5
+upper,SB 81,NCV00009610,lower,M4 Previous Question  Third Reading,2013-07-16,other,70,40,10
+upper,SB 103,NCV00009611,lower,Third Reading,2013-07-15,other,110,1,9
+upper,SB 406,NCV00009614,upper,Motion 9 To Concur,2013-07-15,other,46,0,4
+upper,SB 409,NCV00009615,lower,C RPT Adopted,2013-07-15,other,112,0,8
+upper,SB 488,NCV00009617,lower,A1 Collins   Second Reading,2013-07-15,other,109,0,11
+upper,SB 505,NCV00009618,lower,Second Reading,2013-07-15,other,113,0,7
+lower,HB 250,NCV00009620,lower,M4 Previous Question  C RPT Adoption,2013-07-16,other,69,42,9
+lower,HB 321,NCV00009621,lower,M11 Not Concur,2013-07-15,other,110,1,9
+lower,HB 418,NCV00009622,lower,M11 Concur,2013-07-15,other,77,34,9
+lower,HB 467,NCV00009623,lower,M11 Concur,2013-07-15,other,113,0,7
+lower,HB 510,NCV00009624,lower,M11 Concur,2013-07-16,other,113,0,7
+lower,HB 569,NCV00009625,lower,Third Reading,2013-07-15,other,109,3,8
+lower,HB 700,NCV00009627,lower,M11 Concur,2013-07-16,other,113,0,7
+lower,HB 786,NCV00009628,lower,Second Reading,2013-07-16,other,84,29,7
+lower,HB 786,NCV00009629,lower,"A1 Brown, B.   Second Reading",2013-07-16,other,106,5,9
+lower,HB 796,NCV00009630,lower,M11 Concur,2013-07-15,other,110,0,10
+lower,HB 802,NCV00009631,lower,M11 Concur,2013-07-15,other,110,1,9
+lower,HB 937,NCV00009632,lower,M11 Not Concur,2013-07-16,other,96,18,6
+lower,HB 998,NCV00009633,lower,R2 Ruled Mat'l  C RPT Adopted,2013-07-16,other,77,38,5
+lower,HB 998,NCV00009634,lower,M4 Previous Question  R2 Ruled Mat'l,2013-07-16,other,65,45,10
+lower,HB 998,NCV00009635,lower,M11 Not Concur,2013-07-15,other,110,0,10
+lower,HR 1019,NCV00009637,lower,R2 For Adoption,2013-07-15,other,111,0,9
+upper,SB 73,NCV00009638,upper,Motion 9 To Concur,2013-07-17,other,46,2,2
+upper,SB 81,NCV00009639,upper,Motion 9 To Concur  Second Reading,2013-07-17,other,32,16,2
+upper,SB 140,NCV00009640,upper,Motion 9 To Concur,2013-07-16,other,47,0,3
+upper,SB 151,NCV00009641,lower,Second Reading,2013-07-17,other,80,33,7
+upper,SB 151,NCV00009642,lower,A2 Harrison   Second Reading,2013-07-17,other,40,73,7
+upper,SB 151,NCV00009643,lower,A1 Millis   Second Reading,2013-07-17,other,109,1,10
+upper,SB 159,NCV00009644,upper,Motion 9 To Concur  Second Reading,2013-07-17,other,48,0,2
+upper,SB 229,NCV00009646,upper,Motion 9 To Concur,2013-07-17,other,49,0,1
+upper,SB 288,NCV00009647,upper,Motion 9 To Concur,2013-07-17,other,49,0,1
+upper,SB 305,NCV00009648,lower,M4 Previous Question  Second Reading,2013-07-17,other,65,46,9
+upper,SB 305,NCV00009649,lower,Second Reading,2013-07-17,other,69,41,10
+upper,SB 321,NCV00009650,lower,Second Reading,2013-07-17,other,70,40,10
+upper,SB 321,NCV00009652,lower,A1 Daughtry   Second Reading,2013-07-17,other,108,0,12
+upper,SB 341,NCV00009653,lower,Second Reading,2013-07-17,other,88,21,11
+upper,SB 341,NCV00009654,lower,"A1 Brown, B.   Second Reading",2013-07-17,other,105,3,12
+upper,SB 379,NCV00009655,lower,Second Reading,2013-07-17,other,96,3,21
+upper,SB 381,NCV00009656,upper,Second Reading,2013-07-17,other,48,0,2
+upper,SB 386,NCV00009657,upper,Motion 9 To Concur,2013-07-16,other,49,0,1
+upper,SB 444,NCV00009658,lower,Second Reading,2013-07-17,other,108,1,11
+upper,SB 454,NCV00009659,lower,Second Reading,2013-07-17,other,106,1,13
+upper,SB 455,NCV00009660,upper,Motion 9 To Concur,2013-07-16,other,49,0,1
+upper,SB 480,NCV00009661,lower,Second Reading,2013-07-17,other,101,11,8
+upper,SB 485,NCV00009662,lower,Second Reading,2013-07-17,other,98,0,22
+upper,SB 488,NCV00009663,upper,Motion 9 To Concur,2013-07-17,other,48,0,2
+upper,SB 553,NCV00009665,upper,Motion 9 To Concur,2013-07-16,other,1,48,1
+upper,SB 571,NCV00009666,upper,Motion 9 To Concur,2013-07-16,other,4,44,2
+upper,SB 626,NCV00009667,lower,Second Reading,2013-07-17,other,98,1,21
+upper,SB 626,NCV00009668,lower,A1 Harrison   Second Reading,2013-07-17,other,99,2,19
+lower,HB 14,NCV00009669,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 15,NCV00009670,upper,Amendment 1,2013-07-16,other,47,1,2
+lower,HB 15,NCV00009671,upper,Third Reading,2013-07-16,other,48,0,2
+lower,HR 63,NCV00009672,lower,R2 For Adoption,2013-07-17,other,73,35,12
+lower,HB 191,NCV00009673,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 194,NCV00009674,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 232,NCV00009675,lower,C RPT Adopted,2013-07-17,other,97,0,23
+lower,HB 359,NCV00009676,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 359,NCV00009677,upper,Amendment 1,2013-07-17,other,49,0,1
+lower,HB 399,NCV00009678,upper,Amendment 1,2013-07-17,other,49,0,1
+lower,HB 399,NCV00009679,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 476,NCV00009680,upper,Second Reading,2013-07-17,other,49,0,1
+lower,HB 493,NCV00009681,upper,Second Reading,2013-07-17,other,42,7,1
+lower,HB 614,NCV00009682,lower,C RPT Adopted,2013-07-17,other,103,2,15
+lower,HB 636,NCV00009683,upper,Second Reading,2013-07-17,other,48,0,2
+lower,HB 646,NCV00009684,upper,Second Reading,2013-07-17,other,48,0,2
+lower,HB 701,NCV00009685,upper,Second Reading,2013-07-17,other,48,0,2
+lower,HB 786,NCV00009687,lower,Third Reading,2013-07-17,other,85,28,7
+lower,HB 786,NCV00009688,lower,A3 Blust   Third Reading,2013-07-17,other,59,52,9
+lower,HB 936,NCV00009689,upper,Amendment 1,2013-07-17,other,48,0,2
+lower,HB 936,NCV00009690,upper,Second Reading,2013-07-17,other,48,0,2
+lower,HB 998,NCV00009691,lower,R3 Ruled Mat'l  C RPT Adopted,2013-07-17,other,77,36,7
+upper,SB 151,NCV00009693,lower,Third Reading,2013-07-18,other,72,34,14
+upper,SB 159,NCV00009694,upper,Motion 9 To Concur  Third Reading,2013-07-18,other,43,0,7
+upper,SB 305,NCV00009695,upper,Motion 9 To Concur,2013-07-18,other,44,0,6
+upper,SB 305,NCV00009696,lower,A2 Elmore   Third Reading,2013-07-18,other,42,65,13
+upper,SB 305,NCV00009697,lower,Third Reading,2013-07-18,other,95,15,10
+upper,SB 305,NCV00009698,lower,A3 Stevens   Third Reading,2013-07-18,other,36,74,10
+upper,SB 305,NCV00009699,lower,A4 Speciale   Third Reading,2013-07-18,other,109,1,10
+upper,SB 321,NCV00009700,lower,"A3 Moore, T.   Third Reading",2013-07-18,other,107,1,12
+upper,SB 321,NCV00009701,lower,A4 Jackson   Third Reading,2013-07-18,other,43,66,11
+upper,SB 420,NCV00009702,lower,Second Reading,2013-07-18,other,72,36,12
+upper,SB 480,NCV00009703,lower,A1 Daughtry   Third Reading,2013-07-18,other,107,0,13
+upper,SB 538,NCV00009704,upper,Second Reading,2013-07-18,other,42,0,8
+upper,SB 547,NCV00009705,lower,Second Reading,2013-07-18,other,104,2,14
+upper,SB 626,NCV00009706,lower,Third Reading,2013-07-18,other,105,0,15
+lower,HB 14,NCV00009707,upper,Third Reading,2013-07-18,other,42,0,8
+lower,HB 14,NCV00009708,upper,Amendment 1,2013-07-18,other,42,0,8
+lower,HB 191,NCV00009709,upper,Third Reading,2013-07-18,other,41,0,9
+lower,HB 269,NCV00009710,upper,Second Reading,2013-07-18,other,36,6,8
+lower,HB 493,NCV00009711,upper,Third Reading,2013-07-18,other,31,10,9
+lower,HB 523,NCV00009712,upper,Third Reading,2013-07-18,other,44,0,6
+lower,HB 523,NCV00009713,upper,Second Reading,2013-07-18,other,44,0,6
+lower,HB 523,NCV00009714,upper,Amendment 1,2013-07-18,other,44,0,6
+lower,HB 565,NCV00009715,upper,Second Reading,2013-07-18,other,42,0,8
+lower,HB 692,NCV00009716,upper,Second Reading,2013-07-18,other,43,0,7
+lower,HB 692,NCV00009717,upper,Amendment 1,2013-07-18,other,43,0,7
+lower,HB 870,NCV00009718,upper,Third Reading,2013-07-18,other,41,0,9
+lower,HB 870,NCV00009719,upper,Second Reading,2013-07-18,other,41,0,9
+lower,HR 1020,NCV00009720,lower,R2 For Adoption,2013-07-18,other,107,0,13
+upper,SB 341,NCV00009722,upper,Motion 9 To Concur,2013-07-19,other,33,0,17
+upper,SB 379,NCV00009723,upper,Motion 9 To Concur,2013-07-19,other,33,0,17
+upper,SB 581,NCV00009724,upper,Second Reading,2013-07-19,other,36,0,14
+upper,SB 626,NCV00009725,upper,Motion 9 To Concur,2013-07-19,other,33,0,17
+lower,HB 74,NCV00009726,upper,Second Reading,2013-07-19,other,26,7,17
+lower,HB 522,NCV00009727,upper,Second Reading,2013-07-19,other,31,2,17
+lower,HB 652,NCV00009728,upper,Second Reading,2013-07-19,other,12,22,16
+lower,HB 726,NCV00009729,upper,Amendment 1,2013-07-19,other,9,26,15
+lower,HB 726,NCV00009730,upper,Amendment 2,2013-07-19,other,9,26,15
+lower,HB 726,NCV00009731,upper,Second Reading,2013-07-19,other,26,9,15
+upper,SB 182,NCV00009733,lower,Second Reading,2013-07-22,other,112,0,8
+upper,SB 321,NCV00009735,lower,"A6 Moore, T.   Third Reading",2013-07-22,other,112,0,8
+upper,SB 321,NCV00009736,lower,"A5 Moore, T.   Third Reading",2013-07-22,other,111,0,9
+upper,SB 547,NCV00009737,lower,M7 Postpone To A Day Certain  Third Reading,2013-07-22,other,53,57,10
+upper,SB 547,NCV00009738,lower,Third Reading,2013-07-22,other,81,29,10
+lower,HB 14,NCV00009739,lower,M11 Concur  R2 Ruled Mat'l,2013-07-22,other,107,1,12
+lower,HB 15,NCV00009740,lower,M11 Concur,2013-07-22,other,108,1,11
+lower,HB 74,NCV00009741,lower,M11 Not Concur,2013-07-22,other,110,0,10
+lower,HB 392,NCV00009743,lower,M11 Not Concur,2013-07-22,other,111,0,9
+lower,HB 399,NCV00009744,lower,M11 Concur,2013-07-22,other,110,1,9
+lower,HB 476,NCV00009745,lower,M11 Concur,2013-07-22,other,111,0,9
+lower,HB 493,NCV00009746,lower,M11 Not Concur  R2 Ruled Mat'l,2013-07-22,other,98,0,22
+lower,HB 565,NCV00009747,lower,M11 Concur,2013-07-22,other,106,6,8
+lower,HB 936,NCV00009749,lower,M11 Concur Sen. Amd. 1,2013-07-22,other,112,0,8
+upper,SB 18,NCV00009750,lower,A1 Stone   Second Reading,2013-07-23,other,112,0,8
+upper,SB 18,NCV00009751,lower,Second Reading,2013-07-23,other,97,15,8
+upper,SB 103,NCV00009752,upper,Motion 9 To Concur  Second Reading,2013-07-23,other,49,0,1
+upper,SB 127,NCV00009753,upper,Motion 9 To Concur,2013-07-23,other,0,48,2
+upper,SB 182,NCV00009754,lower,Third Reading,2013-07-23,other,117,0,3
+upper,SB 182,NCV00009755,lower,A2 Glazier   Third Reading,2013-07-23,other,117,0,3
+upper,SB 321,NCV00009756,lower,Third Reading,2013-07-23,other,79,37,4
+upper,SB 337,NCV00009757,lower,C RPT Adopted,2013-07-23,other,88,22,10
+upper,SB 381,NCV00009758,lower,Second Reading,2013-07-23,other,113,0,7
+upper,SB 420,NCV00009760,upper,Motion 9 To Concur,2013-07-23,other,37,11,2
+upper,SB 470,NCV00009761,lower,A1 Faircloth   Second Reading,2013-07-23,other,111,2,7
+upper,SB 470,NCV00009762,lower,Second Reading,2013-07-23,other,113,0,7
+upper,SB 480,NCV00009763,upper,Motion 9 To Concur  Second Reading,2013-07-23,other,0,47,3
+upper,SB 480,NCV00009764,lower,Third Reading,2013-07-23,other,110,7,3
+upper,SB 501,NCV00009765,upper,Motion 9 To Concur,2013-07-23,other,0,48,2
+upper,SB 558,NCV00009766,lower,A1 Jones   Second Reading,2013-07-23,other,49,61,10
+upper,SB 558,NCV00009768,lower,M4 Previous Question  Second Reading,2013-07-23,other,73,37,10
+lower,HB 14,NCV00009770,lower,M11 Concur  R3 Ruled Mat'l,2013-07-23,other,115,1,4
+lower,HB 293,NCV00009771,upper,Amendment 1,2013-07-23,other,48,0,2
+lower,HB 293,NCV00009772,upper,Second Reading,2013-07-23,other,48,0,2
+lower,HB 493,NCV00009774,lower,C RPT Adoption,2013-07-23,other,93,19,8
+lower,HB 726,NCV00009776,upper,Third Reading,2013-07-23,other,33,16,1
+lower,HB 831,NCV00009777,lower,Second Reading,2013-07-23,other,113,0,7
+lower,HB 857,NCV00009778,upper,Amendment 1,2013-07-23,other,49,0,1
+lower,HB 857,NCV00009779,upper,Second Reading,2013-07-23,other,49,0,1
+lower,HB 937,NCV00009781,upper,Conference Rpt Motion 8 To Adopt,2013-07-23,other,32,14,4
+lower,HB 937,NCV00009782,lower,C RPT Adoption,2013-07-23,other,73,41,6
+lower,HR 1021,NCV00009783,lower,A1 Lewis   R2 For Adoption,2013-07-23,other,114,0,6
+lower,HR 1021,NCV00009784,lower,R2 For Adoption,2013-07-23,other,118,0,2
+upper,SB 103,NCV00009785,upper,Motion 9 To Concur  Third Reading,2013-07-24,other,49,0,1
+upper,SB 182,NCV00009786,upper,Motion 9 To Concur,2013-07-24,other,0,49,1
+upper,SB 236,NCV00009787,lower,Second Reading,2013-07-24,other,106,9,5
+upper,SB 287,NCV00009788,lower,A1 Avila   Second Reading,2013-07-24,other,62,52,6
+upper,SB 287,NCV00009790,lower,A1 Avila M4 Previous Question  Second Reading,2013-07-24,other,81,32,7
+upper,SB 317,NCV00009791,lower,A1 Hardister   Second Reading,2013-07-24,other,116,0,4
+upper,SB 321,NCV00009793,upper,Motion 9 To Concur,2013-07-24,other,0,49,1
+upper,SB 354,NCV00009794,lower,Second Reading,2013-07-24,other,114,0,6
+upper,SB 368,NCV00009795,lower,Second Reading,2013-07-24,other,97,15,8
+upper,SB 470,NCV00009797,lower,Third Reading,2013-07-24,other,118,1,1
+upper,SB 480,NCV00009798,lower,R2 Ruled Mat'l  C RPT Adoption,2013-07-24,other,93,24,3
+upper,SB 515,NCV00009799,lower,Second Reading,2013-07-24,other,66,44,10
+upper,SB 547,NCV00009801,upper,Motion 9 To Concur  Second Reading,2013-07-24,other,38,11,1
+upper,SB 558,NCV00009802,lower,Third Reading,2013-07-24,other,67,43,10
+lower,HB 135,NCV00009804,upper,Second Reading,2013-07-24,other,49,0,1
+lower,HB 293,NCV00009805,lower,M11 Concur Sen. Amd. 1,2013-07-24,other,113,1,6
+lower,HB 321,NCV00009806,lower,C RPT Adoption,2013-07-24,other,117,0,3
+lower,HB 392,NCV00009807,lower,M4 Previous Question  C RPT Adoption,2013-07-24,other,75,37,8
+lower,HB 392,NCV00009808,lower,C RPT Adoption,2013-07-24,other,92,21,7
+lower,HB 417,NCV00009809,upper,Second Reading,2013-07-24,other,38,11,1
+lower,HB 417,NCV00009810,upper,Amendment 1,2013-07-24,other,33,16,1
+lower,HB 417,NCV00009811,upper,Amendment 2,2013-07-24,other,39,10,1
+lower,HB 417,NCV00009812,lower,M11 Not Concur Sen. Amd. 1,2013-07-24,other,111,0,9
+lower,HB 417,NCV00009813,lower,M11 Not Concur Sen. Amd. 2,2013-07-24,other,111,0,9
+lower,HB 491,NCV00009814,lower,M11 Concur,2013-07-24,other,72,40,8
+lower,HB 522,NCV00009815,lower,M11 Concur,2013-07-24,other,75,37,8
+lower,HB 552,NCV00009816,upper,Amendment 1,2013-07-24,other,49,0,1
+lower,HB 552,NCV00009817,upper,Second Reading,2013-07-24,other,49,0,1
+lower,HB 589,NCV00009818,upper,Amendment 4,2013-07-24,other,47,1,2
+lower,HB 589,NCV00009819,upper,Amendment 5,2013-07-24,other,48,0,2
+lower,HB 589,NCV00009820,upper,Amendment 8 Motion 1 To Table,2013-07-24,other,34,14,2
+lower,HB 589,NCV00009821,upper,Amendment 7,2013-07-24,other,15,33,2
+lower,HB 589,NCV00009822,upper,Amendment 10,2013-07-24,other,15,30,5
+lower,HB 589,NCV00009823,upper,Amendment 9,2013-07-24,other,14,32,4
+lower,HB 589,NCV00009825,upper,Amendment 6,2013-07-24,other,47,1,2
+lower,HB 589,NCV00009826,upper,Amendment 2,2013-07-24,other,17,31,2
+lower,HB 669,NCV00009827,upper,Second Reading,2013-07-24,other,48,1,1
+lower,HB 669,NCV00009828,upper,Amendment 1,2013-07-24,other,49,0,1
+lower,HB 675,NCV00009829,upper,Second Reading,2013-07-24,other,49,0,1
+lower,HB 675,NCV00009830,lower,M11 Concur,2013-07-24,other,111,0,9
+lower,HB 726,NCV00009831,lower,M11 Concur,2013-07-24,other,54,62,4
+lower,HB 726,NCV00009832,lower,M4 Previous Question,2013-07-24,other,63,48,9
+lower,HB 727,NCV00009833,upper,Amendment 2,2013-07-24,other,49,0,1
+lower,HB 727,NCV00009834,upper,Third Reading,2013-07-24,other,49,0,1
+lower,HB 1015,NCV00009836,upper,Second Reading,2013-07-24,other,48,1,1
+upper,SB 18,NCV00009837,upper,Motion 9 To Concur,2013-07-25,other,44,0,6
+upper,SB 71,NCV00009838,upper,Motion 9 To Concur,2013-07-25,other,45,0,5
+upper,SB 71,NCV00009839,lower,Second Reading,2013-07-25,other,94,12,14
+upper,SB 182,NCV00009840,lower,C RPT Adoption,2013-07-25,other,109,2,9
+upper,SB 182,NCV00009841,lower,M6 Reconsider  C RPT Adoption,2013-07-25,other,100,1,19
+upper,SB 182,NCV00009842,lower,C RPT Adoption,2013-07-25,other,110,1,9
+upper,SB 236,NCV00009843,upper,Motion 9 To Concur,2013-07-25,other,12,32,6
+upper,SB 287,NCV00009844,upper,Motion 9 To Concur,2013-07-25,other,15,30,5
+upper,SB 287,NCV00009845,lower,Third Reading,2013-07-25,other,106,4,10
+upper,SB 315,NCV00009846,upper,Motion 9 To Concur  Third Reading,2013-07-26,other,34,7,9
+upper,SB 315,NCV00009847,upper,Motion 9 To Concur  Second Reading,2013-07-25,other,36,9,5
+upper,SB 317,NCV00009848,upper,Motion 9 To Concur,2013-07-25,other,0,45,5
+upper,SB 317,NCV00009849,lower,C RPT Adoption,2013-07-26,other,63,37,20
+upper,SB 317,NCV00009850,lower,Third Reading,2013-07-25,other,71,41,8
+upper,SB 321,NCV00009851,lower,C RPT Adoption,2013-07-25,other,67,43,10
+upper,SB 353,NCV00009852,upper,Motion 9 To Concur,2013-07-25,other,32,13,5
+upper,SB 354,NCV00009853,upper,Motion 9 To Concur,2013-07-25,other,44,0,6
+upper,SB 368,NCV00009854,upper,Motion 9 To Concur,2013-07-25,other,44,0,6
+upper,SB 380,NCV00009855,upper,Motion 9 To Concur,2013-07-26,other,27,14,9
+upper,SB 380,NCV00009856,lower,Third Reading,2013-07-26,other,67,40,13
+upper,SB 380,NCV00009857,lower,Second Reading,2013-07-25,other,70,42,8
+upper,SB 380,NCV00009858,lower,M4 Previous Question  Second Reading,2013-07-25,other,64,45,11
+upper,SB 470,NCV00009859,upper,Motion 9 To Concur,2013-07-25,other,43,2,5
+upper,SB 473,NCV00009860,upper,Motion 9 To Concur,2013-07-26,other,34,7,9
+upper,SB 473,NCV00009861,lower,A1 Stam   Third Reading,2013-07-26,other,105,0,15
+upper,SB 473,NCV00009862,lower,Third Reading,2013-07-26,other,71,36,13
+upper,SB 473,NCV00009863,lower,Second Reading,2013-07-25,other,70,38,12
+upper,SB 480,NCV00009864,lower,R3 Ruled Mat'l  C RPT Adoption,2013-07-25,other,102,10,8
+upper,SB 515,NCV00009866,upper,Motion 9 To Concur,2013-07-26,other,28,13,9
+upper,SB 515,NCV00009867,lower,Third Reading,2013-07-25,other,61,43,16
+upper,SB 547,NCV00009868,upper,Motion 9 To Concur  Third Reading,2013-07-25,other,35,10,5
+upper,SB 553,NCV00009869,lower,R3 Ruled Mat'l  C RPT Adoption,2013-07-26,other,98,0,22
+upper,SB 553,NCV00009870,lower,R2 Ruled Mat'l  C RPT Adoption,2013-07-25,other,113,0,7
+upper,SB 558,NCV00009871,upper,Motion 9 To Concur,2013-07-25,other,43,3,4
+upper,SB 571,NCV00009872,lower,C RPT Adoption,2013-07-25,other,112,0,8
+upper,SR 727,NCV00009873,upper,Motion 8 To Adopt,2013-07-26,other,41,0,9
+upper,SR 728,NCV00009874,upper,Motion 8 To Adopt,2013-07-26,other,41,0,9
+lower,HB 74,NCV00009875,lower,R3 Ruled Mat'l  C RPT Adoption,2013-07-26,other,63,34,23
+lower,HB 92,NCV00009877,upper,Amendment 2,2013-07-25,other,42,1,7
+lower,HB 92,NCV00009878,upper,Amendment 1,2013-07-25,other,43,0,7
+lower,HB 92,NCV00009879,upper,Amendment 3,2013-07-25,other,43,0,7
+lower,HB 92,NCV00009880,upper,Amendment 4,2013-07-25,other,46,0,4
+lower,HB 92,NCV00009882,lower,"M11 Concur Sen. Amd. 1,2,3,4",2013-07-25,other,106,1,13
+lower,HB 92,NCV00009883,lower,M11 Concur,2013-07-26,other,78,22,20
+lower,HB 112,NCV00009884,upper,Second Reading,2013-07-25,other,34,6,10
+lower,HB 112,NCV00009886,lower,M11 Concur,2013-07-26,other,90,11,19
+lower,HB 122,NCV00009887,lower,C RPT Adoption,2013-07-25,other,90,0,30
+lower,HB 195,NCV00009888,upper,Second Reading,2013-07-25,other,45,0,5
+lower,HB 552,NCV00009890,upper,Third Reading,2013-07-25,other,45,0,5
+lower,HB 552,NCV00009891,lower,M11 Concur Sen. Amd. 1,2013-07-25,other,111,0,9
+lower,HB 589,NCV00009892,upper,Third Reading,2013-07-25,other,33,14,3
+lower,HB 589,NCV00009893,upper,Amendment 14 Motion 1 To Table,2013-07-25,other,32,14,4
+lower,HB 589,NCV00009895,upper,Amendment 11,2013-07-25,other,47,0,3
+lower,HB 589,NCV00009896,lower,Motion 12- Committee of the Whole,2013-07-25,other,41,69,10
+lower,HB 589,NCV00009897,lower,M11 Concur,2013-07-25,other,73,41,6
+lower,HB 589,NCV00009898,lower,M11 Concur Sen. Amd. 11 and 13,2013-07-25,other,110,0,10
+lower,HB 618,NCV00009899,lower,A1 Speciale   Second Reading,2013-07-25,other,106,6,8
+lower,HB 618,NCV00009900,lower,Second Reading,2013-07-25,other,109,2,9
+lower,HB 652,NCV00009901,upper,Second Reading,2013-07-25,other,29,13,8
+lower,HB 652,NCV00009902,upper,Third Reading,2013-07-25,other,28,14,8
+lower,HB 652,NCV00009903,lower,M8 Re-Refer Judiciary Sub B,2013-07-26,other,45,56,19
+lower,HB 652,NCV00009904,lower,M11 Concur,2013-07-26,other,54,47,19
+lower,HB 725,NCV00009906,lower,M12 Suspend Rules,2013-07-26,other,44,52,24
+lower,HB 725,NCV00009908,lower,M4 Previous Question  Second Reading,2013-07-26,other,65,32,23
+lower,HB 786,NCV00009910,upper,Second Reading,2013-07-25,other,43,1,6
+lower,HB 834,NCV00009911,lower,M11 Concur,2013-07-25,other,103,10,7
+lower,HB 938,NCV00009912,upper,Second Reading,2013-07-25,other,27,15,8
+lower,HB 1015,NCV00009913,upper,Third Reading,2013-07-25,other,44,0,6
+lower,HR 1022,NCV00009914,lower,R2 For Adoption,2013-07-25,other,113,0,7
+lower,HR 1022,NCV00009915,lower,"A1 Hall, L.   R2 For Adoption",2013-07-25,other,111,0,9
+lower,HJR 1023,NCV00009916,upper,Second Reading,2013-07-26,other,41,0,9
+lower,HJR 1023,NCV00009917,lower,Second Reading,2013-07-25,other,108,2,10
+lower,HB 786,NCV00009919,lower,Veto Override,2013-09-03,other,84,32,4
+lower,HJR 1024,NCV00009920,lower,Second Reading,2013-09-03,other,115,0,5
+lower,HB 392,NCV00009921,upper,Motion 11                      Veto Override,2013-09-04,other,34,10,5
+lower,HB 786,NCV00009922,upper,Motion 11                      Veto Override,2013-09-04,other,39,5,5
+lower,HJR 1024,NCV00009923,upper,Second Reading,2013-09-04,other,42,2,5
+upper,SB 337,NCV00009925,lower,M12 Move S337 to Rules Comm. M4 Previous Question,2013-06-26,other,61,49,10
+upper,SB 236,NCV00009927,lower,Re-Refer SB 236 to Rules Comm. M4 Previous Question,2013-07-11,other,83,22,14
+upper,SB 236,NCV00009928,lower,Re-Refer SB236 to Rules Comm. M3 To Lay On The Table,2013-07-11,other,34,71,14
+upper,SB 402,NCV00009929,upper,Amendment 11,2013-05-22,other,6,44,0
+upper,SB 402,NCV00009930,upper,Amendment 10,2013-05-22,other,49,0,1
+upper,SB 402,NCV00009931,upper,Amendment 8,2013-05-22,other,49,0,1
+upper,SB 402,NCV00009932,upper,Amendment 6,2013-05-22,other,33,17,0
+upper,SB 402,NCV00009933,upper,Amendment 4 Motion 1 To Table,2013-05-22,other,31,17,2
+upper,SB 402,NCV00009934,upper,Amendment 9 Motion 1 To Table,2013-05-22,other,33,17,0
+upper,SB 402,NCV00009935,upper,Amendment 14,2013-05-23,other,46,0,4
+upper,SB 402,NCV00009936,upper,Amendment 15,2013-05-23,other,14,33,3
+upper,SB 402,NCV00009937,upper,Third Reading,2013-05-23,other,33,17,0
+upper,SB 402,NCV00009938,upper,Amendment 1,2013-05-22,other,17,33,0
+upper,SB 402,NCV00009939,lower,A2 Horn AMD-27  Second Reading,2013-06-12,other,115,1,4
+upper,SB 402,NCV00009940,lower,R2 Ruled Mat'l  C RPT Adopted,2013-07-23,other,66,52,2
+upper,SB 402,NCV00009941,lower,A29 Whitmire AMK-31  Second Reading,2013-06-12,other,51,63,6
+upper,SB 402,NCV00009942,lower,A26 Dollar ALU-20  Second Reading,2013-06-12,other,110,0,10
+upper,SB 402,NCV00009943,lower,A27 Hanes ALE-33  Second Reading,2013-06-12,other,52,65,3
+upper,SB 402,NCV00009944,lower,A18 Harrison ALM-46  Second Reading,2013-06-12,other,42,67,11
+upper,SB 402,NCV00009945,lower,A17 Stevens ALM-48  Second Reading,2013-06-12,other,112,2,6
+upper,SB 402,NCV00009946,lower,A15 Adams ALH-46  Second Reading,2013-06-12,other,37,78,5
+upper,SB 402,NCV00009947,lower,A21 Pierce ALL-68  Second Reading,2013-06-12,other,36,78,6
+upper,SB 402,NCV00009948,lower,A20 Tine ALE-40  Second Reading,2013-06-12,other,106,3,11
+upper,SB 402,NCV00009949,lower,A19 Blackwell AMD-29  Second Reading,2013-06-12,other,39,67,14
+upper,SB 402,NCV00009950,lower,A28 Dollar ALG-35  Second Reading,2013-06-12,other,107,9,4
+upper,SB 402,NCV00009951,lower,A29 Whitmire M4 Previous Question  Second Reading,2013-06-12,other,81,32,7
+upper,SB 402,NCV00009952,lower,A13 Faircloth AMD-30  Second Reading,2013-06-12,other,112,1,7
+upper,SB 402,NCV00009953,lower,A7 Blust ALR-21  Second Reading,2013-06-12,other,44,69,7
+upper,SB 402,NCV00009954,lower,A8 Murry AME-37  Second Reading,2013-06-12,other,113,1,6
+upper,SB 402,NCV00009955,lower,A11 Jeter AMH-37  Second Reading,2013-06-12,other,52,62,6
+upper,SB 402,NCV00009956,lower,A12 Burr ALL-67  Second Reading,2013-06-12,other,69,43,8
+upper,SB 372,NCV00009958,upper,Motion 9 To Concur,2013-07-15,other,46,0,4
+upper,SB 9,NCV00009959,upper,Second Reading,2013-03-19,other,47,0,3
+upper,SJR 796,NCV00009970,lower,Second Reading,2014-05-20,other,119,0,1
+lower,HB 725,NCV00009983,lower,A3 Glazier Perfecting Amendment  Third Reading,2014-05-21,other,108,6,6
+lower,HB 725,NCV00009986,lower,A2 McNeill Perfecting Amendment  Third Reading,2014-05-21,other,103,12,5
+upper,SB 786,NCV00009992,lower,A9 Hager   Third Reading,2014-05-29,other,112,2,6
+upper,SB 786,NCV00010012,lower,A12 Harrison M3 To Lay On The Table  Third Reading,2014-05-29,other,60,55,5
+upper,SB 786,NCV00010021,lower,A16 Queen   Third Reading,2014-05-29,other,46,68,6
+upper,SB 786,NCV00010022,lower,A11 Hager   Third Reading,2014-05-29,other,115,0,5
+upper,SB 294,NCV00010047,lower,Second Reading,2014-05-27,other,117,0,3
+lower,HB 1032,NCV00010089,lower,A1 Stam   Second Reading,2014-06-03,other,114,0,6
+lower,HB 1032,NCV00010090,lower,Second Reading,2014-06-03,other,114,0,6
+lower,HB 1045,NCV00010091,lower,A1 Stevens   Second Reading,2014-06-03,other,114,0,6
+lower,HB 1102,NCV00010095,lower,Second Reading,2014-06-03,other,114,0,6
+lower,HB 1109,NCV00010104,lower,Second Reading,2014-06-03,other,113,0,7
+lower,HB 1201,NCV00010116,lower,M4 Previous Question  Second Reading,2014-06-05,other,93,20,7
+lower,HB 1031,NCV00010119,lower,A7 Holley M3 To Lay On The Table  Second Reading,2014-06-05,other,61,54,5
+lower,HB 1031,NCV00010120,lower,A1 Murry   Second Reading,2014-06-05,other,113,2,5
+lower,HB 1031,NCV00010124,lower,A5 Hamilton M3 To Lay On The Table  Second Reading,2014-06-05,other,63,48,9
+lower,HB 1087,NCV00010128,lower,A1 Davis   Second Reading,2014-06-05,other,116,0,4
+lower,HB 1076,NCV00010129,lower,Second Reading,2014-06-05,other,115,0,5
+upper,SB 743,NCV00010134,upper,Amendment 1,2014-06-05,other,41,0,9
+lower,HB 1069,NCV00010139,lower,Second Reading,2014-06-05,other,77,39,4
+lower,HB 230,NCV00010141,lower,M11 Concur,2014-06-05,other,70,43,7
+lower,HB 1031,NCV00010152,lower,A11 Wilkins M3 To Lay On The Table  Third Reading,2014-06-10,other,62,53,5
+lower,HB 1031,NCV00010154,lower,A10 Murry   Third Reading,2014-06-10,other,114,1,5
+upper,SB 744,NCV00010214,lower,A13 Goodman   Second Reading,2014-06-12,other,43,71,6
+upper,SB 744,NCV00010236,lower,A29 Lambeth   Second Reading,2014-06-12,other,115,0,5
+upper,SB 744,NCV00010239,lower,A22 Insko   Second Reading,2014-06-12,other,42,74,4
+lower,HB 292,NCV00010242,lower,M11 Concur,2014-06-12,other,70,42,8
+lower,HB 292,NCV00010243,lower,M11 Not Concur,2014-06-12,other,115,1,4
+lower,HB 292,NCV00010244,lower,M6 Reconsider,2014-06-12,other,113,2,5
+lower,HB 569,NCV00010247,upper,Second Reading,2014-06-16,other,49,0,1
+lower,HB 569,NCV00010248,upper,Third Reading,2014-06-17,other,49,0,1
+upper,SB 370,NCV00010250,upper,Motion 9 To Concur,2014-06-16,other,48,1,1
+upper,SB 463,NCV00010267,upper,Motion 9 To Concur,2014-06-17,other,49,0,1
+lower,HB 558,NCV00010273,lower,M11 Concur,2014-06-18,other,111,0,9
+lower,HB 1091,NCV00010284,lower,Second Reading,2014-06-18,other,114,0,6
+lower,HB 777,NCV00010290,lower,M11 Concur,2014-06-18,other,111,3,6
+lower,HB 894,NCV00010293,upper,Second Reading,2014-06-19,other,48,0,2
+lower,HB 894,NCV00010294,upper,Amendment 1,2014-06-19,other,46,2,2
+lower,HB 712,NCV00010307,upper,Second Reading,2014-06-19,other,48,0,2
+lower,HB 712,NCV00010308,upper,Amendment 1,2014-06-19,other,48,0,2
+lower,HB 531,NCV00010312,lower,M11 Concur  R2 Ruled Mat'l,2014-06-19,other,113,0,7
+upper,SB 477,NCV00010322,upper,Motion 9 To Concur,2014-06-19,other,40,7,3
+lower,HR 1259,NCV00010368,lower,R2 For Adoption,2014-06-24,other,110,0,10
+upper,SB 793,NCV00010374,lower,A2 Riddell   Second Reading,2014-06-24,other,109,1,10
+lower,HB 531,NCV00010380,lower,M11 Concur  R3 Ruled Mat'l,2014-06-23,other,80,30,10
+lower,HB 267,NCV00010409,lower,M11 Concur,2014-06-26,other,112,0,8
+upper,SB 58,NCV00010417,upper,Motion 9 To Concur,2014-06-26,other,45,0,5
+lower,HB 346,NCV00010427,lower,M11 Concur,2014-06-25,other,112,0,8
+upper,SB 523,NCV00010433,upper,Motion 9 To Concur  Second Reading,2014-06-26,other,45,0,5
+lower,HB 712,NCV00010449,lower,M11 Concur,2014-06-25,other,87,26,7
+upper,SB 523,NCV00010504,upper,Motion 9 To Concur  Third Reading,2014-06-30,other,48,0,2
+upper,SB 614,NCV00010521,upper,Motion 9 To Concur,2014-07-01,other,0,49,1
+upper,SB 105,NCV00010585,upper,Motion 9 To Concur,2014-07-15,other,47,0,3
+lower,HB 644,NCV00010603,lower,M11 Concur,2014-07-16,other,105,0,15
+upper,SB 201,NCV00010660,upper,Motion 9 To Concur,2014-07-24,other,49,0,1
+upper,SB 793,NCV00010662,lower,M12 Suspend Rules  C RPT Adoption,2014-07-24,other,69,37,13
+lower,HB 1054,NCV00010664,lower,M11 Not Concur Sen. Amd. 1,2014-07-24,other,109,0,10
+lower,HB 1145,NCV00010667,lower,M11 Not Concur,2014-07-24,other,105,0,14
+lower,HB 1145,NCV00010668,lower,M4 Previous Question,2014-07-24,other,69,36,14
+lower,HB 1133,NCV00010681,lower,"A5 Martin, G.   Second Reading",2014-07-25,other,87,4,28
+upper,SB 877,NCV00010693,lower,Second Reading,2014-07-25,other,100,0,19
+upper,SB 793,NCV00010695,lower,M4 Previous Question  C RPT Adoption,2014-07-25,other,63,35,21
+lower,HB 27,NCV00010696,lower,M11 Concur,2014-07-25,other,100,0,19
+lower,HB 1181,NCV00010715,lower,M11 Not Concur,2014-07-30,other,106,0,13
+upper,SB 883,NCV00010717,lower,Second Reading,2014-07-30,other,68,39,12
+lower,HB 366,NCV00010734,lower,R2 Ruled Mat'l   C RPT Adoption,2014-07-31,other,92,20,7
+lower,HB 1145,NCV00010739,lower,M6 Reconsider  C RPT Adoption,2014-07-31,other,110,2,7
+lower,HB 272,NCV00010746,lower,C RPT Adoption,2014-08-01,other,110,0,9
+upper,SB 403,NCV00010748,upper,Motion 9 To Concur,2014-08-01,other,32,11,7
+upper,SB 163,NCV00010757,upper,Conference Rpt Motion 8 To Adopt,2014-07-31,other,45,0,5
+lower,HB 366,NCV00010761,lower,R3 Ruled Mat'l   C RPT Adoption,2014-08-01,other,88,19,12
+lower,HB 1133,NCV00010766,lower,M11 Concur,2014-08-01,other,100,10,9
+lower,HB 1086,NCV00010780,lower,Motion 12 - Add to Cal.,2014-08-15,other,83,6,30
+lower,HB 1086,NCV00010781,lower,M11 Concur,2014-08-15,other,77,13,29

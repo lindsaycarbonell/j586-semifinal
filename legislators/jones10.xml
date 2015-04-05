@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<donations>
+<donation>
+<organization-index>organization-index</organization-index>
+<organization>organization</organization>
+<pac>pac</pac>
+<indiv>indivs</indiv>
+<source>Source</source>
+
+</donation>
+<donation>
+<organization-index>0</organization-index>
+<organization>Northrop Grumman</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>American Crystal Sugar</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>Air Line Pilots Assn</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>National Rural Electric Cooperative Assn</organization>
+<pac>8000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Lockheed Martin</organization>
+<pac>8000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>National Auto Dealers Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>National Beer Wholesalers Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>National Community Pharmacists Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>National Assn of Insurance &amp; Financial Advisors</organization>
+<pac>7000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>National Assn of Realtors</organization>
+<pac>6000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>10</organization-index>
+<organization>American Chiropractic Assn</organization>
+<pac>5250</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+</donations>

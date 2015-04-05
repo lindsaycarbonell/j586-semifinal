@@ -1,0 +1,811 @@
+<?xml version="1.0"?>
+<donations>
+<donation>
+<organization-index>organization-index</organization-index>
+<organization>organization</organization>
+<indiv>indiv</indiv>
+<pac>pac</pac>
+<totals>totals</totals>
+
+</donation>
+<donation>
+<organization-index>0</organization-index>
+<organization>Wallace &amp; Graham</organization>
+<indiv>20400</indiv>
+<pac>0</pac>
+<totals>20400</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>New York Life Insurance</organization>
+<indiv>0</indiv>
+<pac>20000</pac>
+<totals>20000</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>American Society of Anesthesiologists</organization>
+<indiv>0</indiv>
+<pac>20000</pac>
+<totals>20000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>Hendrick Motorsports</organization>
+<indiv>16200</indiv>
+<pac>0</pac>
+<totals>16200</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Hendrick Automotive</organization>
+<indiv>16100</indiv>
+<pac>0</pac>
+<totals>16100</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Ernst &amp; Young</organization>
+<indiv>1000</indiv>
+<pac>15000</pac>
+<totals>16000</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>United Parcel Service</organization>
+<indiv>0</indiv>
+<pac>15500</pac>
+<totals>15500</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>Home Depot</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>American Institute of CPAs</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>Systel</organization>
+<indiv>13318</indiv>
+<pac>0</pac>
+<totals>13318</totals>
+
+</donation>
+<donation>
+<organization-index>10</organization-index>
+<organization>PricewaterhouseCoopers</organization>
+<indiv>0</indiv>
+<pac>12000</pac>
+<totals>12000</totals>
+
+</donation>
+<donation>
+<organization-index>11</organization-index>
+<organization>General Electric</organization>
+<indiv>0</indiv>
+<pac>12000</pac>
+<totals>12000</totals>
+
+</donation>
+<donation>
+<organization-index>12</organization-index>
+<organization>Cox Brothers Farms</organization>
+<indiv>11000</indiv>
+<pac>0</pac>
+<totals>11000</totals>
+
+</donation>
+<donation>
+<organization-index>13</organization-index>
+<organization>Honeywell International</organization>
+<indiv>0</indiv>
+<pac>10999</pac>
+<totals>10999</totals>
+
+</donation>
+<donation>
+<organization-index>14</organization-index>
+<organization>Every Republican is Crucial PAC</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>15</organization-index>
+<organization>Deloitte LLP</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>16</organization-index>
+<organization>CSX Corp</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>17</organization-index>
+<organization>Air Line Pilots Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>18</organization-index>
+<organization>American Bankers Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>19</organization-index>
+<organization>ROSKAM PAC</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>20</organization-index>
+<organization>National Beer Wholesalers Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>21</organization-index>
+<organization>Koch Industries</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>22</organization-index>
+<organization>Lockheed Martin</organization>
+<indiv>1000</indiv>
+<pac>8500</pac>
+<totals>9500</totals>
+
+</donation>
+<donation>
+<organization-index>23</organization-index>
+<organization>Southern Cotton Growers Inc</organization>
+<indiv>0</indiv>
+<pac>9000</pac>
+<totals>9000</totals>
+
+</donation>
+<donation>
+<organization-index>24</organization-index>
+<organization>Massachusetts Mutual Life Insurance</organization>
+<indiv>500</indiv>
+<pac>8000</pac>
+<totals>8500</totals>
+
+</donation>
+<donation>
+<organization-index>25</organization-index>
+<organization>Wells Fargo</organization>
+<indiv>6475</indiv>
+<pac>2000</pac>
+<totals>8475</totals>
+
+</donation>
+<donation>
+<organization-index>26</organization-index>
+<organization>Northrop Grumman</organization>
+<indiv>0</indiv>
+<pac>8000</pac>
+<totals>8000</totals>
+
+</donation>
+<donation>
+<organization-index>27</organization-index>
+<organization>National Assn of Broadcasters</organization>
+<indiv>0</indiv>
+<pac>8000</pac>
+<totals>8000</totals>
+
+</donation>
+<donation>
+<organization-index>28</organization-index>
+<organization>National Pork Producers Council</organization>
+<indiv>0</indiv>
+<pac>8000</pac>
+<totals>8000</totals>
+
+</donation>
+<donation>
+<organization-index>29</organization-index>
+<organization>Hunoval Law Firm</organization>
+<indiv>7700</indiv>
+<pac>0</pac>
+<totals>7700</totals>
+
+</donation>
+<donation>
+<organization-index>30</organization-index>
+<organization>Investment Co Institute</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>31</organization-index>
+<organization>American Crystal Sugar</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>32</organization-index>
+<organization>CME Group</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>33</organization-index>
+<organization>National Ocean Industries Assn</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>34</organization-index>
+<organization>National Assn of Insurance &amp; Financial Advisors</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>35</organization-index>
+<organization>Marathon Petroleum</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>36</organization-index>
+<organization>Lorillard Inc</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>37</organization-index>
+<organization>JPMorgan Chase &amp; Co</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>38</organization-index>
+<organization>Piedmont Natural Gas</organization>
+<indiv>1000</indiv>
+<pac>6500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>39</organization-index>
+<organization>United Technologies</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>40</organization-index>
+<organization>Valero Energy</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>41</organization-index>
+<organization>TIAA-CREF</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
+</donation>
+<donation>
+<organization-index>42</organization-index>
+<organization>Occidental Petroleum</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
+</donation>
+<donation>
+<organization-index>43</organization-index>
+<organization>National Rural Electric Cooperative Assn</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
+</donation>
+<donation>
+<organization-index>44</organization-index>
+<organization>General Dynamics</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
+</donation>
+<donation>
+<organization-index>45</organization-index>
+<organization>Charlotte Pipe &amp; Foundry</organization>
+<indiv>6857</indiv>
+<pac>0</pac>
+<totals>6857</totals>
+
+</donation>
+<donation>
+<organization-index>46</organization-index>
+<organization>Wine &amp; Spirits Wholesalers of America</organization>
+<indiv>0</indiv>
+<pac>6780</pac>
+<totals>6780</totals>
+
+</donation>
+<donation>
+<organization-index>47</organization-index>
+<organization>National Chicken Council</organization>
+<indiv>0</indiv>
+<pac>6500</pac>
+<totals>6500</totals>
+
+</donation>
+<donation>
+<organization-index>48</organization-index>
+<organization>American College of Radiology</organization>
+<indiv>0</indiv>
+<pac>6500</pac>
+<totals>6500</totals>
+
+</donation>
+<donation>
+<organization-index>49</organization-index>
+<organization>American College of Surgeons</organization>
+<indiv>0</indiv>
+<pac>6500</pac>
+<totals>6500</totals>
+
+</donation>
+<donation>
+<organization-index>50</organization-index>
+<organization>AL Baucom Inc</organization>
+<indiv>6200</indiv>
+<pac>0</pac>
+<totals>6200</totals>
+
+</donation>
+<donation>
+<organization-index>51</organization-index>
+<organization>International Franchise Assn</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
+</donation>
+<donation>
+<organization-index>52</organization-index>
+<organization>Jt Russell &amp; Sons</organization>
+<indiv>6000</indiv>
+<pac>0</pac>
+<totals>6000</totals>
+
+</donation>
+<donation>
+<organization-index>53</organization-index>
+<organization>Textron Inc</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
+</donation>
+<donation>
+<organization-index>54</organization-index>
+<organization>North Carolina Farm Bureau</organization>
+<indiv>0</indiv>
+<pac>5600</pac>
+<totals>5600</totals>
+
+</donation>
+<donation>
+<organization-index>55</organization-index>
+<organization>Lowe&apos;s Companies</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>56</organization-index>
+<organization>Monsanto Co</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>57</organization-index>
+<organization>Altria Group</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>58</organization-index>
+<organization>Credit Union National Assn</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>59</organization-index>
+<organization>Bank of America</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>60</organization-index>
+<organization>Blue Cross/Blue Shield</organization>
+<indiv>500</indiv>
+<pac>5000</pac>
+<totals>5500</totals>
+
+</donation>
+<donation>
+<organization-index>61</organization-index>
+<organization>McGuireWoods LLP</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
+</donation>
+<donation>
+<organization-index>62</organization-index>
+<organization>Speedway Motorsports</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
+</donation>
+<donation>
+<organization-index>63</organization-index>
+<organization>Sabatecar Dealership</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
+</donation>
+<donation>
+<organization-index>64</organization-index>
+<organization>Pilot Catastrophe Services</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>65</organization-index>
+<organization>Publix Super Markets</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>66</organization-index>
+<organization>Raytheon Co</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>67</organization-index>
+<organization>RJ Reynolds Tobacco</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>68</organization-index>
+<organization>State of Nc Hwy Dept</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>69</organization-index>
+<organization>Wal-Mart Stores</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>70</organization-index>
+<organization>National Assn of Real Estate Investment Trusts</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>71</organization-index>
+<organization>Majority Cmte PAC</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>72</organization-index>
+<organization>National Restaurant Assn</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>73</organization-index>
+<organization>National Cotton Council</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>74</organization-index>
+<organization>National Auto Dealers Assn</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>75</organization-index>
+<organization>Boeing Co</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>76</organization-index>
+<organization>AstraZeneca PLC</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>77</organization-index>
+<organization>Charlotte-Mecklenburg Hospital Authority</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>78</organization-index>
+<organization>Associated Builders &amp; Contractors</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>79</organization-index>
+<organization>Independent Community Bankers of America</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>80</organization-index>
+<organization>Jordan Logistics</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>81</organization-index>
+<organization>Hendrick Automotive Group</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>82</organization-index>
+<organization>Corning Inc</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>83</organization-index>
+<organization>Deere &amp; Co</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>84</organization-index>
+<organization>Dickstein Shapiro LLP</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>85</organization-index>
+<organization>GlaxoSmithKline</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>86</organization-index>
+<organization>Freedom &amp; Security PAC</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>87</organization-index>
+<organization>Freedom Project</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
+</donation>
+<donation>
+<organization-index>88</organization-index>
+<organization>Colville Partners</organization>
+<indiv>4600</indiv>
+<pac>0</pac>
+<totals>4600</totals>
+
+</donation>
+<donation>
+<organization-index>89</organization-index>
+<organization>Parkdale Mills</organization>
+<indiv>4600</indiv>
+<pac>0</pac>
+<totals>4600</totals>
+
+</donation>
+<donation>
+<organization-index>90</organization-index>
+<organization>Roche Holdings</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>91</organization-index>
+<organization>Old Dominion Freight Line</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>92</organization-index>
+<organization>National Cattlemen&apos;s Beef Assn</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>93</organization-index>
+<organization>National Mining Assn</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>94</organization-index>
+<organization>National Turkey Federation</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>95</organization-index>
+<organization>North Carolina Soybean Producers Assn</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>96</organization-index>
+<organization>AT&amp;T Inc</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>97</organization-index>
+<organization>Duke Energy</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>98</organization-index>
+<organization>Great Lakes Sugar Beet Growers Assn</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
+</donation>
+<donation>
+<organization-index>99</organization-index>
+<organization>Aston Properties</organization>
+<indiv>4100</indiv>
+<pac>0</pac>
+<totals>4100</totals>
+
+</donation>
+</donations>

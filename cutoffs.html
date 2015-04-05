@@ -1,0 +1,39 @@
+<script type="text/javascript">
+var subjects = [];
+var html = "";
+
+$(document).ready(function()
+  {
+    $.ajax({
+        type: "GET",
+        url: "nc_legislators.xml",
+        dataType: "xml",
+        success: parseXML});
+
+    function parseXML(xml) {
+
+    $(xml).find('person').each(function(){
+        //console.log("once for every bill");
+        var $person = $(this);
+        var title = $bill.find('title').text();
+
+        // otherAwards.push(parseInt($person.find('other-awards').text()));
+
+
+
+        html += '<div id="#title">' + '<p>' + title + '</p>' + '</div>';
+
+
+        $('#add').append($(html));
+
+
+    });
+    //console.log(subjects);
+
+    buildChart();
+            }
+
+
+function buildChart(){
+
+</script>

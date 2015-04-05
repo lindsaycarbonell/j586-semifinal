@@ -1,0 +1,65 @@
+/*can't use Gotham. Montserrat instead*/
+/*can't use Gotham narrow.*/
+/*cant use Knockout*/
+/*can't use Sentinel. Georgia instead*/
+
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:700,400);
+/*font-family: 'Montserrat' or 'Monterrat-Bold', sans-serif;*/
+
+/*standards*/
+body{
+  font-family:'Montserrat', 'sans-serif';
+  line-height:29px;
+}
+h1{
+  font-size:30px;
+}
+hr{
+  color:rgb(153, 153, 153);
+  display: block;
+width:600px;
+  border-width: 1px;
+}
+.max-width{
+  max-width:730px;
+}
+
+
+/*text edits*/
+.byline{
+  text-transform:uppercase;
+  color:rgb(153, 153, 153); /*gray*/
+  font-size:12px;
+  font-family:'Montserrat', 'sans-serif';
+
+}
+
+/*nav*/
+
+.navbar, .nav{
+  background-color:rgb(224, 224, 224);
+  font-weight:bold;
+}
+
+.navbar-nav > li > a{
+  color:rgb(109, 138, 196) !important;
+}
+.navbar-nav > li > a:hover{
+  color:rgb(188, 202, 229) !important;
+}
+
+#logo{
+  margin:15px;
+  line-height:14px;
+  max-width:100%;
+  height:20.3px;
+  vertical-align:baseline;
+  width:61px;
+float:left;
+}
+
+/*dropdown menu*/
+.dropwidth{
+  width:200px;
+}

@@ -1,0 +1,835 @@
+<?xml version="1.0"?>
+<donations>
+<donation>
+<organization-index>organization-index</organization-index>
+<organization>organization</organization>
+<pac>pac</pac>
+<indiv>indivs</indiv>
+<source>Source</source>
+
+</donation>
+<donation>
+<organization-index>0</organization-index>
+<organization>Northrop Grumman</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>American Crystal Sugar</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>Air Line Pilots Assn</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>National Rural Electric Cooperative Assn</organization>
+<pac>8000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Lockheed Martin</organization>
+<pac>8000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>National Auto Dealers Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>National Beer Wholesalers Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>National Community Pharmacists Assn</organization>
+<pac>7500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>National Assn of Insurance &amp; Financial Advisors</organization>
+<pac>7000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>National Assn of Realtors</organization>
+<pac>6000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>10</organization-index>
+<organization>American Chiropractic Assn</organization>
+<pac>5250</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>11</organization-index>
+<organization>JStreetPAC</organization>
+<pac>5000</pac>
+<indiv>8000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>12</organization-index>
+<organization>General Electric</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>13</organization-index>
+<organization>Textron Inc</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>14</organization-index>
+<organization>Ward &amp; Smith P.A.</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>15</organization-index>
+<organization>Credit Union National Assn</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>16</organization-index>
+<organization>Protectseniors.org</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>17</organization-index>
+<organization>National Marine Manufacturers Assn</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>18</organization-index>
+<organization>American Academy of Pediatric Dentistry</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>19</organization-index>
+<organization>American Assn for Justice</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>20</organization-index>
+<organization>American Maritime Officers</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>21</organization-index>
+<organization>PotashCorp</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>22</organization-index>
+<organization>Coastal Federal Credit Union</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>23</organization-index>
+<organization>Humane Society of the US</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>24</organization-index>
+<organization>Liberty PAC (Ron Paul)</organization>
+<pac>5000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>25</organization-index>
+<organization>American Hospital Assn</organization>
+<pac>4500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>26</organization-index>
+<organization>American Institute of CPAs</organization>
+<pac>4500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>27</organization-index>
+<organization>First Citizens Bancshares</organization>
+<pac>4500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>28</organization-index>
+<organization>American Dental Assn</organization>
+<pac>3500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>29</organization-index>
+<organization>National Assn of Home Builders</organization>
+<pac>3500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>30</organization-index>
+<organization>Onex Corp</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>31</organization-index>
+<organization>Blue Cross/Blue Shield</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>32</organization-index>
+<organization>Great Lakes Sugar Beet Growers Assn</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>33</organization-index>
+<organization>American Financial Services Assn</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>34</organization-index>
+<organization>Dominion Resources</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>35</organization-index>
+<organization>CSX Corp</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>36</organization-index>
+<organization>Ernst &amp; Young</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>37</organization-index>
+<organization>SAIC</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>38</organization-index>
+<organization>American Medical Assn</organization>
+<pac>3000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>39</organization-index>
+<organization>American Academy of Dermatology Assn</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>40</organization-index>
+<organization>Teamsters Union</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>41</organization-index>
+<organization>Finmeccanica SpA</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>42</organization-index>
+<organization>Retired Enlisted Assn</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>43</organization-index>
+<organization>American Academy of Orthopaedic Surgeons</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>44</organization-index>
+<organization>National Air Traffic Controllers Assn</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>45</organization-index>
+<organization>North Carolina Farm Bureau</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>46</organization-index>
+<organization>VoteVets.org</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>47</organization-index>
+<organization>American Academy of Ophthalmology</organization>
+<pac>2500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>48</organization-index>
+<organization>Grant Thornton LLP</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>49</organization-index>
+<organization>National Cotton Council</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>50</organization-index>
+<organization>Bayada Home Health Care</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>51</organization-index>
+<organization>National Assn for Uniformed Services</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>52</organization-index>
+<organization>Rent-A-Center</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>53</organization-index>
+<organization>Brunswick Corp</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>54</organization-index>
+<organization>Acton PAC</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>55</organization-index>
+<organization>American Federation of Govt Employees</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>56</organization-index>
+<organization>American Physical Therapy Assn</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>57</organization-index>
+<organization>Duke Energy</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>58</organization-index>
+<organization>Weyerhaeuser Co</organization>
+<pac>2000</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>59</organization-index>
+<organization>Fanjul Corp</organization>
+<pac>1500</pac>
+<indiv>500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>60</organization-index>
+<organization>Piedmont Natural Gas</organization>
+<pac>1500</pac>
+<indiv>0</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>61</organization-index>
+<organization>Emergent Biosolutions</organization>
+<pac>1000</pac>
+<indiv>5200</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>62</organization-index>
+<organization>Democracy Engine</organization>
+<pac>0</pac>
+<indiv>21415</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>63</organization-index>
+<organization>Captive-Aire Inc</organization>
+<pac>0</pac>
+<indiv>10400</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>64</organization-index>
+<organization>Eastern Ortho &amp; Pediatric Dent</organization>
+<pac>0</pac>
+<indiv>5450</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>65</organization-index>
+<organization>Good Stuff Fishing LLC</organization>
+<pac>0</pac>
+<indiv>5200</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>66</organization-index>
+<organization>RA Jeffreys Distributing</organization>
+<pac>0</pac>
+<indiv>4750</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>67</organization-index>
+<organization>US Civil Service</organization>
+<pac>0</pac>
+<indiv>4350</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>68</organization-index>
+<organization>Ham Farms</organization>
+<pac>0</pac>
+<indiv>4000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>69</organization-index>
+<organization>West Pharmaceutical Services</organization>
+<pac>0</pac>
+<indiv>4000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>70</organization-index>
+<organization>Collice Moore &amp; Assoc</organization>
+<pac>0</pac>
+<indiv>4000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>71</organization-index>
+<organization>East Coast Builders Group</organization>
+<pac>0</pac>
+<indiv>4000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>72</organization-index>
+<organization>Ward &amp; Smith</organization>
+<pac>0</pac>
+<indiv>3650</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>73</organization-index>
+<organization>Grady-White Boats</organization>
+<pac>0</pac>
+<indiv>3500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>74</organization-index>
+<organization>Bob Barbour Honda</organization>
+<pac>0</pac>
+<indiv>3000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>75</organization-index>
+<organization>Glennon</organization>
+<pac>0</pac>
+<indiv>3000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>76</organization-index>
+<organization>State of North Carolina</organization>
+<pac>0</pac>
+<indiv>2750</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>77</organization-index>
+<organization>Preston Development</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>78</organization-index>
+<organization>American Defense International</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>79</organization-index>
+<organization>Coral Bay Marina</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>80</organization-index>
+<organization>Davis-Lynch Inc</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>81</organization-index>
+<organization>Privateer Tobacco</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>82</organization-index>
+<organization>Taft, Taft &amp; Haigler</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>83</organization-index>
+<organization>Overseas Service Corp</organization>
+<pac>0</pac>
+<indiv>2600</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>84</organization-index>
+<organization>Tag Inc</organization>
+<pac>0</pac>
+<indiv>2500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>85</organization-index>
+<organization>Time Investment Corp</organization>
+<pac>0</pac>
+<indiv>2250</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>86</organization-index>
+<organization>Monk Real Estate School</organization>
+<pac>0</pac>
+<indiv>2250</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>87</organization-index>
+<organization>Platinum Corral</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>88</organization-index>
+<organization>Sanderson Farms</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>89</organization-index>
+<organization>Carolina Medical Products</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>90</organization-index>
+<organization>Chesterfield County, Sc</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>91</organization-index>
+<organization>Best Value Drugs</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>92</organization-index>
+<organization>Gephardt Group</organization>
+<pac>0</pac>
+<indiv>2000</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>93</organization-index>
+<organization>Appraisal Inc</organization>
+<pac>0</pac>
+<indiv>1975</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>94</organization-index>
+<organization>Lee, Fussell et al</organization>
+<pac>0</pac>
+<indiv>1750</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>95</organization-index>
+<organization>B&amp;R Guns</organization>
+<pac>0</pac>
+<indiv>1700</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>96</organization-index>
+<organization>Biggs Pontiac</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>97</organization-index>
+<organization>Citizens First Bank</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>98</organization-index>
+<organization>Dixon Marketing</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>99</organization-index>
+<organization>American Eel Farm</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>100</organization-index>
+<organization>WilcoHess LLC</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>101</organization-index>
+<organization>Sandi Group</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+<donation>
+<organization-index>102</organization-index>
+<organization>Livingston Group</organization>
+<pac>0</pac>
+<indiv>1500</indiv>
+<source>http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;amp;cid=N00002299</source>
+
+</donation>
+</donations>

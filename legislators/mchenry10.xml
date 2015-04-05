@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<donations>
+
+<donation>
+<organization-index>0</organization-index>
+<organization>Signature Bank</organization>
+<indiv>40000</indiv>
+<pac>0</pac>
+<totals>40000</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>Wells Fargo</organization>
+<indiv>29350</indiv>
+<pac>8000</pac>
+<totals>37350</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>PricewaterhouseCoopers</organization>
+<indiv>0</indiv>
+<pac>30000</pac>
+<totals>30000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>Indep Insurance Agents &amp; Brokers/America</organization>
+<indiv>0</indiv>
+<pac>30000</pac>
+<totals>30000</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Koch Industries</organization>
+<indiv>0</indiv>
+<pac>30000</pac>
+<totals>30000</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Every Republican is Crucial PAC</organization>
+<indiv>0</indiv>
+<pac>30000</pac>
+<totals>30000</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>Investment Co Institute</organization>
+<indiv>0</indiv>
+<pac>27500</pac>
+<totals>27500</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>JPMorgan Chase &amp; Co</organization>
+<indiv>0</indiv>
+<pac>27000</pac>
+<totals>27000</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>General Electric</organization>
+<indiv>0</indiv>
+<pac>25500</pac>
+<totals>25500</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>Velocity Solutions</organization>
+<indiv>25400</indiv>
+<pac>0</pac>
+<totals>25400</totals>
+
+</donation>
+<donation>
+<organization-index>10</organization-index>
+<organization>Hunoval Law Firm</organization>
+<indiv>25300</indiv>
+<pac>0</pac>
+<totals>25300</totals>
+
+</donation>
+</donations>

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+<!--jquery-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<!--highcharts-->
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<!--bootstrap-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+
+<!--my stylesheet-->
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <img id="logo" src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR" />
+        <ul class="nav navbar-nav">
+          <li><a href="#">news</a></li>
+          <li><a href="#">arts &#38; life</a></li>
+          <li><a href="#">music</a></li>
+          <li><a href="#">topics</a></li>
+          <li><a href="#">programs</a></li>
+          <li><a href="#">listen</a></li>
+        </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <h1>N.C. House of Representatives Blah Blah</h1>
+      </div><!--end col-->
+    </div><!--end row-->
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <p class="byline">April 1, 2014 12:00 AM ET</p>
+      </div>
+  </div><!--end container-->
+
+  <hr>
+
+  <div class="container">
+    <div class="row">
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum sem diam, eget sodales massa sodales non. Morbi sed purus sapien. Phasellus ex risus, interdum eget nulla et, scelerisque ullamcorper nisl. Phasellus ac lobortis enim. Nulla scelerisque viverra semper. Sed vitae ligula quis elit porta pharetra. Nunc scelerisque sagittis justo ut accumsan. Vivamus ultrices, ligula in feugiat convallis, lacus elit bibendum felis, a interdum augue leo a nibh. Nam accumsan dui vitae nibh consequat mollis.</p>
+      </div>
+    </div><!--end row-->
+
+
+  </div><!--end header container-->
+
+<div class="container">
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <p>Choose a representative:</p>
+        </div><!--end inner col 1-->
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <p>DROPDOWN MENU</p>
+        </div><!--end inner col 2-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <!--ROW 4-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <img id="picture" src="images/tillis.jpg" style="height:50%;width:50%;" />
+          </div><!--end inner col-->
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+            <div id="main-graph"></div>
+          </div><!--end inner col-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-4">
+          <input class="switch" type="radio" name="g" value="adams">Adams</input>
+          <input class="switch" type="radio" name="g" value="butterfield">Butterfield</input>
+        </div><!--end inner col 1-->
+        <div class="col-lg-8 col-md-8 col-sm-8">
+          <p>DROPDOWN MENU</p>
+        </div><!--end inner col 2-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+  <div class="row">
+    <div id="thing2" class="col-lg-12 col-md-12 col-sm-12">
+    </div><!--end col-->
+  </div><!--end row-->
+</div><!--end body container-->
+
+
+
+
+
+<!---FOCUS-->
+
+
+
+
+
+<script>
+var indivs = [];
+var totals = [];
+var organizationIndex = [];
+var organizations = [];
+var fullname = "";
+
+$(document).ready(function(){
+
+
+  $.ajax({
+      type: "GET",
+      url: "all_reps.xml",
+      dataType: "xml",
+      success: parseAllReps});
+
+  function parseAllReps(xml){
+
+      $(xml).find('person').each(function(){
+
+          //console.log("once for every person");
+          var $person = $(this);
+          var lastname = $person.find('last_name').text();
+          fullname = $person.find('fullname').text();
+          var district = $person.find('district').text();
+          var party = $person.find('party').text();
+
+      });
+    }
+      //getAdams();
+});
+
+function getAdams(){
+    $.ajax({
+        type: "GET",
+        url: "legislators/adams10.xml",
+        dataType: "xml",
+        success: parseAdams});
+
+
+}
+
+function parseAdams(xml) {
+  //var i = 0;
+  $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+      var pac = $donation.find('pac').text();
+
+      organizations.push($donation.find('organization').text());
+      organizationIndex.push(parseInt($donation.find('organization-index').text()));
+      indivs.push(parseInt($donation.find('indivs').text()));
+      totals.push(parseInt($donation.find('totals').text()));
+
+
+      //
+      // html="";
+      //
+      // html += '<div id="' + i + '">' + '<p>' + organizations[i] + '</p>' + '<br>' + '<p>' + totals[i] + '</p>' + '</div>';
+      //
+      // $('#thing').append($(html));
+      //
+      // i++;
+    });
+buildChart();
+console.log("Organizations: " + organizations);
+
+}
+
+function getButterfield(){
+    $.ajax({
+        type: "GET",
+        url: "legislators/butterfield10.xml",
+        dataType: "xml",
+        success: parseButterfield});
+}
+
+function parseButterfield(xml) {
+  //var i = 0;
+  $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+      var pac = $donation.find('pac').text();
+
+      organizations.push($donation.find('organization').text());
+      organizationIndex.push(parseInt($donation.find('organization-index').text()));
+      indivs.push(parseInt($donation.find('indivs').text()));
+      totals.push(parseInt($donation.find('totals').text()));
+
+
+
+      // html="";
+      //
+      // html += '<div id="' + i + '">' + '<p>' + organizations[i] + '</p>' + '<br>' + '<p>' + totals[i] + '</p>' + '</div>';
+      //i++;
+    });
+buildChart();
+
+
+}
+
+
+function buildChart(){
+
+  console.log("buildchart");
+  console.log(organizations);
+
+  var chart = new Highcharts.Chart({
+    chart: {
+      renderTo: 'main-graph',
+      type: 'column'
+    },
+    series: [{
+      data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }],
+
+  });
+
+
+  $('.switch').change(function(){
+    console.log("switch function starts");
+    var lastNameID = this.getAttribute("value");
+
+    if(lastNameID == 'adams'){
+      console.log("Adams chart");
+      chart.series[0].remove();
+      chart.addSeries({
+        showInLegend:false,
+        type: 'column',
+        color: '#08F',
+       data: totals
+        });
+
+    }
+    else if (lastNameID == 'butterfield'){
+      console.log("Butterfield chart");
+    }
+
+  }); //end switch function
+
+  $('.main-graph').highcharts({
+
+
+
+          chart: {
+              type: 'column'
+          },
+          title: {
+              text: 'Campaign Donations, totals'
+          },
+          subtitle: {
+              text: 'Source: OpenSecrets.com'
+          },
+          xAxis: {
+              categories: organizations,
+              crosshair: true
+          },
+          yAxis: {
+              min: 0,
+              title: {
+                  text: 'Donations ($)'
+              }
+          },
+          tooltip: {
+              headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+              pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                  '<td style="padding:0"><b>${point.y:.1f}</b></td></tr>',
+              footerFormat: '</table>',
+              shared: true,
+              useHTML: true
+          },
+          plotOptions: {
+              column: {
+                  pointPadding: 0.2,
+                  borderWidth: 0
+              }
+          },
+          legend: {
+            enabled:false
+          },
+          series: [{
+              name: 'total donation',
+              data: totals
+          }]
+
+
+      }); //end main-graph
+
+  }
+
+
+
+
+  </script>
+
+
+
+
+</body>
+
+</html>

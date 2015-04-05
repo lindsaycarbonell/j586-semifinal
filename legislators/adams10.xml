@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<donations>
+
+
+<donation>
+<organization-index>0</organization-index>
+<organization>EMILY&apos;s List</organization>
+<pac>17001</pac>
+<indivs>29868</indivs>
+<totals>46869</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>American Society of Anesthesiologists</organization>
+<pac>20000</pac>
+<indivs>0</indivs>
+<totals>20000</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>National Education Assn</organization>
+<pac>15000</pac>
+<indivs>0</indivs>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>Intl Brotherhood of Electrical Workers</organization>
+<pac>10000</pac>
+<indivs>0</indivs>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>American Academy of Ophthalmology</organization>
+<pac>10000</pac>
+<indivs>0</indivs>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>United Auto Workers</organization>
+<pac>7500</pac>
+<indivs>0</indivs>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>American Medical Assn</organization>
+<pac>7500</pac>
+<indivs>0</indivs>
+<totals>7500</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>National Rural Electric Cooperative Assn</organization>
+<pac>6500</pac>
+<indivs>0</indivs>
+<totals>6500</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>Tri-state Maxed Out Women</organization>
+<pac>6000</pac>
+<indivs>0</indivs>
+<totals>6000</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>American Optometric Assn</organization>
+<pac>6000</pac>
+<indivs>0</indivs>
+<totals>6000</totals>
+
+</donation>
+
+
+</donations>

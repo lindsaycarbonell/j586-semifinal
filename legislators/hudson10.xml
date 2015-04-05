@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<donations>
+<donation>
+<organization-index>organization-index</organization-index>
+<organization>organization</organization>
+<indiv>indiv</indiv>
+<pac>pac</pac>
+<totals>totals</totals>
+
+</donation>
+<donation>
+<organization-index>0</organization-index>
+<organization>Wallace &amp; Graham</organization>
+<indiv>20400</indiv>
+<pac>0</pac>
+<totals>20400</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>New York Life Insurance</organization>
+<indiv>0</indiv>
+<pac>20000</pac>
+<totals>20000</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>American Society of Anesthesiologists</organization>
+<indiv>0</indiv>
+<pac>20000</pac>
+<totals>20000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>Hendrick Motorsports</organization>
+<indiv>16200</indiv>
+<pac>0</pac>
+<totals>16200</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Hendrick Automotive</organization>
+<indiv>16100</indiv>
+<pac>0</pac>
+<totals>16100</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Ernst &amp; Young</organization>
+<indiv>1000</indiv>
+<pac>15000</pac>
+<totals>16000</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>United Parcel Service</organization>
+<indiv>0</indiv>
+<pac>15500</pac>
+<totals>15500</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>Home Depot</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>American Institute of CPAs</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>Systel</organization>
+<indiv>13318</indiv>
+<pac>0</pac>
+<totals>13318</totals>
+
+</donation>
+<donation>
+<organization-index>10</organization-index>
+<organization>PricewaterhouseCoopers</organization>
+<indiv>0</indiv>
+<pac>12000</pac>
+<totals>12000</totals>
+
+</donation>
+</donations>
