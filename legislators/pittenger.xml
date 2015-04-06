@@ -1,827 +1,820 @@
 <?xml version="1.0"?>
 <donations>
-<donation>
-<FIELD1>0</FIELD1>
-<FIELD2>Massachusetts Mutual Life Insurance</FIELD2>
-<FIELD3>32250</FIELD3>
-<FIELD4>2000</FIELD4>
-<FIELD5>34250</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>1</FIELD1>
-<FIELD2>Titan Technology Partners</FIELD2>
-<FIELD3>27600</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>27600</FIELD5>
-<FIELD6></FIELD6>
+
+<donation>
+<organization-index>0</organization-index>
+<organization>Massachusetts Mutual Life Insurance</organization>
+<indiv>32250</indiv>
+<pac>2000</pac>
+<totals>34250</totals>
+
 </donation>
-<donation>
-<FIELD1>10</FIELD1>
-<FIELD2>Hunoval Law Firm</FIELD2>
-<FIELD3>10400</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10400</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>1</organization-index>
+<organization>Titan Technology Partners</organization>
+<indiv>27600</indiv>
+<pac>0</pac>
+<totals>27600</totals>
+
 </donation>
-<donation>
-<FIELD1>100</FIELD1>
-<FIELD2>Capital One Financial</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>3500</FIELD4>
-<FIELD5>3500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>2</organization-index>
+<organization>Duke Energy</organization>
+<indiv>15850</indiv>
+<pac>6500</pac>
+<totals>22350</totals>
+
 </donation>
-<donation>
-<FIELD1>101</FIELD1>
-<FIELD2>DaVita HealthCare Partners</FIELD2>
-<FIELD3>3500</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>3500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>3</organization-index>
+<organization>CAPITALA INVESTMENT ADVISORS</organization>
+<indiv>20400</indiv>
+<pac>0</pac>
+<totals>20400</totals>
+
 </donation>
-<donation>
-<FIELD1>11</FIELD1>
-<FIELD2>Bowman Investments</FIELD2>
-<FIELD3>10200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>4</organization-index>
+<organization>Coca-Cola Co</organization>
+<indiv>16300</indiv>
+<pac>0</pac>
+<totals>16300</totals>
+
 </donation>
-<donation>
-<FIELD1>12</FIELD1>
-<FIELD2>American Bankers Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>10000</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>5</organization-index>
+<organization>Centerview Partners</organization>
+<indiv>15200</indiv>
+<pac>0</pac>
+<totals>15200</totals>
+
 </donation>
-<donation>
-<FIELD1>13</FIELD1>
-<FIELD2>Indep Insurance Agents &amp; Brokers/America</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>10000</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>6</organization-index>
+<organization>Edifice Inc</organization>
+<indiv>15200</indiv>
+<pac>0</pac>
+<totals>15200</totals>
+
 </donation>
-<donation>
-<FIELD1>14</FIELD1>
-<FIELD2>Clearpath Foundation</FIELD2>
-<FIELD3>10000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>7</organization-index>
+<organization>Every Republican is Crucial PAC</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
 </donation>
-<donation>
-<FIELD1>15</FIELD1>
-<FIELD2>Pavilion Development Co</FIELD2>
-<FIELD3>10000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>8</organization-index>
+<organization>Steel Fab Inc</organization>
+<indiv>12700</indiv>
+<pac>0</pac>
+<totals>12700</totals>
+
 </donation>
-<donation>
-<FIELD1>16</FIELD1>
-<FIELD2>SAS Institute</FIELD2>
-<FIELD3>10000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>9</organization-index>
+<organization>DP Riggins &amp; Assoc</organization>
+<indiv>10400</indiv>
+<pac>0</pac>
+<totals>10400</totals>
+
 </donation>
-<donation>
-<FIELD1>17</FIELD1>
-<FIELD2>National Assn of Insurance &amp; Financial Advisors</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>10000</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>10</organization-index>
+<organization>Hunoval Law Firm</organization>
+<indiv>10400</indiv>
+<pac>0</pac>
+<totals>10400</totals>
+
 </donation>
-<donation>
-<FIELD1>18</FIELD1>
-<FIELD2>National Auto Dealers Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>10000</FIELD4>
-<FIELD5>10000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>11</organization-index>
+<organization>Bowman Investments</organization>
+<indiv>10200</indiv>
+<pac>0</pac>
+<totals>10200</totals>
+
 </donation>
-<donation>
-<FIELD1>19</FIELD1>
-<FIELD2>BB&amp;T Corp</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>9500</FIELD4>
-<FIELD5>9500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>12</organization-index>
+<organization>American Bankers Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>2</FIELD1>
-<FIELD2>Duke Energy</FIELD2>
-<FIELD3>15850</FIELD3>
-<FIELD4>6500</FIELD4>
-<FIELD5>22350</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>13</organization-index>
+<organization>Indep Insurance Agents &amp; Brokers/America</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>20</FIELD1>
-<FIELD2>National Assn of Realtors</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>9000</FIELD4>
-<FIELD5>9000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>14</organization-index>
+<organization>Clearpath Foundation</organization>
+<indiv>10000</indiv>
+<pac>0</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>21</FIELD1>
-<FIELD2>Wells Fargo</FIELD2>
-<FIELD3>4000</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>9000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>15</organization-index>
+<organization>Pavilion Development Co</organization>
+<indiv>10000</indiv>
+<pac>0</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>22</FIELD1>
-<FIELD2>Crowder Construction</FIELD2>
-<FIELD3>8600</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>8600</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>16</organization-index>
+<organization>SAS Institute</organization>
+<indiv>10000</indiv>
+<pac>0</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>23</FIELD1>
-<FIELD2>American Security Mortgage</FIELD2>
-<FIELD3>8550</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>8550</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>17</organization-index>
+<organization>National Assn of Insurance &amp; Financial Advisors</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>24</FIELD1>
-<FIELD2>Cato Corp</FIELD2>
-<FIELD3>8400</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>8400</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>18</organization-index>
+<organization>National Auto Dealers Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
 </donation>
-<donation>
-<FIELD1>25</FIELD1>
-<FIELD2>Bank of America</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>8000</FIELD4>
-<FIELD5>8000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>19</organization-index>
+<organization>BB&amp;T Corp</organization>
+<indiv>0</indiv>
+<pac>9500</pac>
+<totals>9500</totals>
+
 </donation>
-<donation>
-<FIELD1>26</FIELD1>
-<FIELD2>Captive-Aire Inc</FIELD2>
-<FIELD3>7800</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>7800</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>20</organization-index>
+<organization>National Assn of Realtors</organization>
+<indiv>0</indiv>
+<pac>9000</pac>
+<totals>9000</totals>
+
 </donation>
-<donation>
-<FIELD1>27</FIELD1>
-<FIELD2>Charlotte Pipe &amp; Foundry</FIELD2>
-<FIELD3>7650</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>7650</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>21</organization-index>
+<organization>Wells Fargo</organization>
+<indiv>4000</indiv>
+<pac>5000</pac>
+<totals>9000</totals>
+
 </donation>
-<donation>
-<FIELD1>28</FIELD1>
-<FIELD2>American Society of Anesthesiologists</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>7500</FIELD4>
-<FIELD5>7500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>22</organization-index>
+<organization>Crowder Construction</organization>
+<indiv>8600</indiv>
+<pac>0</pac>
+<totals>8600</totals>
+
 </donation>
-<donation>
-<FIELD1>29</FIELD1>
-<FIELD2>ACN Inc</FIELD2>
-<FIELD3>7500</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>7500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>23</organization-index>
+<organization>American Security Mortgage</organization>
+<indiv>8550</indiv>
+<pac>0</pac>
+<totals>8550</totals>
+
 </donation>
-<donation>
-<FIELD1>3</FIELD1>
-<FIELD2>CAPITALA INVESTMENT ADVISORS</FIELD2>
-<FIELD3>20400</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>20400</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>24</organization-index>
+<organization>Cato Corp</organization>
+<indiv>8400</indiv>
+<pac>0</pac>
+<totals>8400</totals>
+
 </donation>
-<donation>
-<FIELD1>30</FIELD1>
-<FIELD2>J Arthur Dail Inc</FIELD2>
-<FIELD3>7500</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>7500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>25</organization-index>
+<organization>Bank of America</organization>
+<indiv>0</indiv>
+<pac>8000</pac>
+<totals>8000</totals>
+
 </donation>
-<donation>
-<FIELD1>31</FIELD1>
-<FIELD2>Lorillard Inc</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>7500</FIELD4>
-<FIELD5>7500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>26</organization-index>
+<organization>Captive-Aire Inc</organization>
+<indiv>7800</indiv>
+<pac>0</pac>
+<totals>7800</totals>
+
 </donation>
-<donation>
-<FIELD1>32</FIELD1>
-<FIELD2>Parkdale Mills</FIELD2>
-<FIELD3>7400</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>7400</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>27</organization-index>
+<organization>Charlotte Pipe &amp; Foundry</organization>
+<indiv>7650</indiv>
+<pac>0</pac>
+<totals>7650</totals>
+
 </donation>
-<donation>
-<FIELD1>33</FIELD1>
-<FIELD2>Rock Holdings</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>7000</FIELD4>
-<FIELD5>7000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>28</organization-index>
+<organization>American Society of Anesthesiologists</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
 </donation>
-<donation>
-<FIELD1>34</FIELD1>
-<FIELD2>Home Depot</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>7000</FIELD4>
-<FIELD5>7000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>29</organization-index>
+<organization>ACN Inc</organization>
+<indiv>7500</indiv>
+<pac>0</pac>
+<totals>7500</totals>
+
 </donation>
-<donation>
-<FIELD1>35</FIELD1>
-<FIELD2>Honeywell International</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6998</FIELD4>
-<FIELD5>6998</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>30</organization-index>
+<organization>J Arthur Dail Inc</organization>
+<indiv>7500</indiv>
+<pac>0</pac>
+<totals>7500</totals>
+
 </donation>
-<donation>
-<FIELD1>36</FIELD1>
-<FIELD2>Presbyterian Hospital</FIELD2>
-<FIELD3>6950</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>6950</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>31</organization-index>
+<organization>Lorillard Inc</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+
 </donation>
-<donation>
-<FIELD1>37</FIELD1>
-<FIELD2>Cadrillion Capital</FIELD2>
-<FIELD3>6200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>6200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>32</organization-index>
+<organization>Parkdale Mills</organization>
+<indiv>7400</indiv>
+<pac>0</pac>
+<totals>7400</totals>
+
 </donation>
-<donation>
-<FIELD1>38</FIELD1>
-<FIELD2>Carolina Tractor</FIELD2>
-<FIELD3>6000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>33</organization-index>
+<organization>Rock Holdings</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
 </donation>
-<donation>
-<FIELD1>39</FIELD1>
-<FIELD2>Barnhill Contracting</FIELD2>
-<FIELD3>6000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>34</organization-index>
+<organization>Home Depot</organization>
+<indiv>0</indiv>
+<pac>7000</pac>
+<totals>7000</totals>
+
 </donation>
-<donation>
-<FIELD1>4</FIELD1>
-<FIELD2>Coca-Cola Co</FIELD2>
-<FIELD3>16300</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>16300</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>35</organization-index>
+<organization>Honeywell International</organization>
+<indiv>0</indiv>
+<pac>6998</pac>
+<totals>6998</totals>
+
 </donation>
-<donation>
-<FIELD1>40</FIELD1>
-<FIELD2>BASF SE</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>36</organization-index>
+<organization>Presbyterian Hospital</organization>
+<indiv>6950</indiv>
+<pac>0</pac>
+<totals>6950</totals>
+
 </donation>
-<donation>
-<FIELD1>41</FIELD1>
-<FIELD2>AXA</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>37</organization-index>
+<organization>Cadrillion Capital</organization>
+<indiv>6200</indiv>
+<pac>0</pac>
+<totals>6200</totals>
+
 </donation>
-<donation>
-<FIELD1>42</FIELD1>
-<FIELD2>Grant Thornton LLP</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>38</organization-index>
+<organization>Carolina Tractor</organization>
+<indiv>6000</indiv>
+<pac>0</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>43</FIELD1>
-<FIELD2>PricewaterhouseCoopers</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>39</organization-index>
+<organization>Barnhill Contracting</organization>
+<indiv>6000</indiv>
+<pac>0</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>44</FIELD1>
-<FIELD2>Speedway Motorsports</FIELD2>
-<FIELD3>6000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>40</organization-index>
+<organization>BASF SE</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>45</FIELD1>
-<FIELD2>National Assn of Real Estate Investment Trusts</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>41</organization-index>
+<organization>AXA</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>46</FIELD1>
-<FIELD2>UBS AG</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>6000</FIELD4>
-<FIELD5>6000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>42</organization-index>
+<organization>Grant Thornton LLP</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>47</FIELD1>
-<FIELD2>SunTrust Banks</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5500</FIELD4>
-<FIELD5>5500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>43</organization-index>
+<organization>PricewaterhouseCoopers</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>48</FIELD1>
-<FIELD2>Piedmont Natural Gas</FIELD2>
-<FIELD3>3000</FIELD3>
-<FIELD4>2500</FIELD4>
-<FIELD5>5500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>44</organization-index>
+<organization>Speedway Motorsports</organization>
+<indiv>6000</indiv>
+<pac>0</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>49</FIELD1>
-<FIELD2>Investment Co Institute</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5500</FIELD4>
-<FIELD5>5500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>45</organization-index>
+<organization>National Assn of Real Estate Investment Trusts</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>5</FIELD1>
-<FIELD2>Centerview Partners</FIELD2>
-<FIELD3>15200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>15200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>46</organization-index>
+<organization>UBS AG</organization>
+<indiv>0</indiv>
+<pac>6000</pac>
+<totals>6000</totals>
+
 </donation>
-<donation>
-<FIELD1>50</FIELD1>
-<FIELD2>Association for Advanced Life Underwriting</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5500</FIELD4>
-<FIELD5>5500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>47</organization-index>
+<organization>SunTrust Banks</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
 </donation>
-<donation>
-<FIELD1>51</FIELD1>
-<FIELD2>Citigroup Inc</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5500</FIELD4>
-<FIELD5>5500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>48</organization-index>
+<organization>Piedmont Natural Gas</organization>
+<indiv>3000</indiv>
+<pac>2500</pac>
+<totals>5500</totals>
+
 </donation>
-<donation>
-<FIELD1>52</FIELD1>
-<FIELD2>Carolinas Healthcare System</FIELD2>
-<FIELD3>5426</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5426</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>49</organization-index>
+<organization>Investment Co Institute</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
 </donation>
-<donation>
-<FIELD1>53</FIELD1>
-<FIELD2>Crawford Group</FIELD2>
-<FIELD3>5350</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5350</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>50</organization-index>
+<organization>Association for Advanced Life Underwriting</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
 </donation>
-<donation>
-<FIELD1>54</FIELD1>
-<FIELD2>Altria Group</FIELD2>
-<FIELD3>5200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>51</organization-index>
+<organization>Citigroup Inc</organization>
+<indiv>0</indiv>
+<pac>5500</pac>
+<totals>5500</totals>
+
 </donation>
-<donation>
-<FIELD1>55</FIELD1>
-<FIELD2>Derivatives Advisory Group</FIELD2>
-<FIELD3>5200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>52</organization-index>
+<organization>Carolinas Healthcare System</organization>
+<indiv>5426</indiv>
+<pac>0</pac>
+<totals>5426</totals>
+
 </donation>
-<donation>
-<FIELD1>56</FIELD1>
-<FIELD2>Randy Marion Automotive</FIELD2>
-<FIELD3>5200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>53</organization-index>
+<organization>Crawford Group</organization>
+<indiv>5350</indiv>
+<pac>0</pac>
+<totals>5350</totals>
+
 </donation>
-<donation>
-<FIELD1>57</FIELD1>
-<FIELD2>Northwestern Mutual</FIELD2>
-<FIELD3>2600</FIELD3>
-<FIELD4>2500</FIELD4>
-<FIELD5>5100</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>54</organization-index>
+<organization>Altria Group</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
 </donation>
-<donation>
-<FIELD1>58</FIELD1>
-<FIELD2>National Rural Electric Cooperative Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>55</organization-index>
+<organization>Derivatives Advisory Group</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
 </donation>
-<donation>
-<FIELD1>59</FIELD1>
-<FIELD2>New York Life Insurance</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>56</organization-index>
+<organization>Randy Marion Automotive</organization>
+<indiv>5200</indiv>
+<pac>0</pac>
+<totals>5200</totals>
+
 </donation>
-<donation>
-<FIELD1>6</FIELD1>
-<FIELD2>Edifice Inc</FIELD2>
-<FIELD3>15200</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>15200</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>57</organization-index>
+<organization>Northwestern Mutual</organization>
+<indiv>2600</indiv>
+<pac>2500</pac>
+<totals>5100</totals>
+
 </donation>
-<donation>
-<FIELD1>60</FIELD1>
-<FIELD2>National Beer Wholesalers Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>58</organization-index>
+<organization>National Rural Electric Cooperative Assn</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>61</FIELD1>
-<FIELD2>McGuireWoods LLP</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>59</organization-index>
+<organization>New York Life Insurance</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>62</FIELD1>
-<FIELD2>McKesson Corp</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>60</organization-index>
+<organization>National Beer Wholesalers Assn</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>63</FIELD1>
-<FIELD2>Metlife Inc</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>61</organization-index>
+<organization>McGuireWoods LLP</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>64</FIELD1>
-<FIELD2>Morgan Stanley</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>62</organization-index>
+<organization>McKesson Corp</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>65</FIELD1>
-<FIELD2>PPV Inc (McDonald&apos;s)</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>63</organization-index>
+<organization>Metlife Inc</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>66</FIELD1>
-<FIELD2>Sozf</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>64</organization-index>
+<organization>Morgan Stanley</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>67</FIELD1>
-<FIELD2>Dickstein Shapiro LLP</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>65</organization-index>
+<organization>PPV Inc (McDonald&apos;s)</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>68</FIELD1>
-<FIELD2>CSX Corp</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>66</organization-index>
+<organization>Sozf</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>69</FIELD1>
-<FIELD2>Freedom Project</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>67</organization-index>
+<organization>Dickstein Shapiro LLP</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>7</FIELD1>
-<FIELD2>Every Republican is Crucial PAC</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>15000</FIELD4>
-<FIELD5>15000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>68</organization-index>
+<organization>CSX Corp</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>70</FIELD1>
-<FIELD2>GlaxoSmithKline</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>69</organization-index>
+<organization>Freedom Project</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>71</FIELD1>
-<FIELD2>Duo Fast Carolinas</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>70</organization-index>
+<organization>GlaxoSmithKline</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>72</FIELD1>
-<FIELD2>Ernst &amp; Young</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>71</organization-index>
+<organization>Duo Fast Carolinas</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>73</FIELD1>
-<FIELD2>Koch Industries</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>72</organization-index>
+<organization>Ernst &amp; Young</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>74</FIELD1>
-<FIELD2>Liberty Mutual</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>73</organization-index>
+<organization>Koch Industries</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>75</FIELD1>
-<FIELD2>Jobs, Economy &amp; Budget Fund</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>74</organization-index>
+<organization>Liberty Mutual</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>76</FIELD1>
-<FIELD2>Agdata Inc</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>75</organization-index>
+<organization>Jobs, Economy &amp; Budget Fund</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>77</FIELD1>
-<FIELD2>American Institute of CPAs</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>76</organization-index>
+<organization>Agdata Inc</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>78</FIELD1>
-<FIELD2>American Land Title Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>5000</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>77</organization-index>
+<organization>American Institute of CPAs</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>79</FIELD1>
-<FIELD2>Aston Properties</FIELD2>
-<FIELD3>5000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>5000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>78</organization-index>
+<organization>American Land Title Assn</organization>
+<indiv>0</indiv>
+<pac>5000</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>8</FIELD1>
-<FIELD2>Steel Fab Inc</FIELD2>
-<FIELD3>12700</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>12700</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>79</organization-index>
+<organization>Aston Properties</organization>
+<indiv>5000</indiv>
+<pac>0</pac>
+<totals>5000</totals>
+
 </donation>
-<donation>
-<FIELD1>80</FIELD1>
-<FIELD2>AREVA Group</FIELD2>
-<FIELD3>250</FIELD3>
-<FIELD4>4500</FIELD4>
-<FIELD5>4750</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>80</organization-index>
+<organization>AREVA Group</organization>
+<indiv>250</indiv>
+<pac>4500</pac>
+<totals>4750</totals>
+
 </donation>
-<donation>
-<FIELD1>81</FIELD1>
-<FIELD2>Sullivan &amp; Cromwell</FIELD2>
-<FIELD3>4600</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>4600</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>81</organization-index>
+<organization>Sullivan &amp; Cromwell</organization>
+<indiv>4600</indiv>
+<pac>0</pac>
+<totals>4600</totals>
+
 </donation>
-<donation>
-<FIELD1>82</FIELD1>
-<FIELD2>Mortgage Bankers Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4500</FIELD4>
-<FIELD5>4500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>82</organization-index>
+<organization>Mortgage Bankers Assn</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
 </donation>
-<donation>
-<FIELD1>83</FIELD1>
-<FIELD2>Babcock &amp; Wilcox</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4500</FIELD4>
-<FIELD5>4500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>83</organization-index>
+<organization>Babcock &amp; Wilcox</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
 </donation>
-<donation>
-<FIELD1>84</FIELD1>
-<FIELD2>Huizenga Holdings</FIELD2>
-<FIELD3>4500</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>4500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>84</organization-index>
+<organization>Huizenga Holdings</organization>
+<indiv>4500</indiv>
+<pac>0</pac>
+<totals>4500</totals>
+
 </donation>
-<donation>
-<FIELD1>85</FIELD1>
-<FIELD2>Goldman Sachs</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4500</FIELD4>
-<FIELD5>4500</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>85</organization-index>
+<organization>Goldman Sachs</organization>
+<indiv>0</indiv>
+<pac>4500</pac>
+<totals>4500</totals>
+
 </donation>
-<donation>
-<FIELD1>86</FIELD1>
-<FIELD2>Cummins Atlantic LLC</FIELD2>
-<FIELD3>4000</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>86</organization-index>
+<organization>Cummins Atlantic LLC</organization>
+<indiv>4000</indiv>
+<pac>0</pac>
+<totals>4000</totals>
+
 </donation>
-<donation>
-<FIELD1>87</FIELD1>
-<FIELD2>Independent Community Bankers of America</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>87</organization-index>
+<organization>Independent Community Bankers of America</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
 </donation>
-<donation>
-<FIELD1>88</FIELD1>
-<FIELD2>JPMorgan Chase &amp; Co</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>88</organization-index>
+<organization>JPMorgan Chase &amp; Co</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
 </donation>
-<donation>
-<FIELD1>89</FIELD1>
-<FIELD2>Lowe&apos;s Companies</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>9</FIELD1>
-<FIELD2>DP Riggins &amp; Assoc</FIELD2>
-<FIELD3>10400</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>10400</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>90</FIELD1>
-<FIELD2>AT&amp;T Inc</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>91</FIELD1>
-<FIELD2>Credit Union National Assn</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>92</FIELD1>
-<FIELD2>Microsoft Corp</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>93</FIELD1>
-<FIELD2>National Council of Textile Orgs</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>94</FIELD1>
-<FIELD2>TIAA-CREF</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>95</FIELD1>
-<FIELD2>Williams Companies</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>4000</FIELD4>
-<FIELD5>4000</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>96</FIELD1>
-<FIELD2>Belk Inc</FIELD2>
-<FIELD3>3850</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>3850</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>97</FIELD1>
-<FIELD2>Steve Moore Chevrolet</FIELD2>
-<FIELD3>3600</FIELD3>
-<FIELD4>0</FIELD4>
-<FIELD5>3600</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>98</FIELD1>
-<FIELD2>Tyco International</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>3500</FIELD4>
-<FIELD5>3500</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>99</FIELD1>
-<FIELD2>Charlotte-Mecklenburg Hospital Authority</FIELD2>
-<FIELD3>0</FIELD3>
-<FIELD4>3500</FIELD4>
-<FIELD5>3500</FIELD5>
-<FIELD6></FIELD6>
-</donation>
-<donation>
-<FIELD1>organization-index</FIELD1>
-<FIELD2>organization</FIELD2>
-<FIELD3>indiv</FIELD3>
-<FIELD4>pac</FIELD4>
-<FIELD5>totals</FIELD5>
-<FIELD6></FIELD6>
+<donation>
+<organization-index>89</organization-index>
+<organization>Lowe&apos;s Companies</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>90</organization-index>
+<organization>AT&amp;T Inc</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>91</organization-index>
+<organization>Credit Union National Assn</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>92</organization-index>
+<organization>Microsoft Corp</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>93</organization-index>
+<organization>National Council of Textile Orgs</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>94</organization-index>
+<organization>TIAA-CREF</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>95</organization-index>
+<organization>Williams Companies</organization>
+<indiv>0</indiv>
+<pac>4000</pac>
+<totals>4000</totals>
+
+</donation>
+<donation>
+<organization-index>96</organization-index>
+<organization>Belk Inc</organization>
+<indiv>3850</indiv>
+<pac>0</pac>
+<totals>3850</totals>
+
+</donation>
+<donation>
+<organization-index>97</organization-index>
+<organization>Steve Moore Chevrolet</organization>
+<indiv>3600</indiv>
+<pac>0</pac>
+<totals>3600</totals>
+
+</donation>
+<donation>
+<organization-index>98</organization-index>
+<organization>Tyco International</organization>
+<indiv>0</indiv>
+<pac>3500</pac>
+<totals>3500</totals>
+
+</donation>
+<donation>
+<organization-index>99</organization-index>
+<organization>Charlotte-Mecklenburg Hospital Authority</organization>
+<indiv>0</indiv>
+<pac>3500</pac>
+<totals>3500</totals>
+
+</donation>
+<donation>
+<organization-index>100</organization-index>
+<organization>Capital One Financial</organization>
+<indiv>0</indiv>
+<pac>3500</pac>
+<totals>3500</totals>
+
+</donation>
+<donation>
+<organization-index>101</organization-index>
+<organization>DaVita HealthCare Partners</organization>
+<indiv>3500</indiv>
+<pac>0</pac>
+<totals>3500</totals>
+
 </donation>
 </donations>

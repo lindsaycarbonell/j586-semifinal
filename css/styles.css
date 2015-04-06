@@ -5,15 +5,27 @@
 
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:700,400);
+@font-face {
+    font-family: Gotham-Light;
+    src: url(../fonts/Gotham-Light.otf);
+}
+@font-face {
+    font-family: Gotham;
+    src: url(../fonts/Gotham-Medium.otf);
+}
 /*font-family: 'Montserrat' or 'Monterrat-Bold', sans-serif;*/
 
 /*standards*/
 body{
-  font-family:'Montserrat', 'sans-serif';
+  font-family:'Gotham-Light', 'Montserrat','sans-serif';
   line-height:29px;
 }
 h1{
   font-size:30px;
+  font-family:'Gotham-Medium', 'Montserrat-Bold', 'sans-serif';
+}
+input{
+  border:none;
 }
 hr{
   color:rgb(153, 153, 153);
@@ -58,6 +70,66 @@ width:600px;
   width:61px;
 float:left;
 }
+
+#district{
+  font-size:20px;
+  font-family:'Gotham-Medium';
+}
+#party{
+  font-size:20px;
+  font-family:'Gotham-Medium';
+}
+
+/*buttons*/
+.picwid{
+  height:200px;
+  width:150px;
+  padding:20px;
+  color:transparent;
+}
+.switch:hover{
+  -webkit-filter: grayscale(50%);
+z-index: -99px;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+#adams{
+  background-image:url("../images/adams.jpg");
+}
+#butterfield{
+  background-image:url("../images/butterfield.jpeg");
+}
+#foxx{
+  background-image:url("../images/foxx.jpeg");
+}
+#holding{
+  background-image:url("../images/holding.jpeg");
+}
+#hudson{
+  background-image:url("../images/hudson.jpg");
+}
+#jones{
+  background-image:url("../images/jones.jpeg");
+}
+#mchenry{
+  background-image:url("../images/mchenry.jpeg");
+}
+#meadows{
+  background-image:url("../images/meadows.jpeg");
+}
+#pittenger{
+  background-image:url("../images/pittenger.jpeg");
+}
+#price{
+  background-image:url("../images/price.jpeg");
+}
+#rouzer{
+  background-image:url("../images/rouzer.jpeg");
+}
+
 
 /*dropdown menu*/
 .dropwidth{

@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+
+<head>
+<!--jquery-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<!--highcharts-->
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<!--bootstrap-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+
+<!--my stylesheet-->
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <img id="logo" src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR" />
+        <ul class="nav navbar-nav">
+          <li><a href="#">news</a></li>
+          <li><a href="#">arts &#38; life</a></li>
+          <li><a href="#">music</a></li>
+          <li><a href="#">topics</a></li>
+          <li><a href="#">programs</a></li>
+          <li><a href="#">listen</a></li>
+        </ul>
+    </div>
+  </nav>
+
+<div class="container">
+    <div class="row">
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <h1>N.C. House of Representatives Blah Blah</h1>
+      </div><!--end col-->
+    </div><!--end row-->
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <p class="byline">April 1, 2014 12:00 AM ET</p>
+      </div>
+</div><!--end container-->
+
+  <hr>
+
+<div class="container">
+    <!--BODY-->
+    <div class="row">
+      <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum sem diam, eget sodales massa sodales non. Morbi sed purus sapien. Phasellus ex risus, interdum eget nulla et, scelerisque ullamcorper nisl. Phasellus ac lobortis enim. Nulla scelerisque viverra semper. Sed vitae ligula quis elit porta pharetra. Nunc scelerisque sagittis justo ut accumsan. Vivamus ultrices, ligula in feugiat convallis, lacus elit bibendum felis, a interdum augue leo a nibh. Nam accumsan dui vitae nibh consequat mollis.</p>
+      </div>
+    </div><!--end row-->
+
+    <hr>
+
+</div><!--end header container-->
+
+<div class="container">
+
+  <!--ROW 2-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-4">
+          <p>Choose a representative:</p>
+        </div><!--end inner col 1-->
+        <div class="col-lg-4 col-md-4 col-sm-4">
+          <input class="switch" type="radio" name="g" value="adams">Adams</input>
+          <input class="switch" type="radio" name="g" value="butterfield">Butterfield</input>
+          <input class="switch" type="radio" name="g" value="foxx">Foxx</input>
+          <input class="switch" type="radio" name="g" value="holding">Holding</input>
+          <input class="switch" type="radio" name="g" value="hudson">Hudson</input>
+          <input class="switch" type="radio" name="g" value="jones">Jones</input>
+          <input class="switch" type="radio" name="g" value="mchenrgy">McHenry</input>
+          <input class="switch" type="radio" name="g" value="meadows">Meadows</input>
+          <input class="switch" type="radio" name="g" value="pittenger">Pittenger</input>
+          <input class="switch" type="radio" name="g" value="price">Price</input>
+          <input class="switch" type="radio" name="g" value="rouzer">Rouzer</input>
+        </div><!--end inner col 2-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <hr>
+
+  <!--ROW 3-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <p>REPRESENTATIVE NAME</p>
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <!--ROW 4-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <img id="picture" src="images/tillis.jpg" style="height:50%;width:50%;" />
+          </div><!--end inner col-->
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+            <div id="main-graph"></div>
+          </div><!--end inner col-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <!--ROW 5-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <p id="district">DISTRICT</p>
+            <p id="party">PARTY</p>
+          </div><!--end inner col-->
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <div id="pie-graph">pie graph</div>
+          </div><!--end inner col-->
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <div id="org-descr">organization descr</div>
+          </div><!--end inner col-->
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <!--ROW 6-->
+  <div class="row">
+    <div class="max-width col-lg-10 col-lg-offset-2 col-md-10 col-md-offset-2 col-sm-12">
+      <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div id="tabular">tabular</div>
+          </div>
+      </div><!--end inner row-->
+    </div><!--end col-->
+  </div><!--end row-->
+
+  <button onClick="listAll()">CLICK</button>
+
+</div><!--end body container-->
+
+<script>
+/*THOSE GLOBAL VARIABLES THOUGH*/
+
+//organization names
+var organizationAdams = [];
+var organizationButterfield = [];
+var organizationFoxx = [];
+var organizationHolding = [];
+var organizationHudson = [];
+var organizationJones = [];
+var organizationMchenry = [];
+var organizationMeadows = [];
+var organizationPittenger = [];
+var organizationPrice = [];
+var organizationRouzer = [];
+
+//pac donations
+var pacAdams = [];
+var pacButterfield = [];
+var pacFoxx = [];
+var pacHolding = [];
+var pacHudson = [];
+var pacJones = [];
+var pacMchenry = [];
+var pacMeadows = [];
+var pacPittenger = [];
+var pacPrice = [];
+var pacRouzer = [];
+
+//individual donations
+var indivAdams = [];
+var indivButterfield = [];
+var indivFoxx = [];
+var indivHolding = [];
+var indivHudson = [];
+var indivJones = [];
+var indivMchenry = [];
+var indivMeadows = [];
+var indivPittenger = [];
+var indivPrice = [];
+var indivRouzer = [];
+
+//total donations
+var totalsAdams = [];
+var totalsButterfield = [];
+var totalsFoxx = [];
+var totalsHolding = [];
+var totalsHudson = [];
+var totalsJones = [];
+var totalsMchenry = [];
+var totalsMeadows = [];
+var totalsPittenger = [];
+var totalsPrice = [];
+var totalsRouzer = [];
+
+//organization indices
+var indexAdams = [];
+var indexButterfield = [];
+var indexFoxx = [];
+var indexHolding = [];
+var indexHudson = [];
+var indexJones = [];
+var indexMchenry = [];
+var indexMeadows = [];
+var indexPittenger = [];
+var indexPrice = [];
+var indexRouzer = [];
+
+var chart = new Highcharts.Chart({
+  chart: {
+    renderTo: 'main-graph',
+    type: 'column'
+  },
+  series: [{
+    data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  }],
+
+});
+
+$(document).ready(function(){
+
+  $.ajax({
+      type: "GET",
+      url: "all_reps.xml",
+      dataType: "xml",
+      success: parseMain});
+
+  function parseMain(xml){
+
+      $(xml).find('person').each(function(){
+
+          console.log("once for every person");
+          var $person = $(this);
+          var lastname = $person.find('last_name').text();
+          fullname = $person.find('fullname').text();
+          var district = $person.find('district').text();
+          var party = $person.find('party').text();
+      });
+    }
+
+$(document).ready(function(){
+  $.ajax({
+          type: "GET",
+          url: "legislators/adams10.xml",
+          dataType: "xml",
+          success: parseAdams});
+  function parseAdams(xml) {
+          console.log("parse adams");
+          $(xml).find('donation').each(function(){
+
+            //console.log("once for every donation");
+            var $donation = $(this);
+
+            organizationAdams.push($donation.find('organization').text());
+            //console.log(organizationAdams);
+            pacAdams.push(parseInt($donation.find('pac').text()));
+            indivAdams.push(parseInt($donation.find('indivs').text()));
+            totalsAdams.push(parseInt($donation.find('totals').text()));
+            indexAdams.push(parseInt($donation.find('organization-index').text()));
+
+          });
+      }
+});
+
+$(document).ready(function(){
+  $.ajax({
+      type: "GET",
+      url: "legislators/butterfield10.xml",
+      dataType: "xml",
+      success: parseButterfield});
+      
+  function parseButterfield(xml) {
+        console.log("parse butterfield");
+        //var i = 0;
+        $(xml).find('donation').each(function(){
+
+            console.log("once for every donation");
+            var $donation = $(this);
+
+            organizationButterfield.push($donation.find('organization').text());
+            indivButterfield.push(parseInt($donation.find('indivs').text()));
+            pacButterfield.push(parseInt($donation.find('pac').text()));
+            totalsButterfield.push(parseInt($donation.find('totals').text()));
+            indexButterfield.push(parseInt($donation.find('organization-index').text()));
+
+            // html="";
+            //
+            // html += '<div id="' + i + '">' + '<p>' + organizations[i] + '</p>' + '<br>' + '<p>' + totals[i] + '</p>' + '</div>';
+            //i++;
+          });
+          //chooseChart();
+    }
+});
+
+
+
+
+
+    function getButterfield(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/butterfield10.xml",
+            dataType: "xml",
+            success: parseButterfield});
+    }
+
+    function parseButterfield(xml) {
+      console.log("parse butterfield");
+      //var i = 0;
+      $(xml).find('donation').each(function(){
+
+          console.log("once for every donation");
+          var $donation = $(this);
+
+          organizationButterfield.push($donation.find('organization').text());
+          indivButterfield.push(parseInt($donation.find('indivs').text()));
+          pacButterfield.push(parseInt($donation.find('pac').text()));
+          totalsButterfield.push(parseInt($donation.find('totals').text()));
+          indexButterfield.push(parseInt($donation.find('organization-index').text()));
+
+          // html="";
+          //
+          // html += '<div id="' + i + '">' + '<p>' + organizations[i] + '</p>' + '<br>' + '<p>' + totals[i] + '</p>' + '</div>';
+          //i++;
+        });
+        //chooseChart();
+    }
+
+
+
+    function getFoxx(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/foxx10.xml",
+            dataType: "xml",
+            success: parseFoxx});
+    }
+    function getHolding(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/holding10.xml",
+            dataType: "xml",
+            success: parseHolding});
+    }
+    function getHudson(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/hudson10.xml",
+            dataType: "xml",
+            success: parseHudson});
+    }
+    function getJones(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/jones10.xml",
+            dataType: "xml",
+            success: parseJones});
+    }
+    function getMchenry(){
+        $.ajax({
+            type: "GET",
+            url: "legislators/mchenry10.xml",
+            dataType: "xml",
+            success: parseMchenry});
+    }
+});
+
+
+
+function chooseChart(){
+    console.log("choose chart");
+
+  $('.switch').change(function(){
+    console.log("switch function starts");
+    var lastName = this.getAttribute("value");
+    chart.series[0].setData([7,8,9,10]);
+
+    if(lastName == 'adams'){
+      console.log("Adams chart");
+      chart.series[0].remove();
+      chart.addSeries({
+          showInLegend:false,
+          type: 'column',
+          color: '#08F',
+          data: totalsAdams
+        });
+        console.log("Orgs after else if adams: " + organizationAdams);
+    }
+    else if (lastName == 'butterfield'){
+      console.log("Butterfield chart");
+      chart.series[0].remove();
+      chart.addSeries({
+          showInLegend:false,
+          type: 'column',
+          color: '#08F',
+          data: totalsButterfield
+        });
+        console.log("Organizations after else if Butter: " + organizationButterfield);
+    }
+    else if (lastName == 'foxx'){
+      console.log("Foxx chart");
+    }
+
+  }); //end switch function
+
+}
+
+
+
+
+//FIX ALL FILES BELOW HERE
+    // $.ajax({
+    //     type: "GET",
+    //     url: "legislators/meadows10.xml",
+    //     dataType: "xml",
+    //     success: parseMeadows});
+    //
+    // $.ajax({
+    //     type: "GET",
+    //     url: "legislators/pittenger10.xml",
+    //     dataType: "xml",
+    //     success: parsePittenger});
+    //
+    // $.ajax({
+    //     type: "GET",
+    //     url: "legislators/price10.xml",
+    //     dataType: "xml",
+    //     success: parsePrice});
+    //
+    // $.ajax({
+    //     type: "GET",
+    //     url: "legislators/rouzer10.xml",
+    //     dataType: "xml",
+    //     success: parseRouzer});
+
+
+//parse everything
+
+
+
+
+
+function parseFoxx(xml) {
+  console.log("parse foxx");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationFoxx.push($donation.find('organization').text());
+      indivFoxx.push(parseInt($donation.find('indivs').text()));
+      pacFoxx.push($donation.find('pac').text());
+      totalsFoxx.push(parseInt($donation.find('totals').text()));
+      indexFoxx.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseHolding(xml) {
+  console.log("parse holding");
+    $(xml).find('donation').each(function(){
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationHolding.push($donation.find('organization').text());
+      indivHolding.push(parseInt($donation.find('indivs').text()));
+      pacHolding.push($donation.find('pac').text());
+      totalsHolding.push(parseInt($donation.find('totals').text()));
+      indexHolding.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseHudson(xml) {
+  console.log("parse hudson");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationHudson.push($donation.find('organization').text());
+      indivHudson.push(parseInt($donation.find('indivs').text()));
+      pacHudson.push($donation.find('pac').text());
+      totalsHudson.push(parseInt($donation.find('totals').text()));
+      indexHudson.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseJones(xml) {
+  console.log("parse jones");
+    $(xml).find('donation').each(function(){
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationJones.push($donation.find('organization').text());
+      pacJones.push($donation.find('pac').text());
+      indivJones.push(parseInt($donation.find('indivs').text()));
+      totalsJones.push(parseInt($donation.find('totals').text()));
+      indexJones.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseMchenry(xml) {
+  console.log("parse mchenry");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationMchenry.push($donation.find('organization').text());
+      pacMchenry.push($donation.find('pac').text());
+      indivMchenry.push(parseInt($donation.find('indivs').text()));
+      totalsMchenry.push(parseInt($donation.find('totals').text()));
+      indexMchenry.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseMeadows(xml) {
+  console.log("parse meadows");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationMeadows.push($donation.find('organization').text());
+      indexMeadows.push(parseInt($donation.find('organization-index').text()));
+      pacMeadows.push(parseInt($donation.find('pac').text()));
+      indivMeadows.push(parseInt($donation.find('indivs').text()));
+      totalsMeadows.push(parseInt($donation.find('totals').text()));
+
+    });
+    //chooseChart();
+}
+
+function parsePittenger(xml) {
+  console.log("parse pittenger");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationPittenger.push($donation.find('organization').text());
+      pacPittenger.push(parseInt($donation.find('pac').text()));
+      indivPittenger.push(parseInt($donation.find('indivs').text()));
+      totals.push(parseInt($donation.find('totals').text()));
+      indexPittenger.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parsePrice(xml) {
+  console.log("parse price");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+
+      organizationPrice.push($donation.find('organization').text());
+      pacPrice.push(parseInt($donation.find('pac').text()));
+      indivPrice.push(parseInt($donation.find('indivs').text()));
+      totalsPrice.push(parseInt($donation.find('totals').text()));
+      indexPrice.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    //chooseChart();
+}
+
+function parseRouzer(xml) {
+  console.log("parse rouzer");
+    $(xml).find('donation').each(function(){
+
+      //console.log("once for every donation");
+      var $donation = $(this);
+
+      organizationRouzer.push($donation.find('organization').text());
+      pacRouzer.push(parseInt($donation.find('pac').text()));
+      indivRouzer.push(parseInt($donation.find('indivs').text()));
+      totalsRouzer.push(parseInt($donation.find('totals').text()));
+      indexRouzer.push(parseInt($donation.find('organization-index').text()));
+
+    });
+    chooseChart();
+
+}
+function listAll(){
+//organization names
+console.log("Org adams: " + organizationAdams);
+console.log("Org butter: " + organizationButterfield);
+console.log("Org hold: " + organizationHolding);
+console.log("Org hud: " + organizationHudson);
+console.log("Org jones: " + organizationJones);
+console.log("Org mch: " + organizationMchenry);
+console.log("Org mead: " + organizationMeadows);
+console.log("Org pitt: " + organizationPittenger);
+console.log("Org price: " + organizationPrice);
+console.log("Org rouzer: " + organizationRouzer);
+}
+
+//pac donations
+// var pacAdams = [];
+// var pacButterfield = [];
+// var pacFoxx = [];
+// var pacHolding = [];
+// var pacHudson = [];
+// var pacJones = [];
+// var pacMchenry = [];
+// var pacMeadows = [];
+// var pacPittenger = [];
+// var pacPrice = [];
+// var pacRouzer = [];
+//
+// //individual donations
+// var indivAdams = [];
+// var indivButterfield = [];
+// var indivFoxx = [];
+// var indivHolding = [];
+// var indivHudson = [];
+// var indivJones = [];
+// var indivMchenry = [];
+// var indivMeadows = [];
+// var indivPittenger = [];
+// var indivPrice = [];
+// var indivRouzer = [];
+//
+// //total donations
+// var totalsAdams = [];
+// var totalsButterfield = [];
+// var totalsFoxx = [];
+// var totalsHolding = [];
+// var totalsHudson = [];
+// var totalsJones = [];
+// var totalsMchenry = [];
+// var totalsMeadows = [];
+// var totalsPittenger = [];
+// var totalsPrice = [];
+// var totalsRouzer = [];
+//
+// //organization indices
+// var indexAdams = [];
+// var indexButterfield = [];
+// var indexFoxx = [];
+// var indexHolding = [];
+// var indexHudson = [];
+// var indexJones = [];
+// var indexMchenry = [];
+// var indexMeadows = [];
+// var indexPittenger = [];
+// var indexPrice = [];
+// var indexRouzer = [];
+
+function buildChart(){
+  console.log("build chart");
+//THIS IS A THING DOWN HERE IDK
+  $('.main-graph').highcharts({
+
+          chart: {
+              type: 'column'
+          },
+          title: {
+              text: 'Campaign Donations, totals'
+          },
+          subtitle: {
+              text: 'Source: OpenSecrets.com'
+          },
+          xAxis: {
+              categories: organizations,
+              crosshair: true
+          },
+          yAxis: {
+              min: 0,
+              title: {
+                  text: 'Donations ($)'
+              }
+          },
+          tooltip: {
+              headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+              pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                  '<td style="padding:0"><b>${point.y:.1f}</b></td></tr>',
+              footerFormat: '</table>',
+              shared: true,
+              useHTML: true
+          },
+          plotOptions: {
+              column: {
+                  pointPadding: 0.2,
+                  borderWidth: 0
+              }
+          },
+          legend: {
+            enabled:false
+          },
+          series: [{
+              name: 'total donation',
+              data: totals
+          }]
+
+
+      }); //end main-graph
+
+}
+
+
+
+
+  </script>
+
+
+
+
+</body>
+
+</html>

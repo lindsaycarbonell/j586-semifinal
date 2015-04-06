@@ -1,13 +1,6 @@
 <?xml version="1.0"?>
 <donations>
-<donation>
-<organization-index>organization-index</organization-index>
-<organization>organization</organization>
-<indiv>indiv</indiv>
-<pac>pac</pac>
-<totals>totals</totals>
 
-</donation>
 <donation>
 <organization-index>0</organization-index>
 <organization>Wallace &amp; Graham</organization>

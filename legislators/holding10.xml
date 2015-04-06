@@ -1,97 +1,91 @@
 <?xml version="1.0"?>
 <donations>
-<donation>
-<organization-index>organization-index</organization-index>
-<organization>organization</organization>
-<indiv>indiv</indiv>
-<pac>pac</pac>
-<totals>totals</totals>
 
-</donation>
 <donation>
 <organization-index>0</organization-index>
 <organization>Citizens First Bank</organization>
 <indiv>30550</indiv>
 <pac>0</pac>
 <totals>30550</totals>
-
 </donation>
+
 <donation>
 <organization-index>1</organization-index>
 <organization>Ward &amp; Smith</organization>
 <indiv>26092</indiv>
 <pac>0</pac>
 <totals>26092</totals>
-
 </donation>
+
 <donation>
 <organization-index>2</organization-index>
 <organization>Velocity Solutions</organization>
 <indiv>15200</indiv>
 <pac>0</pac>
 <totals>15200</totals>
-
 </donation>
+
 <donation>
 <organization-index>3</organization-index>
 <organization>Ward &amp; Smith P.A.</organization>
 <indiv>0</indiv>
 <pac>15000</pac>
 <totals>15000</totals>
-
 </donation>
+
 <donation>
 <organization-index>4</organization-index>
 <organization>American Society of Anesthesiologists</organization>
 <indiv>0</indiv>
 <pac>15000</pac>
 <totals>15000</totals>
-
 </donation>
+
 <donation>
 <organization-index>5</organization-index>
 <organization>Home Depot</organization>
 <indiv>0</indiv>
 <pac>15000</pac>
 <totals>15000</totals>
-
 </donation>
+
 <donation>
 <organization-index>6</organization-index>
 <organization>E Boyd &amp; Assoc</organization>
 <indiv>12389</indiv>
 <pac>0</pac>
 <totals>12389</totals>
-
 </donation>
+
 <donation>
 <organization-index>7</organization-index>
 <organization>Keystone Corp</organization>
 <indiv>12200</indiv>
 <pac>0</pac>
 <totals>12200</totals>
-
 </donation>
+
 <donation>
 <organization-index>8</organization-index>
 <organization>Crawford Group</organization>
 <indiv>8500</indiv>
 <pac>2500</pac>
 <totals>11000</totals>
-
 </donation>
+
 <donation>
 <organization-index>9</organization-index>
 <organization>American Bankers Assn</organization>
 <indiv>0</indiv>
 <pac>10000</pac>
 <totals>10000</totals>
-
 </donation>
+
 <donation>
 <organization-index>10</organization-index>
 <organization>Ernst &amp; Young</organization>
 <indiv>0</indiv>
 <pac>10000</pac>
 <totals>10000</totals>
+</donation>
 </donations>

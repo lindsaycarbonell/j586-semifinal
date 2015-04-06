@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<donations>
+
+<donation>
+<organization-index>0</organization-index>
+<organization>NorPAC</organization>
+<indiv>15010</indiv>
+<pac>0</pac>
+<totals>15010</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>National Auto Dealers Assn</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>New York Life Insurance</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>American Bankers Assn</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Family Research Council</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Every Republican is Crucial PAC</organization>
+<indiv>0</indiv>
+<pac>10000</pac>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>National Assn of Insurance &amp; Financial Advisors</organization>
+<indiv>0</indiv>
+<pac>9500</pac>
+<totals>9500</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>Thermo Fisher Scientific</organization>
+<indiv>250</indiv>
+<pac>9000</pac>
+<totals>9250</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>CSX Corp</organization>
+<indiv>0</indiv>
+<pac>8000</pac>
+<totals>8000</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>Charlotte-Mecklenburg Hospital Authority</organization>
+<indiv>0</indiv>
+<pac>7500</pac>
+<totals>7500</totals>
+</donation>
+</donations>

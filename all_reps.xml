@@ -1,13 +1,6 @@
 <?xml version="1.0"?>
 <people>
-<person>
-<first_name>first_name</first_name>
-<last_name>last_name</last_name>
-<full_name>full_name</full_name>
-<link>link</link>
-<district>district</district>
-<party>party</party>
-</person>
+
 <person>
 <first_name>George</first_name>
 <last_name>Butterfield</last_name>

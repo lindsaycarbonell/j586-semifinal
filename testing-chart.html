@@ -1,0 +1,64 @@
+<html>
+<head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <!--highcharts-->
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+  <!--bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+
+  <!-- DataTables CSS -->
+  <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.6/css/jquery.dataTables.css">
+
+
+
+  <!--my stylesheet-->
+  <link href="css/styles.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+
+
+<body>
+
+  <table id="tabular" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Organization-index</th>
+                <th>Organization</th>
+                <th>Donations from PAC</th>
+                <th>Donations from individuals</th>
+                <th>Total donations</th>
+            </tr>
+        </thead>
+
+        <tfoot>
+            <tr>
+              <th>Organization-index</th>
+              <th>Organization</th>
+              <th>Donations from PAC</th>
+              <th>Donations from individuals</th>
+              <th>Total donations</th>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+
+
+
+
+<!-- DataTables -->
+<script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.6/js/jquery.dataTables.js"></script>
+<script>
+$(document).ready(function(){
+
+$('#tabular').dataTable( {
+      "ajax": "legislators/adams.json"
+  } );
+});
+
+</script>
+
+</html>

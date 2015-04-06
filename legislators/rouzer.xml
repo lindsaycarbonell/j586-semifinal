@@ -1,143 +1,136 @@
 <?xml version="1.0"?>
 <donations>
 <donation>
-<FIELD1>organization-index</FIELD1>
-<FIELD2>organization</FIELD2>
-<FIELD3>indiv</FIELD3>
-<FIELD4>pac</FIELD4>
-<FIELD5>totals</FIELD5>
+<organization-index>0</organization-index>
+<organization>Prestage Farms</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>13900</totals>
 </donation>
 <donation>
-<FIELD1>0</FIELD1>
-<FIELD2>Prestage Farms</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>13900</FIELD5>
+<organization-index>1</organization-index>
+<organization>National Cattlemen’s Beef Assn</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>11000</totals>
 </donation>
 <donation>
-<FIELD1>1</FIELD1>
-<FIELD2>National Cattlemen’s Beef Assn</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>11000</FIELD5>
+<organization-index>2</organization-index>
+<organization>North Carolina Farm Bureau</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10800</totals>
 </donation>
 <donation>
-<FIELD1>2</FIELD1>
-<FIELD2>North Carolina Farm Bureau</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10800</FIELD5>
+<organization-index>3</organization-index>
+<organization>Cameron Management</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10500</totals>
 </donation>
 <donation>
-<FIELD1>3</FIELD1>
-<FIELD2>Cameron Management</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10500</FIELD5>
+<organization-index>4</organization-index>
+<organization>Citizens First Bank</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10400</totals>
 </donation>
 <donation>
-<FIELD1>4</FIELD1>
-<FIELD2>Citizens First Bank</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10400</FIELD5>
+<organization-index>5</organization-index>
+<organization>Rountree, Losee &amp; Baldwin</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10400</totals>
 </donation>
 <donation>
-<FIELD1>5</FIELD1>
-<FIELD2>Rountree, Losee &amp; Baldwin</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10400</FIELD5>
+<organization-index>6</organization-index>
+<organization>American Crystal Sugar</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10300</totals>
 </donation>
 <donation>
-<FIELD1>6</FIELD1>
-<FIELD2>American Crystal Sugar</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10300</FIELD5>
+<organization-index>7</organization-index>
+<organization>American Society of Anesthesiologists</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>7</FIELD1>
-<FIELD2>American Society of Anesthesiologists</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>8</organization-index>
+<organization>Deere &amp; Co</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>8</FIELD1>
-<FIELD2>Deere &amp; Co</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>9</organization-index>
+<organization>Ever Republican is Crucial PAC</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>9</FIELD1>
-<FIELD2>Ever Republican is Crucial PAC</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>10</organization-index>
+<organization>Freedom Project</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>10</FIELD1>
-<FIELD2>Freedom Project</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>11</organization-index>
+<organization>Majority Cmte PAC</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>11</FIELD1>
-<FIELD2>Majority Cmte PAC</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>12</organization-index>
+<organization>National Assn of Realtors</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>12</FIELD1>
-<FIELD2>National Assn of Realtors</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>13</organization-index>
+<organization>National Pork Producers Council</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>10000</totals>
 </donation>
 <donation>
-<FIELD1>13</FIELD1>
-<FIELD2>National Pork Producers Council</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>10000</FIELD5>
+<organization-index>14</organization-index>
+<organization>National Cotton Council</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>8500</totals>
 </donation>
 <donation>
-<FIELD1>14</FIELD1>
-<FIELD2>National Cotton Council</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>8500</FIELD5>
+<organization-index>15</organization-index>
+<organization>Altria Group</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>8063</totals>
 </donation>
 <donation>
-<FIELD1>15</FIELD1>
-<FIELD2>Altria Group</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>8063</FIELD5>
+<organization-index>16</organization-index>
+<organization>Caterpillar Inc</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>8000</totals>
 </donation>
 <donation>
-<FIELD1>16</FIELD1>
-<FIELD2>Caterpillar Inc</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>8000</FIELD5>
+<organization-index>17</organization-index>
+<organization>Reynolds American</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>8000</totals>
 </donation>
 <donation>
-<FIELD1>17</FIELD1>
-<FIELD2>Reynolds American</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>8000</FIELD5>
-</donation>
-<donation>
-<FIELD1>18</FIELD1>
-<FIELD2>Bob King Automall</FIELD2>
-<FIELD3></FIELD3>
-<FIELD4></FIELD4>
-<FIELD5>7800</FIELD5>
+<organization-index>18</organization-index>
+<organization>Bob King Automall</organization>
+<indiv></indiv>
+<pac></pac>
+<totals>7800</totals>
 </donation>
 </donations>

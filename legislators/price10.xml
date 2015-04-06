@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<donations>
+
+<donation>
+<organization-index>0</organization-index>
+<organization>Raytheon Co</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>American Crystal Sugar</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>Machinists/Aerospace Workers Union</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>Northrop Grumman</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>International Assn of Fire Fighters</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Deloitte LLP</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>Lockheed Martin</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>Honeywell International</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>Grifols Inc</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>Intl Brotherhood of Electrical Workers</organization>
+<pac>10000</pac>
+<indiv>0</indiv>
+<totals>10000</totals>
+
+</donation>
+</donations>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<donations>
+
+<donation>
+<organization-index>0</organization-index>
+<organization>Massachusetts Mutual Life Insurance</organization>
+<indiv>32250</indiv>
+<pac>2000</pac>
+<totals>34250</totals>
+
+</donation>
+<donation>
+<organization-index>1</organization-index>
+<organization>Titan Technology Partners</organization>
+<indiv>27600</indiv>
+<pac>0</pac>
+<totals>27600</totals>
+
+</donation>
+<donation>
+<organization-index>2</organization-index>
+<organization>Duke Energy</organization>
+<indiv>15850</indiv>
+<pac>6500</pac>
+<totals>22350</totals>
+
+</donation>
+<donation>
+<organization-index>3</organization-index>
+<organization>CAPITALA INVESTMENT ADVISORS</organization>
+<indiv>20400</indiv>
+<pac>0</pac>
+<totals>20400</totals>
+
+</donation>
+<donation>
+<organization-index>4</organization-index>
+<organization>Coca-Cola Co</organization>
+<indiv>16300</indiv>
+<pac>0</pac>
+<totals>16300</totals>
+
+</donation>
+<donation>
+<organization-index>5</organization-index>
+<organization>Centerview Partners</organization>
+<indiv>15200</indiv>
+<pac>0</pac>
+<totals>15200</totals>
+
+</donation>
+<donation>
+<organization-index>6</organization-index>
+<organization>Edifice Inc</organization>
+<indiv>15200</indiv>
+<pac>0</pac>
+<totals>15200</totals>
+
+</donation>
+<donation>
+<organization-index>7</organization-index>
+<organization>Every Republican is Crucial PAC</organization>
+<indiv>0</indiv>
+<pac>15000</pac>
+<totals>15000</totals>
+
+</donation>
+<donation>
+<organization-index>8</organization-index>
+<organization>Steel Fab Inc</organization>
+<indiv>12700</indiv>
+<pac>0</pac>
+<totals>12700</totals>
+
+</donation>
+<donation>
+<organization-index>9</organization-index>
+<organization>DP Riggins &amp; Assoc</organization>
+<indiv>10400</indiv>
+<pac>0</pac>
+<totals>10400</totals>
+
+</donation>
+</donations>
