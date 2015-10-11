@@ -1,4 +1,3 @@
-/*can't use Gotham. Montserrat instead*/
 /*can't use Gotham narrow.*/
 /*cant use Knockout*/
 /*can't use Sentinel. Georgia instead*/
@@ -13,12 +12,17 @@
     font-family: Gotham;
     src: url(../fonts/Gotham-Medium.otf);
 }
-/*font-family: 'Montserrat' or 'Monterrat-Bold', sans-serif;*/
+@font-face {
+    font-family: Knockout;
+    src: url(../fonts/Knockout.otf);
+}
+
 
 /*standards*/
 body{
-  font-family:'Gotham-Light', 'Montserrat','sans-serif';
+  font-family:'Georgia', 'serif';
   line-height:29px;
+  font-size:16px;
 }
 h1{
   font-size:30px;
@@ -30,11 +34,32 @@ input{
 hr{
   color:rgb(153, 153, 153);
   display: block;
-width:600px;
+  width:600px;
   border-width: 1px;
+}
+br{
+  line-height:11px;
+}
+th{
+  width:230px;
 }
 .max-width{
   max-width:730px;
+}
+.block{
+  display:block;
+}
+.inline{
+  display:inline;
+}
+.inline-block{
+  display:inline-block;
+}
+.relative{
+  position:relative;
+}
+.absolute{
+  position:absolute;
 }
 
 
@@ -71,15 +96,6 @@ width:600px;
 float:left;
 }
 
-#district{
-  font-size:20px;
-  font-family:'Gotham-Medium';
-}
-#party{
-  font-size:20px;
-  font-family:'Gotham-Medium';
-}
-
 /*buttons*/
 .picwid{
   height:200px;
@@ -87,8 +103,11 @@ float:left;
   padding:20px;
   color:transparent;
 }
+.switch{
+  /*margin-bottom:30px;*/
+}
 .switch:hover{
-  -webkit-filter: grayscale(50%);
+  -webkit-filter: grayscale(90%);
 z-index: -99px;
 -webkit-transition: all 0.5s ease-in-out;
 -moz-transition: all 0.5s ease-in-out;
@@ -96,42 +115,106 @@ z-index: -99px;
 -ms-transition: all 0.5s ease-in-out;
 transition: all 0.5s ease-in-out;
 }
-#adams{
+.thumb-district{
+  margin-top:-15px;
+  font-size:25px;
+  font-family:'Knockout';
+  letter-spacing:.3px;
+  color:rgb(109,138,196);
+}
+.adams-pic{
   background-image:url("../images/adams.jpg");
+
 }
-#butterfield{
-  background-image:url("../images/butterfield.jpeg");
+.butterfield-pic{
+  background-image:url("../images/butterfield.jpg");
 }
-#foxx{
-  background-image:url("../images/foxx.jpeg");
+.foxx-pic{
+  background-image:url("../images/foxx.jpg");
 }
-#holding{
-  background-image:url("../images/holding.jpeg");
+.holding-pic{
+  background-image:url("../images/holding.jpg");
+  background-position:50% 10%;
 }
-#hudson{
+.hudson-pic{
   background-image:url("../images/hudson.jpg");
 }
-#jones{
-  background-image:url("../images/jones.jpeg");
+.jones-pic{
+  background-image:url("../images/jones.jpg");
 }
-#mchenry{
-  background-image:url("../images/mchenry.jpeg");
+.mchenry-pic{
+  background-image:url("../images/mchenry.jpg");
+  background-position:50% 10%;
 }
-#meadows{
-  background-image:url("../images/meadows.jpeg");
+.meadows-pic{
+  background-image:url("../images/meadows.jpg");
+  background-position:50% 50%;
 }
-#pittenger{
-  background-image:url("../images/pittenger.jpeg");
+.pittenger-pic{
+  background-image:url("../images/pittenger.jpg");
+  background-position:50% 50%;
 }
-#price{
-  background-image:url("../images/price.jpeg");
+.price-pic{
+  background-image:url("../images/price.jpg");
 }
-#rouzer{
-  background-image:url("../images/rouzer.jpeg");
+.rouzer-pic{
+  background-image:url("../images/rouzer.jpg");
+}
+.ellmers-pic{
+  background-image:url("../images/ellmers.jpg");
+}
+.walker-pic{
+  background-image:url("../images/walker.jpg");
+  background-position:50% 50%;
 }
 
 
 /*dropdown menu*/
 .dropwidth{
   width:200px;
+}
+
+/*name stylings*/
+.republican{
+  color:#E91D0E;
+}
+.democrat{
+  color:#336699;
+}
+.subber{
+color:black;
+}
+
+#descr-district{
+  font-size:30px;
+  font-family:'Gotham-Medium';
+}
+#descr-party{
+  font-size:30px;
+  font-family:'Gotham-Medium';
+}
+.rep-name{
+
+}
+.leg-list-title{
+  font-family:'Knockout';
+  font-size:35px;
+  line-height:50px;
+  display:inline;
+  margin-bottom:100%;
+}
+.leg-list-col{
+  margin-bottom:10px;
+}
+
+/*bootstrap mods*/
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
 }

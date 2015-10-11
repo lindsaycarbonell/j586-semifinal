@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<donations>
+
+<donation>
+<organization>Home Depot</organization>
+<totals>23000</totals>
+</donation>
+<donation>
+<organization>American College of Radiology</organization>
+<totals>20000</totals>
+</donation>
+<donation>
+<organization>New York Life Insurance</organization>
+<totals>20000</totals>
+</donation>
+<donation>
+<organization>Pfizer Inc</organization>
+<totals>15000</totals>
+</donation>
+<donation>
+<organization>Reynolds American</organization>
+<totals>15000</totals>
+</donation>
+<donation>
+<organization>Comcast Corp</organization>
+<totals>13000</totals>
+</donation>
+<donation>
+<organization>Tuesday Group PAC</organization>
+<totals>13000</totals>
+</donation>
+<donation>
+<organization>American Academy of Orthopaedic Surgeons</organization>
+<totals>13000</totals>
+</donation>
+<donation>
+<organization>American Academy of Dermatology Assn</organization>
+<totals>11500</totals>
+</donation>
+<donation>
+<organization>David Allen Co</organization>
+<totals>11000</totals>
+</donation>
+</donations>
