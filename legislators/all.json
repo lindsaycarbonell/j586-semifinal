@@ -1,0 +1,777 @@
+{
+  "donations": {
+    "adams": [
+      {
+        "organization": "EMILY's List",
+        "pac": "17001",
+        "indivs": "29868",
+        "totals": "46869"
+      },
+      {
+        "organization": "American Society of Anesthesiologists",
+        "pac": "20000",
+        "indivs": "0",
+        "totals": "20000"
+      },
+      {
+        "organization": "National Education Assn",
+        "pac": "15000",
+        "indivs": "0",
+        "totals": "15000"
+      },
+      {
+        "organization": "Intl Brotherhood of Electrical Workers",
+        "pac": "10000",
+        "indivs": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "American Academy of Ophthalmology",
+        "pac": "10000",
+        "indivs": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "United Auto Workers",
+        "pac": "7500",
+        "indivs": "0",
+        "totals": "7500"
+      },
+      {
+        "organization": "American Medical Assn",
+        "pac": "7500",
+        "indivs": "0",
+        "totals": "7500"
+      },
+      {
+        "organization": "National Rural Electric Cooperative Assn",
+        "pac": "6500",
+        "indivs": "0",
+        "totals": "6500"
+      },
+      {
+        "organization": "Tri-state Maxed Out Women",
+        "pac": "6000",
+        "indivs": "0",
+        "totals": "6000"
+      },
+      {
+        "organization": "American Optometric Assn",
+        "pac": "6000",
+        "indivs": "0",
+        "totals": "6000"
+      }
+    ],
+    "butterfield": [
+      {
+        "organization": "AT&T Inc",
+        "indiv": "0",
+        "pac": "16500",
+        "totals": "16500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "CSX Corp",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "National Cable & Telecommunications Assn",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Comcast Corp",
+        "indiv": "5000",
+        "pac": "13000",
+        "totals": "18000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Merck & Co",
+        "indiv": "2200",
+        "pac": "12500",
+        "totals": "14700",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "CenturyLink",
+        "indiv": "0",
+        "pac": "12000",
+        "totals": "12000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "National Assn of Broadcasters",
+        "indiv": "500",
+        "pac": "10004",
+        "totals": "10504",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Laborers Union",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Machinists/Aerospace Workers Union",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Sheet Metal Workers Union",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Cox Enterprises",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00027035&amp;newMem=N&amp;cycle=2014"
+      }
+    ],
+    "ellmers": [
+      {
+        "organization": "Home Depot",
+        "totals": "23000"
+      },
+      {
+        "organization": "American College of Radiology",
+        "totals": "20000"
+      },
+      {
+        "organization": "New York Life Insurance",
+        "totals": "20000"
+      },
+      {
+        "organization": "Pfizer Inc",
+        "totals": "15000"
+      },
+      {
+        "organization": "Reynolds American",
+        "totals": "15000"
+      },
+      {
+        "organization": "Comcast Corp",
+        "totals": "13000"
+      },
+      {
+        "organization": "Tuesday Group PAC",
+        "totals": "13000"
+      },
+      {
+        "organization": "American Academy of Orthopaedic Surgeons",
+        "totals": "13000"
+      },
+      {
+        "organization": "American Academy of Dermatology Assn",
+        "totals": "11500"
+      },
+      {
+        "organization": "David Allen Co",
+        "totals": "11000"
+      }
+    ],
+    "foxx": [
+      {
+        "organization": "Full Sail",
+        "indiv": "21630",
+        "pac": "0",
+        "totals": "21630",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Corinthian Colleges",
+        "indiv": "13500",
+        "pac": "6000",
+        "totals": "19500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Autotrader.Com",
+        "indiv": "15400",
+        "pac": "0",
+        "totals": "15400",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "United Parcel Service",
+        "indiv": "0",
+        "pac": "13000",
+        "totals": "13000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Turkish Coalition USA PAC",
+        "indiv": "0",
+        "pac": "12000",
+        "totals": "12000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "BB&T Corp",
+        "indiv": "1000",
+        "pac": "10000",
+        "totals": "11000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "General Electric",
+        "indiv": "0",
+        "pac": "10500",
+        "totals": "10500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Cook Group",
+        "indiv": "7500",
+        "pac": "3000",
+        "totals": "10500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "Sabin Metal",
+        "indiv": "10200",
+        "pac": "0",
+        "totals": "10200",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "National Assn of Insurance & Financial Advisors",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      },
+      {
+        "organization": "National Auto Dealers Assn",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?type=C&amp;cid=N00026166&amp;newMem=N&amp;cycle=2014"
+      }
+    ],
+    "holding": [
+      {
+        "organization": "Citizens First Bank",
+        "indiv": "30550",
+        "pac": "0",
+        "totals": "30550"
+      },
+      {
+        "organization": "Ward & Smith",
+        "indiv": "26092",
+        "pac": "0",
+        "totals": "26092"
+      },
+      {
+        "organization": "Velocity Solutions",
+        "indiv": "15200",
+        "pac": "0",
+        "totals": "15200"
+      },
+      {
+        "organization": "Ward & Smith P.A.",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "American Society of Anesthesiologists",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "Home Depot",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "E Boyd & Assoc",
+        "indiv": "12389",
+        "pac": "0",
+        "totals": "12389"
+      },
+      {
+        "organization": "Keystone Corp",
+        "indiv": "12200",
+        "pac": "0",
+        "totals": "12200"
+      },
+      {
+        "organization": "Crawford Group",
+        "indiv": "8500",
+        "pac": "2500",
+        "totals": "11000"
+      },
+      {
+        "organization": "American Bankers Assn",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      },
+      {
+        "organization": "Ernst & Young",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      }
+    ],
+    "hudson": [
+      {
+        "organization": "Wallace & Graham",
+        "indiv": "20400",
+        "pac": "0",
+        "totals": "20400"
+      },
+      {
+        "organization": "New York Life Insurance",
+        "indiv": "0",
+        "pac": "20000",
+        "totals": "20000"
+      },
+      {
+        "organization": "American Society of Anesthesiologists",
+        "indiv": "0",
+        "pac": "20000",
+        "totals": "20000"
+      },
+      {
+        "organization": "Hendrick Motorsports",
+        "indiv": "16200",
+        "pac": "0",
+        "totals": "16200"
+      },
+      {
+        "organization": "Hendrick Automotive",
+        "indiv": "16100",
+        "pac": "0",
+        "totals": "16100"
+      },
+      {
+        "organization": "Ernst & Young",
+        "indiv": "1000",
+        "pac": "15000",
+        "totals": "16000"
+      },
+      {
+        "organization": "United Parcel Service",
+        "indiv": "0",
+        "pac": "15500",
+        "totals": "15500"
+      },
+      {
+        "organization": "Home Depot",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "American Institute of CPAs",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "Systel",
+        "indiv": "13318",
+        "pac": "0",
+        "totals": "13318"
+      },
+      {
+        "organization": "PricewaterhouseCoopers",
+        "indiv": "0",
+        "pac": "12000",
+        "totals": "12000"
+      }
+    ],
+    "jones": [
+      {
+        "organization": "Northrop Grumman",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "American Crystal Sugar",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "Air Line Pilots Assn",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Rural Electric Cooperative Assn",
+        "pac": "8000",
+        "indiv": "0",
+        "totals": "8000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "Lockheed Martin",
+        "pac": "8000",
+        "indiv": "0",
+        "totals": "8000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Auto Dealers Assn",
+        "pac": "7500",
+        "indiv": "0",
+        "totals": "7500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Beer Wholesalers Assn",
+        "pac": "7500",
+        "indiv": "0",
+        "totals": "7500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Community Pharmacists Assn",
+        "pac": "7500",
+        "indiv": "0",
+        "totals": "7500",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Assn of Insurance & Financial Advisors",
+        "pac": "7000",
+        "indiv": "0",
+        "totals": "7000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "National Assn of Realtors",
+        "pac": "6000",
+        "indiv": "0",
+        "totals": "6000",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      },
+      {
+        "organization": "American Chiropractic Assn",
+        "pac": "5250",
+        "indiv": "0",
+        "totals": "5250",
+        "source": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&amp;cid=N00002299"
+      }
+    ],
+    "mchenry": [
+      {
+        "organization": "Signature Bank",
+        "indiv": "40000",
+        "pac": "0",
+        "totals": "40000"
+      },
+      {
+        "organization": "Wells Fargo",
+        "indiv": "29350",
+        "pac": "8000",
+        "totals": "37350"
+      },
+      {
+        "organization": "PricewaterhouseCoopers",
+        "indiv": "0",
+        "pac": "30000",
+        "totals": "30000"
+      },
+      {
+        "organization": "Indep Insurance Agents & Brokers/America",
+        "indiv": "0",
+        "pac": "30000",
+        "totals": "30000"
+      },
+      {
+        "organization": "Koch Industries",
+        "indiv": "0",
+        "pac": "30000",
+        "totals": "30000"
+      },
+      {
+        "organization": "Every Republican is Crucial PAC",
+        "indiv": "0",
+        "pac": "30000",
+        "totals": "30000"
+      },
+      {
+        "organization": "Investment Co Institute",
+        "indiv": "0",
+        "pac": "27500",
+        "totals": "27500"
+      },
+      {
+        "organization": "JPMorgan Chase & Co",
+        "indiv": "0",
+        "pac": "27000",
+        "totals": "27000"
+      },
+      {
+        "organization": "General Electric",
+        "indiv": "0",
+        "pac": "25500",
+        "totals": "25500"
+      },
+      {
+        "organization": "Velocity Solutions",
+        "indiv": "25400",
+        "pac": "0",
+        "totals": "25400"
+      },
+      {
+        "organization": "Hunoval Law Firm",
+        "indiv": "25300",
+        "pac": "0",
+        "totals": "25300"
+      }
+    ],
+    "meadows": [
+      {
+        "organization": "NorPAC",
+        "indiv": "15010",
+        "pac": "0",
+        "totals": "15010"
+      },
+      {
+        "organization": "National Auto Dealers Assn",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "New York Life Insurance",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      },
+      {
+        "organization": "American Bankers Assn",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      },
+      {
+        "organization": "Family Research Council",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      },
+      {
+        "organization": "Every Republican is Crucial PAC",
+        "indiv": "0",
+        "pac": "10000",
+        "totals": "10000"
+      },
+      {
+        "organization": "National Assn of Insurance & Financial Advisors",
+        "indiv": "0",
+        "pac": "9500",
+        "totals": "9500"
+      },
+      {
+        "organization": "Thermo Fisher Scientific",
+        "indiv": "250",
+        "pac": "9000",
+        "totals": "9250"
+      },
+      {
+        "organization": "CSX Corp",
+        "indiv": "0",
+        "pac": "8000",
+        "totals": "8000"
+      },
+      {
+        "organization": "Charlotte-Mecklenburg Hospital Authority",
+        "indiv": "0",
+        "pac": "7500",
+        "totals": "7500"
+      }
+    ],
+    "pittenger": [
+      {
+        "organization": "Massachusetts Mutual Life Insurance",
+        "indiv": "32250",
+        "pac": "2000",
+        "totals": "34250"
+      },
+      {
+        "organization": "Titan Technology Partners",
+        "indiv": "27600",
+        "pac": "0",
+        "totals": "27600"
+      },
+      {
+        "organization": "Duke Energy",
+        "indiv": "15850",
+        "pac": "6500",
+        "totals": "22350"
+      },
+      {
+        "organization": "CAPITALA INVESTMENT ADVISORS",
+        "indiv": "20400",
+        "pac": "0",
+        "totals": "20400"
+      },
+      {
+        "organization": "Coca-Cola Co",
+        "indiv": "16300",
+        "pac": "0",
+        "totals": "16300"
+      },
+      {
+        "organization": "Centerview Partners",
+        "indiv": "15200",
+        "pac": "0",
+        "totals": "15200"
+      },
+      {
+        "organization": "Edifice Inc",
+        "indiv": "15200",
+        "pac": "0",
+        "totals": "15200"
+      },
+      {
+        "organization": "Every Republican is Crucial PAC",
+        "indiv": "0",
+        "pac": "15000",
+        "totals": "15000"
+      },
+      {
+        "organization": "Steel Fab Inc",
+        "indiv": "12700",
+        "pac": "0",
+        "totals": "12700"
+      },
+      {
+        "organization": "DP Riggins & Assoc",
+        "indiv": "10400",
+        "pac": "0",
+        "totals": "10400"
+      }
+    ],
+    "price": [
+      {
+        "organization": "Raytheon Co",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "American Crystal Sugar",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Machinists/Aerospace Workers Union",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Northrop Grumman",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "International Assn of Fire Fighters",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Deloitte LLP",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Lockheed Martin",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Honeywell International",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Grifols Inc",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      },
+      {
+        "organization": "Intl Brotherhood of Electrical Workers",
+        "pac": "10000",
+        "indiv": "0",
+        "totals": "10000"
+      }
+    ],
+    "rouzer": [
+      {
+        "organization": "Prestage Farms",
+        "totals": "13900"
+      },
+      {
+        "organization": "National Cattlemen’s Beef Assn",
+        "totals": "11000"
+      },
+      {
+        "organization": "North Carolina Farm Bureau",
+        "totals": "10800"
+      },
+      {
+        "organization": "Cameron Management",
+        "totals": "10500"
+      },
+      {
+        "organization": "Citizens First Bank",
+        "totals": "10400"
+      },
+      {
+        "organization": "Rountree, Losee & Baldwin",
+        "totals": "10400"
+      },
+      {
+        "organization": "American Crystal Sugar",
+        "totals": "10300"
+      },
+      {
+        "organization": "American Society of Anesthesiologists",
+        "totals": "10000"
+      },
+      {
+        "organization": "Deere & Co",
+        "totals": "10000"
+      },
+      {
+        "organization": "Ever Republican is Crucial PAC",
+        "totals": "10000"
+      }
+    ]
+  }
+}

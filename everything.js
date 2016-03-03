@@ -95,13 +95,14 @@ console.log("doc ready!");
 
           //console.log("once for every person");
           var $person = $(this);
-          lastname = $person.find('last_name').text();
-          fullname = $person.find('fullname').text();
-          district = $person.find('district').text();
-          party = $person.find('party').text();
+          lastname.push($person.find('last_name').text());
+          fullname.push($person.find('fullname').text());
+          district.push($person.find('district').text());
+          party.push($person.find('party').text());
 
 
       });
+
     }
 
 /*ALL THE GETS YOU COULD EVER DESIRE*/
@@ -173,7 +174,7 @@ console.log("doc ready!");
 /*PARSING FUNCTIONS BELOW*/
 
 function parseAdams(xml) {
-    console.log("parse adams");
+    // console.log("parse adams");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -190,7 +191,7 @@ function parseAdams(xml) {
 }
 
 function parseButterfield(xml) {
-  console.log("parse butterfield");
+  // console.log("parse butterfield");
   //var i = 0;
   $(xml).find('donation').each(function(){
 
@@ -208,7 +209,7 @@ function parseButterfield(xml) {
 }
 
 function parseEllmers(xml) {
-  console.log("parse ellmers");
+  // console.log("parse ellmers");
   //var i = 0;
   $(xml).find('donation').each(function(){
 
@@ -223,7 +224,7 @@ function parseEllmers(xml) {
 }
 
 function parseFoxx(xml) {
-  console.log("parse foxx");
+  // console.log("parse foxx");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -240,7 +241,7 @@ function parseFoxx(xml) {
 }
 
 function parseHolding(xml) {
-  console.log("parse holding");
+  // console.log("parse holding");
     $(xml).find('donation').each(function(){
       //console.log("once for every donation");
       var $donation = $(this);
@@ -256,7 +257,7 @@ function parseHolding(xml) {
 }
 
 function parseHudson(xml) {
-  console.log("parse hudson");
+  // console.log("parse hudson");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -274,7 +275,7 @@ function parseHudson(xml) {
 }
 
 function parseJones(xml) {
-  console.log("parse jones");
+  // console.log("parse jones");
     $(xml).find('donation').each(function(){
       //console.log("once for every donation");
       var $donation = $(this);
@@ -290,7 +291,7 @@ function parseJones(xml) {
 }
 
 function parseMchenry(xml) {
-  console.log("parse mchenry");
+  // console.log("parse mchenry");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -307,7 +308,7 @@ function parseMchenry(xml) {
 }
 
 function parseMeadows(xml) {
-  console.log("parse meadows");
+  // console.log("parse meadows");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -324,7 +325,7 @@ function parseMeadows(xml) {
 }
 
 function parsePittenger(xml) {
-  console.log("parse pittenger");
+  // console.log("parse pittenger");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -342,7 +343,7 @@ function parsePittenger(xml) {
 }
 
 function parsePrice(xml) {
-  console.log("parse price");
+  // console.log("parse price");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -360,7 +361,7 @@ function parsePrice(xml) {
 }
 
 function parseRouzer(xml) {
-  console.log("parse rouzer");
+  // console.log("parse rouzer");
     $(xml).find('donation').each(function(){
 
       //console.log("once for every donation");
@@ -375,7 +376,7 @@ function parseRouzer(xml) {
     });
 
 function parseWalker(xml) {
-  console.log("parse walker");
+  // console.log("parse walker");
   //var i = 0;
   $(xml).find('donation').each(function(){
 
@@ -410,55 +411,3 @@ console.log("Org price: " + organizationPrice);
 console.log("Org rouzer: " + organizationRouzer);
 console.log("Org walker: " + organizationWalker);
 }
-
-//pac donations
-// var pacAdams = [];
-// var pacButterfield = [];
-// var pacFoxx = [];
-// var pacHolding = [];
-// var pacHudson = [];
-// var pacJones = [];
-// var pacMchenry = [];
-// var pacMeadows = [];
-// var pacPittenger = [];
-// var pacPrice = [];
-// var pacRouzer = [];
-//
-// //individual donations
-// var indivAdams = [];
-// var indivButterfield = [];
-// var indivFoxx = [];
-// var indivHolding = [];
-// var indivHudson = [];
-// var indivJones = [];
-// var indivMchenry = [];
-// var indivMeadows = [];
-// var indivPittenger = [];
-// var indivPrice = [];
-// var indivRouzer = [];
-//
-// //total donations
-// var totalsAdams = [];
-// var totalsButterfield = [];
-// var totalsFoxx = [];
-// var totalsHolding = [];
-// var totalsHudson = [];
-// var totalsJones = [];
-// var totalsMchenry = [];
-// var totalsMeadows = [];
-// var totalsPittenger = [];
-// var totalsPrice = [];
-// var totalsRouzer = [];
-//
-// //organization indices
-// var indexAdams = [];
-// var indexButterfield = [];
-// var indexFoxx = [];
-// var indexHolding = [];
-// var indexHudson = [];
-// var indexJones = [];
-// var indexMchenry = [];
-// var indexMeadows = [];
-// var indexPittenger = [];
-// var indexPrice = [];
-// var indexRouzer = [];
