@@ -106,10 +106,7 @@ float:left;
   padding:10px;
   color:transparent;
 }
-.switch{
-  /*margin-bottom:30px;*/
-}
-.switch:hover{
+.picwid:hover{
   -webkit-filter: grayscale(90%);
 z-index: -99px;
 -webkit-transition: all 0.5s ease-in-out;
@@ -118,7 +115,7 @@ z-index: -99px;
 -ms-transition: all 0.5s ease-in-out;
 transition: all 0.5s ease-in-out;
 }
-.switch.walker-pic{
+.picwid.walker-pic{
   -webkit-filter: grayscale(90%);
 z-index: -99px;
 

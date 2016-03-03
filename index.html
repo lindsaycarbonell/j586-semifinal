@@ -13,7 +13,10 @@
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.6/css/jquery.dataTables.css">
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/responsive/1.0.5/css/dataTables.responsive.css">
 
-
+<script>
+var arr_donations = [];
+var arr_legislators = [];
+</script>
 
 <!--my stylesheet-->
 <link href="css/styles.css" rel="stylesheet" type="text/css" />
@@ -103,7 +106,7 @@
 
       <div class="row">
         <div class="leg-list-col col-lg-3 col-md-3 col-sm-3 col-xs-6">
-          <a><input class="picwid switch butterfield-pic" type="button" name="g"  value="butterfield"></input></a><p class="leg-list-title"><br>G.K. Butterfield</p><p class="thumb-district">District 1</p>
+          <input onclick="switchLeg('butterfield')" class="picwid butterfield-pic" type="button" name="g"  value="butterfield"></input><p class="leg-list-title"><br>G.K. Butterfield</p><p class="thumb-district">District 1</p>
         </div>
         <div class="leg-list-col col-lg-3 col-md-3 col-sm-3 col-xs-6">
           <a><input class="picwid switch ellmers-pic" type="button" name="g"  value="ellmers"></input></a><p class="leg-list-title"><br>Renee Ellmers</p><p class="thumb-district">District 2</p>
@@ -223,7 +226,7 @@
   <!-- DataTables -->
   <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.6/js/jquery.dataTables.js"></script>
   <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/responsive/1.0.5/js/dataTables.responsive.js"></script>
-  <script type="text/javascript" src="js/end.js"></script>
+
 
 </body>
 

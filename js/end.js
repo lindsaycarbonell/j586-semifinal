@@ -46,7 +46,7 @@ $(document).ready(function(){
     });
 });
 
-function hideSome(showThis){
+function hideSome(){
   $('#main-graph').show();
   $('#rep-name').empty();
   $('#descr-district').empty();
@@ -58,17 +58,31 @@ function hideSome(showThis){
 
 /*epic if/else to switch through charts*/
 
-    $('.switch').click(function(){
+  function switchFun(name){
 
+    console.log(arr_legislators.length);
+
+    for(var i; arr_legislators.length; i++){
+      console.log(arr_legislators[i]);
+    }
+
+      console.log("sent to switch: " + name);
 
       //console.log("switch function starts");
-      var lastName = this.getAttribute("value");
+      //var lastName = this.getAttribute("value");
       //console.log("last name: " + lastName);
+
+
+}
+
+function nope(){
 
       //ADAMS
       if(lastName == 'adams'){
 
         hideSome();
+
+
 
         $('#rep-name').append('<p class="rep-name">Alma Adams</p>');
         $('#descr-district').append('<p class="descr-district"><span class="subber">District: </span> 12</p>');
@@ -103,7 +117,6 @@ function hideSome(showThis){
 
         }); //end chart
 
-        console.log("Orgs after else if adams: " + organizationAdams);
       } //end adams
 
       //BUTTERFIELD
@@ -549,4 +562,5 @@ function hideSome(showThis){
       } //end walker
 
 
-    }); //end switch function
+
+  };

@@ -1,0 +1,105 @@
+[{
+	"first_name": "george",
+	"last_name": "butterfield",
+	"full_name": "G.K. Butterfield",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00027035&newMem=N&cycle=2014",
+	"district": 1,
+	"party": "Democrat"
+
+}, {
+	"first_name": "renee",
+	"last_name": "ellmers",
+	"full_name": "Renee Ellmers",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00031513&newMem=N&cycle=2014",
+	"district": 2,
+	"party": "Republican"
+
+}, {
+	"first_name": "walter",
+	"last_name": "jones",
+	"full_name": "Walter Jones Jr.",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?cycle=2014&cid=N00002299",
+	"district": 3,
+	"party": "Republican"
+
+}, {
+	"first_name": "david",
+	"last_name": "price",
+	"full_name": "David Price",
+	"link": "https://www.opensecrets.org/politicians/contrib.php?cycle=2014&type=I&cid=N00002260&newMem=N&recs=20",
+	"district": 4,
+	"party": "Democrat"
+
+}, {
+	"first_name": "virginia",
+	"last_name": "foxx",
+	"full_name": "Virginia Foxx",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00026166&newMem=N&cycle=2014",
+	"district": 5,
+	"party": "Republican"
+
+}, {
+	"first_name": "bradley",
+	"last_name": "walker",
+	"full_name": "Bradley Walker",
+	"link": "http://influenceexplorer.com/politician/bradley-walker-r/56f3daa153564e82b93a2c12ecfbb8cc",
+	"district": 6,
+	"party": "Republican"
+
+}, {
+	"first_name": "david",
+	"last_name": "rouzer",
+	"full_name": "David Rouzer",
+	"link": "https://www.opensecrets.org/politicians/contrib.php?cid=N00033527&cycle=2014&type=I&newMem=Y&recs=100",
+	"district": 7,
+	"party": "Republican"
+
+}, {
+	"first_name": "richard",
+	"last_name": "hudson",
+	"full_name": "Richard Hudson",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00033630&newMem=N&cycle=2014",
+	"district": 8,
+	"party": "Republican"
+
+}, {
+	"first_name": "robert",
+	"last_name": "pittenger",
+	"full_name": "Robert Pittenger",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00034416&newMem=N&cycle=2014",
+	"district": 9,
+	"party": "Republican"
+
+}, {
+	"first_name": "patrick",
+	"last_name": "mcHenry",
+	"full_name": "Patrick McHenry",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00026627&newMem=N&cycle=2014",
+	"district": 10,
+	"party": "Republican"
+
+}, {
+	"first_name": "mark",
+	"last_name": "meadows",
+	"full_name": "Mark Meadows",
+	"link": "https://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00033631&newMem=N&cycle=2014",
+	"district": 11,
+	"party": "Republican"
+
+}, {
+	"first_name": "alma",
+	"last_name": "adams",
+	"full_name": "Alma Adams",
+	"link": "https://www.opensecrets.org/politicians/contrib.php?cid=N00035451&cycle=2014",
+	"district": 12,
+	"party": "Democrat"
+
+}, {
+	"first_name": "george",
+	"last_name": "holding",
+	"full_name": "George Holding",
+	"link": "http://www.opensecrets.org/politicians/contrib.php?type=C&cid=N00033399&newMem=N&cycle=2014",
+	"district": 13,
+	"party": "Republican"
+
+}]

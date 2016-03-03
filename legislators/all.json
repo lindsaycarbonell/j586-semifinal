@@ -1,5 +1,4 @@
 {
-  "donations": {
     "adams": [
       {
         "organization": "EMILY's List",
@@ -773,5 +772,4 @@
         "totals": "10000"
       }
     ]
-  }
 }
