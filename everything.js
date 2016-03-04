@@ -506,6 +506,13 @@ function hideSome(){
       document.getElementById('descr-party').innerHTML = '<p class="' + clickedLeg.party.toLowerCase() + '"><span class="subber">Party: </span>' + clickedLeg.party + '</p>';
       document.getElementById('rep-pic').innerHTML = '<div class="picwid ' + clickedLeg.last_name.toLowerCase() + '-pic"></div>';
 
+
+    }
+
+    /*************** KEEP GOING FROM HERE!!!!! ***********/
+
+    function buildChart(){
+
     }
 
 function nope(){
